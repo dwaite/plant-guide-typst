@@ -1,0 +1,32 @@
+// Agastache Sunset Hyssop — Agastache rupestris 'Sunset'
+// Edit this file to update plant-specific content.
+
+#import "../../template.typ": *
+
+#plant-header("Agastache Sunset Hyssop", "Agastache rupestris 'Sunset'", "hyssop")[
+  Agastache Sunset Hyssop produces striking apricot-pink flower spikes from July through September on licorice-scented foliage. An outstanding late-season hummingbird and butterfly magnet. Short-lived perennial (2–4 years) but can self-seed. Native to the rocky Southwest and exquisitely adapted to Colorado's dry conditions — provided the drainage is right. Established — on drip irrigation. DRAINAGE WARNING: See Other Care.
+]
+
+=== Watering
+
+Established plants on drip: very drought tolerant. Target 1–2 gallons per watering event, once per week in summer. For 1 gph emitters, run 15 minutes. In clay soil, run the drip zone no more than once every 10–14 days and check soil moisture before each cycle. Agastache in clay needs significantly less water than most perennials. Stop irrigation entirely by mid-September — wet fall and winter soil is the primary cause of plant loss.
+
+=== Fertilization
+
+No fertilization. Agastache prefers lean soil — consistent with your high-P soil test. Do not apply any fertilizer. A very light application of ammonium sulfate or potassium sulfate in early spring is acceptable if desired, but many growers apply nothing and achieve excellent results. Drainage matters far more than nutrition.
+
+=== Pruning & Maintenance
+
+Cut back to 4–6 inches in late spring (late April–May) as new growth emerges from the base — do not cut in fall, as the stems provide crown insulation through the winter. Deadhead or shear lightly in mid-summer if plants look ragged, to encourage a fresh flush of blooms.
+
+=== Wildlife Value
+
+Agastache Sunset Hyssop may be the best hummingbird plant in your landscape. Unidentified hummingbirds visiting Commerce City during July–September are especially attracted to the orange-pink tubular flowers. Monarch and painted lady butterflies, swallowtails, and sphinx moths also feed heavily on the blooms. The long bloom season (July through frost) makes this plant exceptionally valuable for migratory wildlife. House finches visit seed heads in fall. The aromatic foliage deters cottontail rabbits effectively.
+
+=== Pests & Disease
+
+Agastache has very few pest problems when drainage is adequate. #link("https://www.google.com/search?q=agastache+root+rot+treatment")[Root and crown rot] in poorly drained clay is the overwhelming primary cause of plant failure — there is no treatment once established, only prevention through drainage management (see Other Care). #link("https://www.google.com/search?q=agastache+powdery+mildew+treatment")[Powdery mildew] can occur in humid late-summer periods — improve air circulation; the plant usually recovers on its own in Colorado's dry climate.
+
+=== Other Care
+
+CLAY SOIL IS THE HIGHEST RISK FACTOR. Agastache rupestris is native to rocky slopes and will reliably rot and die in wet, heavy clay — particularly during Colorado's wet spring and winter months. To grow this successfully: (a) plant in a xeriscape bed where clay has been replaced or heavily amended with 50%+ coarse grit and gravel to 12" depth, or (b) grow in a container. Without excellent drainage, this plant will likely not survive its first winter. Allow some self-seeding for continuity.
