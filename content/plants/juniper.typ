@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: in clay soil, the drying cycle is significantly slower than average — check soil moisture at 4-inch depth before each cycle. In a typical summer, run the drip zone 30–45 minutes (3–5 gallons for standard 1 gph emitters) once per week. During extended heat over 95°F or dry spells lasting 2+ weeks, increase to twice per week. Skip irrigation cycles entirely if the soil is still moist at 4 inches. Overwatering in clay is the leading cause of death for junipers — err on the side of too dry rather than too wet.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Wichita Blue Juniper is drought tolerant but still in its second establishment season. In clay soil, overwatering is a greater risk than underwatering — the schedule's dry-down interval between cycles is beneficial for this plant. Never allow water to pool at or near the root crown.
 
 === Fertilization
 

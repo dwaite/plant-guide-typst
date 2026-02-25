@@ -4,16 +4,16 @@
 #import "../../template.typ": *
 
 #plant-header("Miss Kim Lilac", "Syringa pubescens subsp. patula 'Miss Kim'", "miss_kim")[
-  Miss Kim is a compact, disease-resistant Korean lilac prized for its intensely fragrant lavender flowers in late May and deep burgundy fall foliage. Far smaller than common lilacs (6–7 ft. tall and wide). Slow-growing by nature — plants typically put on only 4–8 inches per year once established. Established 2+ years — on drip irrigation.
+  Miss Kim is a compact, disease-resistant Korean lilac prized for its intensely fragrant lavender flowers in late May and deep burgundy fall foliage. Far smaller than common lilacs (6–7 ft. tall and wide). Slow-growing by nature — plants typically put on only 4–8 inches per year once established. Located on the east side of the house with morning sun only — afternoon shade from the house begins around midday. This exposure is favorable in Colorado: afternoon shade reduces powdery mildew risk and leaf scorch compared to full-sun placement. Fully established since 2022 — on drip irrigation.
 ]
 
 === Watering
 
-Established plants on drip: target 3–5 gallons per watering event, 1–2 times per week in summer. For 1 gph emitters, run 30–45 minutes. Miss Kim is moderately drought tolerant once established. In your clay soil, check moisture at 4-inch depth before each cycle — clay retains water significantly longer than average. Overwatering in clay creates crown rot risk, especially at the foundation. Never let water pool at the base. In dry autumns, continue watering through October until the ground freezes.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. As a fully established shrub (since 2022) in afternoon shade, water demand is lower than a full-sun plant of the same size — the 0.5 gph emitter is appropriate. Clay soil retains moisture significantly between cycles; overwatering in clay creates crown rot risk. Never let water pool at the base. Continue drip support through October in dry autumns; the system can run its normal fall taper for this plant.
 
 === Fertilization
 
-Your soil has HIGH phosphorus — do not use 10-10-10 or any P-containing fertilizer. Apply a light N-K formula (16-0-8 or similar) once in early spring before leaf-out. Add potassium sulfate (0-0-50) at half rate in fall — K supports strong flower bud formation and cold hardiness, and yours is LOW. Apply a chelated micronutrient mix in spring. Do not fertilize after bloom.
+Your soil has HIGH phosphorus — do not use 10-10-10 or any P-containing fertilizer. As a fully established shrub, light N-K fertilization in spring is fine but not critical year to year — do not over-feed. Potassium sulfate (0-0-50) in fall and chelated micronutrients in spring are the more important annual tasks: K supports strong flower bud formation and cold hardiness (yours is LOW), and micronutrients address the very low iron and zinc in your soil. Do not fertilize after bloom.
 
 === Pruning & Maintenance
 
@@ -25,7 +25,7 @@ The intensely fragrant late-May blooms are excellent for butterflies (especially
 
 === Pests & Disease
 
-#link("https://www.google.com/search?q=lilac+powdery+mildew+treatment")[Powdery mildew] (white powder on leaves in late summer) is the most common lilac disease — Miss Kim is significantly more resistant than French hybrids, but can still be affected. Improve air circulation, avoid overhead watering. If treatment is needed, apply neem oil or a potassium bicarbonate spray in the morning. #link("https://www.google.com/search?q=lilac+borer+treatment")[Lilac borer] creates sawdust-like frass at branch junctions — prune and dispose of affected canes. #link("https://www.google.com/search?q=lilac+bacterial+blight+treatment")[Bacterial blight] causes blackened shoots in spring after wet weather — prune 12" below damage with sterilized tools, avoid overhead watering.
+#link("https://www.google.com/search?q=lilac+powdery+mildew+treatment")[Powdery mildew] (white powder on leaves in late summer) is the most common lilac disease — Miss Kim is significantly more resistant than French hybrids, but can still be affected. The east-facing, afternoon-shaded exposure reduces this risk further, since powdery mildew thrives in hot, stagnant conditions. Improve air circulation, avoid overhead watering. If treatment is needed, apply neem oil or a potassium bicarbonate spray in the morning. #link("https://www.google.com/search?q=lilac+borer+treatment")[Lilac borer] creates sawdust-like frass at branch junctions — prune and dispose of affected canes. #link("https://www.google.com/search?q=lilac+bacterial+blight+treatment")[Bacterial blight] causes blackened shoots in spring after wet weather — prune 12" below damage with sterilized tools, avoid overhead watering.
 
 === Other Care
 

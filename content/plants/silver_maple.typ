@@ -4,16 +4,22 @@
 #import "../../template.typ": *
 
 #plant-header("Silver Maple (Unidentified)", "Acer saccharinum", "maple")[
-  Silver Maple is one of the fastest-growing native North American maples, capable of adding 3–7 feet per year when young. Its deeply lobed leaves are bright green on top and silvery-white beneath. It produces a broad, somewhat irregular crown and reliable yellow fall color. Not on drip irrigation — relies on natural precipitation and site moisture. While extremely adaptable, its rapid growth produces somewhat brittle wood, requiring proactive structural pruning.
+  Silver Maple is one of the fastest-growing native North American maples, capable of adding 3–7 feet per year when young. Its deeply lobed leaves are bright green on top and silvery-white beneath. It produces a broad, somewhat irregular crown and reliable yellow fall color. Located in the center of the front yard lawn zone — watered by the Rachio sprinkler system, not drip. Fully established since 2022. While extremely adaptable, its rapid growth produces somewhat brittle wood, requiring proactive structural pruning.
 ]
 
 === Watering
 
-Silver Maples are not on your drip system. As large established trees, they source most moisture from a wide root zone. During extended summer drought (2+ weeks without measurable rain and temperatures above 90°F), provide a deep supplemental soak: run a soaker hose at the drip line for 2–3 hours, or leave a garden hose on a slow trickle for 3–4 hours, once every 2–3 weeks. In normal years, natural precipitation is adequate for established trees.
+These trees are in the center of the front lawn zone and receive water from the Rachio sprinkler system — not the drip system. Rachio's ET/MAD weather intelligence is already enabled and handles routine weather-based adjustment automatically, increasing run time during heat and reducing it after rain.
+
+As fully established trees (since 2022), Silver Maples are largely self-sufficient under normal sprinkler coverage. They have extensive root systems that access moisture well beyond the irrigated zone. No additional watering is needed under normal summer conditions. The exception is extended heat waves — if daytime highs stay above 95°F for more than a week and the lawn shows drought stress, supplement with a deep hand watering at the drip line once every 2–3 weeks. Signs of stress: leaf margins browning, leaves curling, or premature leaf drop in summer.
 
 === Fertilization
 
-Your soil has HIGH phosphorus and LOW nitrogen — use an N-K formula only (such as ammonium sulfate 21-0-0 or a 16-0-8 blended fertilizer) in early spring at the drip line for young trees. Do not use 10-10-10 or any phosphorus-containing fertilizer. Apply a chelated micronutrient package (supplying Fe, Zn, Cu, B, Mn) in May — your soil test shows all of these are very low. Mature, established trees in good soil need very little N-K feeding; focus on the annual chelated micronutrient application. Do not fertilize after July.
+Established Silver Maples in a regularly fertilized lawn are already receiving nitrogen through turf applications — additional N feeding is typically unnecessary and can promote excessive soft growth. Focus the fertilization program on micronutrients rather than macronutrients.
+
+Apply a chelated micronutrient package (Fe, Zn, Cu, B, Mn) in May — this is the primary annual task for established maples given your very low micronutrient readings. Use EDDHA chelated iron specifically. Apply supplemental nitrogen (ammonium sulfate 21-0-0) only if deficiency symptoms appear: pale, yellowing foliage with otherwise healthy form, or noticeably reduced annual growth.
+
+Your soil has HIGH phosphorus — never use any P-containing fertilizer. Do not fertilize after July.
 
 === Pruning & Maintenance
 
@@ -29,4 +35,10 @@ Silver Maple produces abundant winged seeds (samaras) in spring that are an impo
 
 === Other Care
 
-Mulch 2–3 inches deep out to the drip line. Keep mulch several inches back from the trunk base. Silver Maple's aggressive surface roots can lift sidewalks and invade irrigation lines — plant and maintain away from hardscaping. Wrap young trunks through the first few winters to prevent sunscald on the southwest-facing bark. Because these trees are unidentified, take note of any unusual traits (fruit type, bark texture) that may help confirm the species as they mature.
+Mulch 2–3 inches deep out to the drip line. Keep mulch several inches back from the trunk base. Silver Maple's aggressive surface roots can lift sidewalks and invade irrigation lines — plant and maintain away from hardscaping.
+
+#warning-callout("Trunk Wrap — Fall 2026 Priority")[
+  Trunk wrap was not installed on the Silver Maples for winter 2025–26. Inspect both trunks in early spring for frost crack (vertical bark splits on the south or southwest side) and sunscald (sunken, discolored bark). Neither is fatal if caught early — keep the area dry and do not seal or paint. Installing trunk wrap (paper-based, not plastic) in October–November 2026, before the first hard freeze, is a first-priority fall task. Remove wraps in early March each year. Continue annual wrapping until the bark thickens and becomes less vulnerable, typically 5–7 years after planting.
+]
+
+Because these trees are unidentified, take note of any unusual traits (fruit type, bark texture) that may help confirm the species as they mature.

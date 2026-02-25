@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: very drought tolerant. Target 1–2 gallons per watering event, once per week in summer. For 1 gph emitters, run 15 minutes. In clay soil, run the drip zone no more than once every 10–14 days and check soil moisture before each cycle. Agastache in clay needs significantly less water than most perennials. Stop irrigation entirely by mid-September — wet fall and winter soil is the primary cause of plant loss.
+On drip irrigation with a *0.5 gph emitter* — the minimum needed during establishment. See the Irrigation & Watering section for the shared drip schedule. Agastache is very drought tolerant and needs significantly less water than the trees on the same schedule. Wet fall and winter soil in clay is the primary cause of plant loss — stop drip support entirely by mid-September.
 
 === Fertilization
 

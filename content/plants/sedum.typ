@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: in clay soil, target 1–2 gallons per watering event, once per week in summer. For 1 gph emitters, run 15–20 minutes. The clay holds moisture significantly longer than average — check soil moisture at 3-inch depth before each cycle and skip irrigation if still damp. Water less frequently than you think necessary: once every 10–14 days is often adequate in summer. Reduce to once every 2–3 weeks in spring and fall. Dry conditions improve plant quality and reduce stem flopping.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Autumn Joy Sedum is drought tolerant — dry conditions improve plant quality and reduce stem flopping. In clay, the soil's natural moisture retention between cycles is significant; the shared schedule at low emitter output is appropriate. Reduce or stop drip support in early fall.
 
 === Fertilization
 

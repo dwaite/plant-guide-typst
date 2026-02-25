@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(typst compile:*)",
+      "Bash(/Users/david/.cargo/bin/typst compile main.typ plant_care_guide.pdf)",
+      "Bash(done)",
+      "Bash(for f in crabapple juniper blue_spruce mugo_pine cotoneaster yankee_doodle_lilac bluebeard yarrow agastache penstemon sedum blue_grama switchgrass)",
+      "Bash(do)",
+      "Bash(echo \"=== FILE: $f.typ ===\")",
+      "Bash(python3 -c \":*)",
+      "Bash(python3:*)",
+      "Bash(/opt/homebrew/bin/typst compile /Users/david/Downloads/plant-guide-typst/main.typ /Users/david/Downloads/plant-guide-typst/plant_care_guide.pdf)",
+      "Bash(~/.cargo/bin/typst compile /Users/david/Downloads/plant-guide-typst/main.typ /Users/david/Downloads/plant-guide-typst/plant_care_guide.pdf)",
+      "Bash(/Users/david/.cargo/bin/typst compile /Users/david/Downloads/plant-guide-typst/main.typ /Users/david/Downloads/plant-guide-typst/plant_care_guide.pdf)",
+      "Bash(grep -h 'plant-header' /Users/david/Downloads/plant-guide-typst/content/plants/*.typ)",
+      "Bash(make build)",
+      "Bash(make check)",
+      "Bash(make images)"
+    ]
+  }
+}

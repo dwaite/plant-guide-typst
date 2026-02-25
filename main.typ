@@ -33,6 +33,9 @@
 // ── Soil Profile & Nutrition ─────────────────────────────────
 #include "content/soil.typ"
 
+// ── Irrigation & Watering ────────────────────────────────────
+#include "content/watering.typ"
+
 
 // ══════════════════════════ PLANT SECTIONS ════════════════════
 
@@ -91,6 +94,8 @@
 // ── Potted Plants ────────────────────────────────────────────
 #group-header("POTTED PLANTS")
 #include "content/plants/knockout_roses.typ"
+#pagebreak()
+#include "content/plants/bacopa.typ"
 #pagebreak()
 #include "content/plants/candytuft.typ"
 

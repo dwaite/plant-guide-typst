@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: moderate water use for a native grass. Target 2–3 gallons per watering event, once per week in summer. For 1 gph emitters, run 25–35 minutes. Switchgrass tolerates both moderate drought and occasional wet periods — it is genuinely adaptable to clay soil conditions, which is unusual. In your clay, once-weekly drip irrigation is appropriate through summer, tapering to every 2 weeks in fall.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well at low emitter output. No supplemental irrigation needed once the plant goes dormant in fall.
 
 === Fertilization
 

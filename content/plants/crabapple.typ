@@ -9,11 +9,11 @@
 
 === Watering
 
-Established trees on drip: target 8–12 gallons per watering event, 2 times per week in June–August. For 1 gph emitters, run the zone 60–75 minutes per cycle. Reduce to once per week in May, September, and October. Supplemental irrigation during extended dry summer spells improves tree health and next year's bloom potential. Water deeply rather than frequently — encourage roots to grow downward.
+On drip irrigation with a *1 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom. Deep watering encourages roots to grow downward.
 
 === Fertilization
 
-Use an N-K formula only — your soil has HIGH phosphorus so avoid any balanced or phosphorus-containing fertilizer. Apply in early spring before leaf-out. Apply a chelated micronutrient package in May — crabapple is susceptible to iron and zinc deficiency in alkaline clay soils, and your soil test confirms both are very low. Avoid high-nitrogen fertilizers after mid-July. Compost mulch around the drip line benefits soil health over time.
+Use ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides a mild acidification side benefit at your pH 7.27, improving micronutrient availability with no extra product or effort. Avoid any balanced or phosphorus-containing fertilizer (your soil P is HIGH). Apply in early spring before leaf-out. Apply a chelated micronutrient package in May — crabapple is susceptible to iron and zinc deficiency in alkaline clay soils, and your soil test confirms both are very low. Avoid high-nitrogen fertilizers after mid-July. Compost mulch around the drip line benefits soil health over time.
 
 === Pruning & Maintenance
 

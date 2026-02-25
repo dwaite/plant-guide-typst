@@ -7,59 +7,20 @@
 #pagebreak(weak: true)
 = Seasonal Calendar
 
+#danger-callout("Spring 2026 — Priority Inspection")[
+  Trunk wrap was not applied to young trees for winter 2025–26. Inspect the
+  Silver Maples and Autumn Brilliance Serviceberry in early spring for frost
+  crack (vertical bark splits, usually on the south or southwest side) and
+  sunscald (sunken, discolored bark in the same area). Neither is necessarily
+  fatal but should be monitored — affected bark may need light cleaning of
+  loose material and the area kept dry. Do not paint or seal. Installing trunk
+  wrap before next winter (October–November) is a first-priority task for
+  fall 2026.
+]
+
 Commerce City average last frost: \~May 10.
 Average first fall frost: \~October 5.
 Zone 5b winter minimum temperatures: −15°F to −10°F.
-
-#v(0.6em)
-
-// ── Overview table ───────────────────────────────────────────
-#table(
-  columns: (0.8fr, 1fr, 4.5fr),
-  fill: tbl-fill,
-  stroke: tbl-stroke,
-  align: (left, left, left),
-
-  tbl-header-text[Month],
-  tbl-header-text[Season],
-  tbl-header-text[Key Tasks],
-
-  [*January*],   [Winter],
-  [Winter water all trees/shrubs on days above 40°F. Check Rose and Candytuft storage. Inspect tree wraps. Review guide; order spring supplies.],
-
-  [*February*],  [Winter],
-  [Prune Silver Maples before bud break. Prune deciduous trees and shrubs while dormant (except lilacs). Cut ornamental grasses to 4–6". Continue winter watering on warm days.],
-
-  [*March*],     [Late Winter / Early Spring],
-  [Apply pre-emergent (lawn & beds) when forsythia blooms. Start drip system if last freeze has passed. Pull mulch back from plant crowns. Check soil for winter heaving.],
-
-  [*April*],     [Spring],
-  [Apply N-K fertilizer to trees and shrubs. Refresh mulch to 2–3". Move potted plants outside after last frost (~May 10). Begin mowing at 2.5–3".],
-
-  [*May*],       [Spring],
-  [Apply chelated micronutrient package to ALL in-ground plants — highest priority task. Apply EDDHA iron to Honeylocust and Japanese Maple. Begin first lawn fertilization.],
-
-  [*June*],      [Early Summer],
-  [Prune lilacs immediately after bloom — do not delay. Apply second EDDHA iron to Honeylocust. Deep water Japanese Maple 3×/week if afternoon sun stress is visible.],
-
-  [*July*],      [Summer],
-  [Prune Silver Maples if needed (July window). Light summer lawn fertilization. Monitor Japanese Maple for leaf scorch. Check drip emitters. Last fertilizer before heat.],
-
-  [*August*],    [Late Summer],
-  [Core aerate lawn in late August. Reduce watering on Bluebeard and Agastache. Apply second pre-emergent to lawn and beds. Begin fall overseeding planning.],
-
-  [*September*], [Fall],
-  [Primary fall lawn care: N-K fertilizer + potassium sulfate. Overseed after aeration. Apply potassium sulfate to all trees and shrubs. Reduce drip irrigation frequency.],
-
-  [*October*],   [Fall],
-  [Apply K-heavy winterizer to lawn (late October). Move potted plants to storage before hard freeze. Deep water all plants before ground freeze. Mulch tender perennials.],
-
-  [*November*],  [Late Fall],
-  [Final deep watering before ground freeze. Blow out/drain irrigation system. Install tree wraps on young Silver Maples. Leave grass/perennial seed heads for wildlife.],
-
-  [*December*],  [Winter],
-  [Check stored potted plants monthly — barely damp. Inspect trunk wraps and rabbit guards. Avoid walking on frozen lawn. Plan next year soil testing and supply orders.],
-)
 
 
 // ── Monthly task checklist ───────────────────────────────────
@@ -102,8 +63,10 @@ Check off each task as completed. Tasks listed in priority order within each mon
 // ── April ───────────────────────────────────────────────────
 #heading(level: 2)[April]
 #check[Apply N-K fertilizer to trees and shrubs (16-0-8 or ammonium sulfate + potassium sulfate)]
-#check[Apply acidifying fertilizer (Hollytone or ammonium sulfate) to Japanese Maple]
-#check[Refresh mulch to 2–3 inches depth in all beds]
+#check[Apply acidifying fertilizer (Hollytone or ammonium sulfate) to Japanese Maple and Mugo Pine]
+#check[Refresh potting mix (top third) with fresh Miracle-Gro Moisture Control — work in hydrogel crystals and a small amount of elemental sulfur; replace pea gravel layer with foam packing peanuts if not already done]
+#check[Refresh mulch to 2–3 inches depth in all beds; use shredded pine bark around Mugo Pine base]
+#check[Refresh Japanese Maple mulch to 4-inch depth, extended to full drip line]
 #check[Begin mowing lawn at 2.5–3 inches when bluegrass resumes active growth]
 #check[Rake and clean debris from crushed rock areas]
 #check[Second application of pre-emergent in beds if needed]
@@ -112,9 +75,10 @@ Check off each task as completed. Tasks listed in priority order within each mon
 #heading(level: 2)[May]
 #check[*Apply chelated micronutrient package (Fe/Zn/Cu/B/Mn) to ALL in-ground trees, shrubs, and perennials — highest priority task of the year*]
 #check[Apply EDDHA chelated iron soil drench to Honeylocust and Japanese Maple specifically]
+#check[Apply liquid chelated iron (EDTA form) to rose containers as monthly drench — continue through August to maintain iron availability as irrigation water raises container pH through summer]
 #check[First lawn fertilization (N-K formula, \~1 lb N/1,000 sq ft)]
 #check[Begin sprinkler system regular schedule (1.0–1.5 in/week total)]
-#check[Move potted plants outside after last frost (\~May 10)]
+#check[Move potted plants outside after last frost (\~May 10); plant White Bacopa companions in containers]
 #check[Monitor for pest emergence (aphids, scale, lilac borer, honeylocust plant bug)]
 #check[Begin deadheading daylilies as blooms finish]
 
@@ -123,14 +87,19 @@ Check off each task as completed. Tasks listed in priority order within each mon
 #check[Prune Miss Kim Lilac immediately after bloom — do not wait past late June]
 #check[Prune Yankee Doodle Lilac immediately after bloom]
 #check[Apply second EDDHA iron drench to Honeylocust]
-#check[Deep water Japanese Maple 3× per week if leaf margins show brown/curling]
+#check[Apply monthly chelated iron (EDTA) drench to rose containers]
+#check[Supplement Japanese Maple drip with hand watering during heat waves — drip schedule alone may be insufficient in full afternoon sun]
+#check[Begin weekly spider mite inspections on Dwarf Globe Blue Spruce — check branch undersides for fine webbing and stippled needles]
 #check[Second lawn fertilizer (light N, 0.5 lb N/1,000 sq ft)]
 #check[Scout all plants for pests — treat early before populations build]
 
 // ── July ────────────────────────────────────────────────────
 #heading(level: 2)[July]
 #check[Prune Silver Maples if needed (preferred summer window)]
-#check[Monitor Japanese Maple for leaf scorch — increase watering if needed]
+#check[Apply second EDDHA chelated iron drench to Japanese Maple (early July, before peak heat)]
+#check[Apply monthly chelated iron (EDTA) drench to rose containers]
+#check[Monitor Japanese Maple for leaf scorch — supplement drip with hand watering during heat waves]
+#check[Continue weekly spider mite inspections on Dwarf Globe Blue Spruce through August]
 #check[Check drip emitters — flush or replace any clogged heads]
 #check[Last fertilizer application before heat break (stop by mid-July)]
 #check[Monitor lawn for dry spots, summer patch, or spider mite stress]
@@ -138,6 +107,7 @@ Check off each task as completed. Tasks listed in priority order within each mon
 // ── August ──────────────────────────────────────────────────
 #heading(level: 2)[August]
 #check[Core aerate lawn in late August (highest-impact annual lawn task)]
+#check[Apply monthly chelated iron (EDTA) drench to rose containers — final application of the season]
 #check[Reduce watering on Bluebeard and Agastache significantly]
 #check[Apply second pre-emergent to lawn and beds (crabgrass, late-season annual weeds)]
 #check[Plan fall overseeding of thin lawn areas (seed immediately after aerating)]
@@ -155,7 +125,8 @@ Check off each task as completed. Tasks listed in priority order within each mon
 // ── October ─────────────────────────────────────────────────
 #heading(level: 2)[October]
 #check[Apply K-heavy winterizer fertilizer to lawn (late October)]
-#check[Move Knock Out Roses and Candytuft into winter storage before first hard freeze (\<20°F)]
+#check[*Install trunk wraps on Silver Maples AND Autumn Brilliance Serviceberry before first hard freeze — this was missed in 2025–26 and is a first-priority fall task*]
+#check[Move Knock Out Roses and Candytuft into winter storage before first hard freeze (\<20°F); OR wrap pot bodies in burlap/foam insulation, group against east house wall, and install frost cloth tent over plants and pots]
 #check[*Deep water ALL trees, shrubs, and perennials before ground freeze — most critical fall task*]
 #check[Continue mowing until growth stops completely]
 #check[Mulch tender crowns (Agastache, Penstemon, Bluebeard) with 3–4 in of mulch]
@@ -166,8 +137,10 @@ Check off each task as completed. Tasks listed in priority order within each mon
 #check[Final deep watering of all plants if soil is not yet frozen]
 #check[Winterize drip irrigation system (blow out or drain)]
 #check[Winterize sprinkler system (blow out)]
-#check[Install tree wraps on young Silver Maple trunks (prevent sunscald and frost crack)]
+#check[Install tree wraps on Silver Maples and Serviceberry if not done in October]
+#check[Apply anti-desiccant spray (Wilt-Pruf or similar) to Wichita Blue Juniper and Dwarf Globe Blue Spruce in late November — reduces winter desiccation from Commerce City's prevailing north/northwest winter winds]
 #check[Install wire cylinders around young trees to prevent rabbit damage]
+#check[Check wrapped outdoor pots on warm days above 40°F — ventilate briefly, replace covering before evening]
 #check[No fertilizer from this point until March]
 
 // ── December ────────────────────────────────────────────────

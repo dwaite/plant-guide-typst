@@ -9,11 +9,11 @@
 
 === Watering
 
-Established plants on drip: very drought tolerant once established. Target 2–4 gallons per watering event, once per week in summer. For 1 gph emitters, run 30–45 minutes. In dry summers, water 2–3 times per month to prevent needle browning. In clay soil, check moisture at 4-inch depth before each cycle — skip if still moist. Avoid overwatering and poorly drained locations.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Mops Mugo Pine is drought tolerant and sensitive to overwatering — it needs the least water of any of the evergreens on the drip system. In clay, the combination of low emitter output and the soil's natural moisture retention is appropriate. Skip or reduce output if the root zone is still moist going into a cycle.
 
 === Fertilization
 
-If feeding at all, use a slow-release N-K evergreen formula with zero phosphorus (your soil P is HIGH). A chelated micronutrient application in spring addresses your very low Fe, Zn, and Cu, which are more limiting than macronutrients. A light application every 1–2 years is sufficient — over-fertilizing promotes excessive candle elongation and disrupts the compact form.
+Mops Mugo Pine prefers pH 4.5–6.5 — your soil at pH 7.27 is the second-largest pH mismatch of any plant in the landscape (after Japanese Maple). Use ammonium sulfate (21-0-0) or Hollytone (4-3-4) as the nitrogen source; both acidify the root zone gradually over time. Apply lightly every 1–2 years in spring. A chelated micronutrient application in spring addresses your very low Fe, Zn, and Cu, which are more limiting than macronutrients. Over-fertilizing promotes excessive candle elongation and disrupts the compact form — light is correct. Use shredded pine bark as the mulch material around the base rather than wood chip mulch; pine bark provides mild ongoing acidification as it breaks down.
 
 === Pruning & Maintenance
 

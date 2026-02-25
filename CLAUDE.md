@@ -17,22 +17,68 @@ typst watch main.typ plant_care_guide.pdf      # watch mode (auto-recompile)
   - LOW potassium → supplement with 0-0-50 potassium sulfate
   - VERY LOW micronutrients (Fe, Zn, Cu, B, Mn) → annual chelated package in May
 - **Last frost:** ~May 10 · **First fall frost:** ~October 5
+- **Wind:** Significant; prevailing winter winds from north and northwest
+
+## Irrigation System
+Three distinct systems — do not write watering recommendations as if plants have
+individually controllable schedules. Frame drip guidance around emitter output, not
+frequency.
+
+- **Drip system:** All trees and shrubs except Silver Maples and Honeylocust. All
+  drip zones share one schedule. Emitter output rate (gph) is the primary per-plant
+  adjustment mechanism.
+- **Sprinkler system (Rachio):** Silver Maples and Skyline Honeylocust are in the
+  center of lawn zones — sprinkler-only. Rachio ET/MAD weather intelligence is
+  already enabled on lawn zones.
+- **Manual watering:** Potted plants only. Check soil at 2-inch depth; daily
+  watering not always necessary given east-facing afternoon shade.
+
+## Plant Ages & Establishment Status
+- **Fully established (planted 2022):** Silver Maples, Miss Kim Lilacs, Daylilies,
+  Kentucky Bluegrass lawn
+- **Second-season establishment (planted 2024):** All other trees and shrubs —
+  Skyline Honeylocust, Spring Snow Crabapple, Autumn Brilliance Serviceberry,
+  Emperor Japanese Maple, Wichita Blue Juniper, Dwarf Globe Blue Spruce, Mops
+  Mugo Pine, Yankee Doodle Lilac, Peking Cotoneaster, Dark Knight Bluebeard,
+  and all perennials and grasses planted in 2024. Second season is highest-risk
+  establishment year — extra attention to watering and mulch through summer 2026.
+- **New 2025:** Knock Out Roses (potted), Bacopa (annual — no overwintering),
+  Candytuft (potted, survival through winter 2025–26 uncertain)
+
+## Sun Exposure by Location
+- **East front yard (morning sun only, afternoon shade from house):** Silver Maples,
+  Miss Kim Lilacs, Daylilies, Potted plants (Knock Out Roses, Bacopa, Candytuft)
+- **West back yard (mid-morning sun onward, full afternoon sun):** Emperor Japanese
+  Maple (center), Dwarf Globe Blue Spruce
+- **South back yard (full afternoon sun — most stressful exposure):** Autumn
+  Brilliance Serviceberry
+- **Full sun (remaining plants):** Skyline Honeylocust, Wichita Blue Juniper,
+  Peking Cotoneaster, Yankee Doodle Lilac, Dark Knight Bluebeard, Spring Snow
+  Crabapple, Rocky Mountain Penstemon, White Yarrow, Agastache Sunset Hyssop,
+  Blonde Ambition Blue Grama, Northwind Switchgrass, Autumn Joy Sedum, Mops Mugo
+  Pine
+
+## Pending / Deferred
+- **Candytuft survival:** Do not edit `candytuft.typ` until spring 2026 confirms
+  survival or loss. See handoff notes within that file for what to do in each case.
 
 ## File Roles
 
 | File | Purpose | Edit for... |
 |------|---------|-------------|
+| `Makefile` | Build targets: `build`, `watch`, `open`, `clean`, `check`, `images` | Adding build steps |
 | `main.typ` | Document assembly and ordering only | Reordering sections, adding new plant files |
 | `template.typ` | All styling — colours, fonts, helper functions | Visual changes, new helper functions |
-| `content/soil.typ` | Soil profile table + recommended products | Soil data, product recommendations |
+| `content/watering.typ` | Irrigation & Watering section — drip schedule, emitter sizing table, sprinkler/manual notes | Drip schedule changes, emitter size changes for any plant |
+| `content/soil.typ` | Soil profile table, recommended products, application methods | Soil data, product recommendations |
 | `content/wildlife.typ` | Wildlife species table | Adding/editing species or food ratings |
 | `content/fertilizer.typ` | Per-plant application table | Fertilizer changes for any plant |
 | `content/weed_control.typ` | Three-zone weed guide | Weed control updates |
 | `content/task_grid.typ` | 12-month visual task grid | Adding/changing active months per task |
-| `content/calendar.typ` | Seasonal calendar + monthly checklist | Adding/editing seasonal tasks |
+| `content/calendar.typ` | Spring 2026 priority callout + month-by-month checkbox checklist (no overview table) | Adding/editing seasonal tasks |
 | `content/plants/*.typ` | One file per plant — mostly prose | Plant care text, callouts |
 
-## Plants (22 total)
+## Plants (23 total)
 
 | Group | File | Common Name |
 |-------|------|-------------|
@@ -57,7 +103,8 @@ typst watch main.typ plant_care_guide.pdf      # watch mode (auto-recompile)
 | Grasses | `blue_grama.typ` | Blonde Ambition Blue Grama |
 | Grasses | `switchgrass.typ` | Northwind Switchgrass |
 | Potted | `knockout_roses.typ` | Knock Out Roses |
-| Potted | `candytuft.typ` | Candytuft |
+| Potted | `bacopa.typ` | White Bacopa (Snowstorm Giant Snowflake) — annual |
+| Potted | `candytuft.typ` | Candytuft — survival uncertain, see Pending above |
 
 ## Template Functions Reference
 
@@ -100,7 +147,11 @@ amber-bg      = rgb("#FFF3CD")   // warning callout background
   their specific knowledge when there's a conflict with generic gardening advice
 - Keep all advice tailored to Commerce City Zone 5b and this specific soil profile
   (alkaline, high-P, low micronutrients) — not generic gardening content
-- Always test with `typst compile main.typ plant_care_guide.pdf` after making
-  changes; fix any compile errors before reporting done
+- Watering recommendations must reflect the actual irrigation system: emitter
+  output for drip plants, Rachio sprinkler for Silver Maples and Honeylocust,
+  manual soil-check for potted plants — never write as if each plant has its own
+  independently scheduled drip zone
+- Always test with `make build` (or `make check`) after making changes; fix any
+  compile errors before reporting done
 - The owner will typically describe what they want changed in plain English —
   find the right file(s), make the edit, and compile to verify

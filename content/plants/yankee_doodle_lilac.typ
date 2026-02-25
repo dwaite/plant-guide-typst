@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: target 4–6 gallons per watering event, 1–2 times per week in summer. For 1 gph emitters, run 45–60 minutes. Deep, infrequent watering is preferred. In clay soil, allow soil to partially dry between cycles. Consistent moisture through the spring bloom period and early summer (when next year's flower buds are setting) is important for good bloom the following year.
+On drip irrigation with a *1 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Consistent moisture during the spring bloom period and early summer — when next year's flower buds are setting — is the most critical period for this plant. The shared schedule through June directly supports bloom quality the following year.
 
 === Fertilization
 

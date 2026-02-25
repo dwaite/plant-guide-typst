@@ -4,16 +4,20 @@
 #import "../../template.typ": *
 
 #plant-header("Autumn Brilliance Serviceberry", "Amelanchier x grandiflora 'Autumn Brilliance'", "serviceberry")[
-  One of Colorado's finest four-season plants: pure white flowers in April, edible blue-purple berries in June, and brilliant orange-red fall color. Native-adjacent, cold hardy, and highly adapted to alkaline Front Range soils. Berries attract birds and pollinators in great numbers — outstanding ecological value. Established 2+ years — on drip irrigation.
+  One of Colorado's finest four-season plants: pure white flowers in April, edible blue-purple berries in June, and brilliant orange-red fall color. Native-adjacent, cold hardy, and highly adapted to alkaline Front Range soils. Berries attract birds and pollinators in great numbers — outstanding ecological value. Located on the south side of the back yard in full afternoon sun — the most stressful sun exposure on the property. Serviceberry generally performs better in east or north-facing exposures in Colorado; this tree will require more attention during establishment than it would in a more sheltered spot. Second-season establishment plant (planted 2024).
 ]
 
 === Watering
 
-Established plants on drip: target 5–8 gallons per watering event, 2 times per week in peak summer. For 1 gph emitters, run the zone 45–60 minutes. Reduce to once per week in May and fall. Consistent moisture during fruit set (May–June) improves berry crop size and quality. Drip irrigation that keeps water off foliage is ideal for this plant — overhead watering promotes fungal issues.
+On drip irrigation with a *1 gph emitter*. The south-facing full-sun exposure elevates water demand above a typical serviceberry — this emitter rate reflects that elevated need relative to most shrubs on the same schedule. See the Irrigation & Watering section for the shared drip schedule.
+
+As a second-season plant in the most stressful location on the property, water demand is at its peak this season. Leaf scorch (brown margins, starting at leaf tips) is likely in hot summers — ensure the emitter is delivering fully and mulch is maintained before scorch appears, not after. Consistent moisture during fruit set (May–June) improves berry crop size and quality. Drip delivery keeps water off foliage, which is ideal for reducing fungal risk.
 
 === Fertilization
 
-Your soil has HIGH phosphorus — do not use phosphorus-rich formulas or bloom boosters. Apply a light N-K formula in early spring. Apply a chelated micronutrient package (especially Fe, Zn, B) in spring — boron is particularly important for fruit set and is very low in your soil. Compost mulching in fall is the preferred long-term soil health approach. Mature, well-established plants need minimal feeding.
+Your soil has HIGH phosphorus — do not use phosphorus-rich formulas or bloom boosters. Use ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides a mild acidification side benefit that is helpful for a plant that prefers slightly lower pH than your 7.27. Apply a light amount in early spring.
+
+Apply a chelated micronutrient package (especially Fe, Zn, B) in spring — boron is particularly important for fruit set and is very low in your soil. Compost mulching in fall is the preferred long-term soil health approach. As a second-season plant, moderate fertilization is appropriate — not aggressive.
 
 === Pruning & Maintenance
 
@@ -29,4 +33,12 @@ Autumn Brilliance Serviceberry is arguably the most wildlife-valuable plant in y
 
 === Other Care
 
-Mulch 2–3 inches deep. This is a multi-stem plant; decide early whether you want a tree form (remove suckers) or a large multi-stem shrub (allow). Either is attractive, but consistency of vision matters as the plant ages. Berries attract heavy bird activity in June — this is a feature, not a problem.
+MULCHING: Mulch 3–4 inches deep (deeper than standard) out to the full drip line — be generous with the outer diameter. The south-facing soil surface receives maximum solar radiation throughout the day, and deep mulch coverage is the most effective way to moderate root zone temperature and retain moisture. Keep mulch several inches back from the trunk.
+
+TRUNK WRAP: As a young smooth-barked tree on a south-facing exposure, this serviceberry is at elevated sunscald risk — south and southwest bark can overheat on warm winter days when roots are frozen. Install paper-based trunk wrap (not plastic) in October–November each fall and remove in early March. This was not done for winter 2025–26 — inspect in early spring for frost crack or sunscald symptoms (vertical bark splits or sunken, discolored bark on the south/southwest side). Installing trunk wrap in fall 2026 is a first-priority task.
+
+Decide early whether you want a tree form (remove suckers) or a large multi-stem shrub (allow). Either is attractive, but consistency of vision matters as the plant ages. Berries attract heavy bird activity in June — this is a feature, not a problem.
+
+#info-callout("Long-Term Outlook")[
+  Serviceberry is more adaptable than Japanese Maple, but south-facing full afternoon sun in Commerce City is genuinely challenging for this species. With consistent watering, mulch maintained deep and wide, and supplemental water during heat waves, this tree should establish successfully. If after 3–4 years of appropriate care the tree shows chronic summer stress despite adequate watering, the south-facing exposure may be the fundamental limiting factor — at that point, transplanting to a more favorable east or north-facing spot in autumn would be worth considering.
+]

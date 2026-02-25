@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: extremely drought tolerant. Target 1–2 gallons per watering event, once per week or less in summer. For 1 gph emitters, run 15 minutes every 7–10 days. As a native prairie grass adapted to dry conditions, it requires far less supplemental water than most landscape plants. In clay, this plant benefits from extended dry cycles — reduce to once every 2 weeks in June–August, and stop entirely in September. Wet fall soil in clay is a risk factor.
+On drip irrigation with a *0.5 gph emitter* — the minimum during establishment. See the Irrigation & Watering section for the shared drip schedule. Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant. The 0.5 gph emitter on the shared schedule delivers a conservative amount well-suited to this plant. Once fully established, drip support may not be necessary at all.
 
 === Fertilization
 

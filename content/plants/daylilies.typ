@@ -4,16 +4,16 @@
 #import "../../template.typ": *
 
 #plant-header("Daylilies (Mixed)", "Hemerocallis spp.", "daylily")[
-  Daylilies are one of the most adaptable, low-maintenance perennials available. Each flower lasts one day, but a single plant produces dozens of blooms over a 3–6 week period depending on variety. Extremely tough: tolerates clay, drought, heat, and neglect once established. Established 2+ years — on drip irrigation.
+  Daylilies are one of the most adaptable, low-maintenance perennials available. Each flower lasts one day, but a single plant produces dozens of blooms over a 3–6 week period depending on variety. Extremely tough: tolerates clay, drought, heat, and neglect once established. Located on the east side of the house with morning sun only — afternoon shade begins around midday. Bloom count will be somewhat lower than catalog photos suggest, which are typically shot in full sun; this is expected and normal, not a sign of plant stress. Fully established since 2022 — on drip irrigation.
 ]
 
 === Watering
 
-Established plants on drip: target 1–2 gallons per watering event, 1–2 times per week in summer. For 1 gph emitters, run 15–25 minutes. In clay soil, water 2–3 times per week during the blooming period (June–July) for best flower production, then reduce to once per week after bloom. Daylilies are very drought tolerant after establishment — during a normal summer they can go 10–14 days between waterings with only cosmetic decline. No supplemental irrigation needed once temperatures drop below 60°F consistently.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. As fully established clumps (since 2022) in afternoon shade, water demand is lower than full-sun daylilies — the 0.5 gph emitter and the shared schedule are appropriate. Daylilies are very drought tolerant after establishment; consistent moisture during the blooming period (June–July) improves flower production, but the shared schedule is sufficient. Stop drip support in September as temperatures drop.
 
 === Fertilization
 
-Your soil has HIGH phosphorus — do not apply bloom boosters or any phosphorus-containing fertilizer. In early spring, apply a light N-K formula (16-0-8 or ammonium sulfate paired with potassium sulfate) to address your low nitrogen and low potassium. Potassium is important for flower production. Apply a chelated micronutrient package in spring — very low iron and zinc will reduce vigor and bloom quality if not addressed. Avoid excess nitrogen, which promotes foliage over flowers.
+Your soil has HIGH phosphorus — do not apply bloom boosters or any phosphorus-containing fertilizer. As fully established clumps, these daylilies need less feeding than newly planted ones — light fertilization is appropriate, not heavy. In early spring, apply a light N-K formula (16-0-8 or ammonium sulfate paired with potassium sulfate) to address your low nitrogen and low potassium. Potassium supports flower production. Apply a chelated micronutrient package in spring — very low iron and zinc will reduce vigor and bloom quality if not addressed. Avoid excess nitrogen, which promotes foliage over flowers.
 
 === Pruning & Maintenance
 

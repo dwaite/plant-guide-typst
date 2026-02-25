@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: in a raised bed with amended soil (see Other Care), target 2–3 gallons per watering event, once or twice per week in peak summer. For 1 gph emitters, run 20–30 minutes. Bluebeard prefers dry-to-average conditions — do not overwater. Allow the soil to dry completely between waterings. In clay, be especially careful: a single over-watering event in late fall or early winter can cause root rot and kill the plant. Reduce watering dramatically in August and stop entirely by late September.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. The schedule's natural taper in September–October aligns well with this plant's needs; stop drip support by late September.
 
 === Fertilization
 

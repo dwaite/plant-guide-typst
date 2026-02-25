@@ -103,27 +103,37 @@ in 2 years to confirm P levels are declining.
 
 #product("Ammonium sulfate (21-0-0)")[
   Widely available (True Value, Home Depot, farm stores). Provides nitrogen without
-  phosphorus and mildly acidifies soil — doubly beneficial for your alkaline
-  conditions and the Japanese Maple.
+  phosphorus and mildly acidifies soil over time — doubly beneficial given your
+  alkaline conditions.
 ]
 
-#product("Acidifying fertilizer (Japanese Maple only)")[
-  #link("https://www.google.com/search?q=hollytone+fertilizer")[Espoma Holly-tone] (4-3-4) contains sulfur which gradually acidifies the
-  root zone. Apply annually around the Japanese Maple. Ammonium sulfate also has a
-  mild acidifying effect.
+#product("Acidifying fertilizer")[
+  #link("https://www.google.com/search?q=hollytone+fertilizer")[Espoma Holly-tone]
+  (4-3-4) contains sulfur that gradually lowers root zone pH. The middle number of
+  3 (phosphorus) is low; at typical application rates the total P added is small and
+  binds rapidly into insoluble calcium phosphate at pH 7.27 — an acceptable tradeoff
+  given that no good zero-phosphorus acidifying fertilizer exists in a single product.
+  Zero-P alternative: ammonium sulfate (21-0-0) plus separate elemental sulfur
+  granules — same acidifying benefit, zero phosphorus addition, slightly less
+  convenient. See individual plant files for which plants warrant acidification effort.
 ]
 
 #product("Low-phosphorus rose fertilizer (potted roses)")[
   #link("https://www.google.com/search?q=espoma+rose+tone+fertilizer")[Espoma Rose-tone] (4-3-2) or
   #link("https://www.google.com/search?q=dr+earth+rose+fertilizer")[Dr. Earth Rose Fertilizer].
-  Apply liquid form every 3–4 weeks to container roses April through mid-August.
+  Use a liquid form for container application. See the Knock Out Roses plant section
+  for timing and frequency.
 ]
 
-#product("Application method")[
-  *Granular products* (ammonium sulfate, potassium sulfate): pull mulch back from
-  the plant base, broadcast granules to the drip line, water in, replace mulch.
-  *Liquid/spray products* (chelated micronutrients, EDDHA iron): apply as soil
-  drench — pull back mulch, pour at the base and out to the drip line, water in
-  lightly. *Crushed rock areas:* broadcast granular products over the rock surface
-  and water in.
-]
+== Application Methods
+
+*Granular products* (ammonium sulfate, potassium sulfate, elemental sulfur):
+Pull mulch back from the plant base, broadcast granules evenly out to the drip line,
+water in well, then replace mulch.
+
+*Liquid and drench products* (chelated micronutrients, EDDHA iron):
+Pull back mulch, pour solution at the base and out to the drip line, water in lightly
+afterward to move product into the root zone.
+
+*Crushed rock areas:*
+Broadcast granular products over the rock surface and water in — no need to move rock.

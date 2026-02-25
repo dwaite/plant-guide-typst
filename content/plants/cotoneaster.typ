@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: very drought tolerant. Target 2–4 gallons per watering event, once per week in summer. For 1 gph emitters, run 30–45 minutes. In clay soil, allow soil to dry fully between cycles. Cotoneaster will tolerate dry periods better than most shrubs — reduce watering in fall and do not irrigate after October unless it has been an abnormally dry fall.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Peking Cotoneaster is very drought tolerant and handles the shared schedule well at low emitter output. In clay soil, the natural moisture retention between cycles is more than adequate for this plant.
 
 === Fertilization
 

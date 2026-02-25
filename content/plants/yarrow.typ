@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: very drought tolerant. Target 1–2 gallons per watering event, once per week or less in summer. For 1 gph emitters, run 15–20 minutes every 7–10 days. In clay soil, be especially careful not to overwater — yarrow's roots are highly susceptible to rot in persistently moist soil. A run in the drip zone every 10–14 days is often sufficient. Stop supplemental irrigation in September.
+On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. The combination of small emitter output and clay's moisture retention keeps the root zone appropriately moist without overwatering. Stop drip support in September.
 
 === Fertilization
 

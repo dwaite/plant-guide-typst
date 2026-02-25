@@ -9,7 +9,7 @@
 
 === Watering
 
-Established plants on drip: once established, target 1–2 gallons per watering event, once per week in summer. For 1 gph emitters, run 15 minutes. After the first establishment year, Penstemon strictus is highly drought tolerant — once every 10–14 days is often sufficient in summer. Stop drip irrigation in late August. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss.
+On drip irrigation with a *0.5 gph emitter* — the minimum needed during establishment. See the Irrigation & Watering section for the shared drip schedule. Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Stop drip support in late August.
 
 === Fertilization
 

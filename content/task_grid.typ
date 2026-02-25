@@ -27,12 +27,12 @@ Based on Commerce City Zone 5b: last frost \~May 10, first fall frost \~October 
   ("Fertilize trees (N-K)",               (N,N,N,Y,N,N,N,N,N,N,N,N)),
   ("Chelated micronutrients (all)",        (N,N,N,N,Y,N,N,N,N,Y,N,N)),
   ("EDDHA iron: Honeylocust & J. Maple",  (N,N,N,N,Y,N,Y,N,N,N,N,N)),
-  ("Wrap young tree trunks",              (N,N,N,N,N,N,N,N,N,N,Y,Y)),
+  ("Trunk wrap: Silver Maples + Serviceberry", (N,N,N,N,N,N,N,N,N,Y,Y,N)),
 
   "EVERGREENS",
   ("Fertilize evergreens (N-K)",          (N,N,N,Y,N,N,N,N,N,N,N,N)),
   ("Pinch mugo pine candles",             (N,N,N,N,Y,Y,N,N,N,N,N,N)),
-  ("Inspect: bagworms & spider mites",    (N,N,N,N,N,Y,Y,N,N,N,N,N)),
+  ("Inspect: spider mites (evergreens)",  (N,N,N,N,N,Y,Y,Y,N,N,N,N)),
 
   "SHRUBS",
   ("Prune lilacs (post-bloom only)",      (N,N,N,N,N,Y,N,N,N,N,N,N)),
@@ -59,10 +59,13 @@ Based on Commerce City Zone 5b: last frost \~May 10, first fall frost \~October 
 
   "POTTED PLANTS",
   ("Move outside",                        (N,N,N,N,Y,N,N,N,N,N,N,N)),
+  ("Refresh potting mix (top third)",     (N,N,N,Y,N,N,N,N,N,N,N,N)),
   ("Fertilize potted plants",             (N,N,N,N,Y,Y,Y,N,N,N,N,N)),
+  ("Chelated iron drench (containers)",   (N,N,N,N,Y,Y,Y,Y,N,N,N,N)),
   ("Move to winter storage",              (N,N,N,N,N,N,N,N,N,N,Y,N)),
 
   "GENERAL GARDEN",
+  ("Anti-desiccant spray (evergreens)",   (N,N,N,N,N,N,N,N,N,N,Y,N)),
   ("Apply / refresh mulch (2–3\")",       (N,N,N,Y,N,N,N,N,N,N,N,N)),
   ("Winter water all plants",             (Y,Y,Y,N,N,N,N,N,N,N,N,Y)),
   ("Deep water before freeze",            (N,N,N,N,N,N,N,N,N,Y,N,N)),
