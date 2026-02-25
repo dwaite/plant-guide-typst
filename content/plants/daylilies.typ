@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Your soil has HIGH phosphorus — do not apply bloom boosters or any phosphorus-containing fertilizer. As fully established clumps, these daylilies need less feeding than newly planted ones — light fertilization is appropriate, not heavy. In early spring, apply a light N-K formula (16-0-8 or ammonium sulfate paired with potassium sulfate) to address your low nitrogen and low potassium. Potassium supports flower production. Apply a chelated micronutrient package in spring — very low iron and zinc will reduce vigor and bloom quality if not addressed. Avoid excess nitrogen, which promotes foliage over flowers.
+Per soil profile, use N-K formula only — no bloom boosters. As fully established clumps, light fertilization is appropriate, not heavy. In early spring, apply a light N-K formula (16-0-8 or ammonium sulfate paired with potassium sulfate) to address your low nitrogen and low potassium. Potassium supports flower production. Apply a chelated micronutrient package in spring — very low iron and zinc will reduce vigor and bloom quality if not addressed. Avoid excess nitrogen, which promotes foliage over flowers.
 
 === Pruning & Maintenance
 

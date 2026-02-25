@@ -19,7 +19,7 @@ Established Silver Maples in a regularly fertilized lawn are already receiving n
 
 Apply a chelated micronutrient package (Fe, Zn, Cu, B, Mn) in May — this is the primary annual task for established maples given your very low micronutrient readings. Use EDDHA chelated iron specifically. Apply supplemental nitrogen (ammonium sulfate 21-0-0) only if deficiency symptoms appear: pale, yellowing foliage with otherwise healthy form, or noticeably reduced annual growth.
 
-Your soil has HIGH phosphorus — never use any P-containing fertilizer. Do not fertilize after July.
+Per soil profile, no phosphorus additions. Do not fertilize after July.
 
 === Pruning & Maintenance
 

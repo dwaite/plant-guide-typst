@@ -112,8 +112,3 @@ Your landscape supports a diverse wildlife community for a suburban setting.
   ],
   [Maintain a 4–6" mulch-free zone around all tree trunks. Hardware cloth cylinders on young trees protect from both rabbits and mice simultaneously.],
 )
-
-#warning-callout("Pesticide Note")[
-  Broad-spectrum pesticides (pyrethroids, neonicotinoids, organophosphates)can be hazardous to hummingbirds, butterflies, bees, and insect-feeding birds. Use targeted treatments (neem oil, insecticidal soap, Bt, spinosad)
-  applied at dawn or dusk. Systemic neonicotinoids should be avoided entirely.
-]

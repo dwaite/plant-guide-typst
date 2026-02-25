@@ -4,7 +4,7 @@
 #import "../../template.typ": *
 
 #plant-header("Agastache Sunset Hyssop", "Agastache rupestris 'Sunset'", "hyssop")[
-  Agastache Sunset Hyssop produces striking apricot-pink flower spikes from July through September on licorice-scented foliage. An outstanding late-season hummingbird and butterfly magnet. Short-lived perennial (2–4 years) but can self-seed. Native to the rocky Southwest and exquisitely adapted to Colorado's dry conditions — provided the drainage is right. Established — on drip irrigation. DRAINAGE WARNING: See Other Care.
+  Agastache Sunset Hyssop produces striking apricot-pink flower spikes from July through September on licorice-scented foliage. An outstanding late-season hummingbird and butterfly magnet. Short-lived perennial (2–4 years) but can self-seed. Native to the rocky Southwest and exquisitely adapted to Colorado's dry conditions — provided the drainage is right. Established — on drip irrigation.
 ]
 
 === Watering
@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter* — the minimum needed during establ
 
 === Fertilization
 
-No fertilization. Agastache prefers lean soil — consistent with your high-P soil test. Do not apply any fertilizer. A very light application of ammonium sulfate or potassium sulfate in early spring is acceptable if desired, but many growers apply nothing and achieve excellent results. Drainage matters far more than nutrition.
+No fertilizer. Agastache prefers lean soil — drainage matters far more than nutrition. If anything, a very light application of potassium sulfate in early spring is acceptable, but many growers apply nothing.
 
 === Pruning & Maintenance
 
@@ -25,8 +25,8 @@ Agastache Sunset Hyssop may be the best hummingbird plant in your landscape. Uni
 
 === Pests & Disease
 
-Agastache has very few pest problems when drainage is adequate. #link("https://www.google.com/search?q=agastache+root+rot+treatment")[Root and crown rot] in poorly drained clay is the overwhelming primary cause of plant failure — there is no treatment once established, only prevention through drainage management (see Other Care). #link("https://www.google.com/search?q=agastache+powdery+mildew+treatment")[Powdery mildew] can occur in humid late-summer periods — improve air circulation; the plant usually recovers on its own in Colorado's dry climate.
+Agastache has very few pest problems when drainage is adequate. #link("https://www.google.com/search?q=agastache+root+rot+treatment")[Root and crown rot] in poorly drained clay is the overwhelming primary cause of plant failure — there is no treatment once established, only prevention through drainage management. #link("https://www.google.com/search?q=agastache+powdery+mildew+treatment")[Powdery mildew] can occur in humid late-summer periods — improve air circulation; the plant usually recovers on its own in Colorado's dry climate.
 
 === Other Care
 
-CLAY SOIL IS THE HIGHEST RISK FACTOR. Agastache rupestris is native to rocky slopes and will reliably rot and die in wet, heavy clay — particularly during Colorado's wet spring and winter months. To grow this successfully: (a) plant in a xeriscape bed where clay has been replaced or heavily amended with 50%+ coarse grit and gravel to 12" depth, or (b) grow in a container. Without excellent drainage, this plant will likely not survive its first winter. Allow some self-seeding for continuity.
+Plant in a xeriscape bed heavily amended with 50%+ coarse grit and gravel to 12" depth, or grow in a container. Allow some self-seeding for continuity.

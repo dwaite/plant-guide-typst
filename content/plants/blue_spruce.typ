@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Apply a slow-release N-K evergreen fertilizer lightly in early spring — avoid any formula with phosphorus (your soil P is HIGH). Use ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides mild acidification as a side benefit, improving micronutrient availability at your pH 7.27. A chelated micronutrient package (especially Fe and Zn) in spring is more important than fertilizer for this plant — very low Fe and Zn cause needle yellowing and browning in spruce. Light annual spring feeding only; over-fertilizing disrupts the compact form.
+Per soil profile, use N-K formula only. Apply ammonium sulfate (21-0-0) lightly in early spring — it provides mild acidification as a side benefit, improving micronutrient availability at your pH 7.27. A chelated micronutrient package (especially Fe and Zn) in spring is more important than fertilizer for this plant — very low Fe and Zn cause needle yellowing and browning in spruce. Light annual spring feeding only; over-fertilizing disrupts the compact form.
 
 === Pruning & Maintenance
 

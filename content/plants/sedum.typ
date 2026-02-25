@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Performs best with minimal fertilization — lean conditions produce compact, self-supporting plants. Do not apply phosphorus (your soil P is HIGH). If anything, a very light application of ammonium sulfate or potassium sulfate in early spring is acceptable. No fall fertilization.
+Minimal fertilization only — lean conditions produce compact, self-supporting plants. If anything, a very light application of potassium sulfate in early spring is acceptable. No fall fertilization.
 
 === Pruning & Maintenance
 

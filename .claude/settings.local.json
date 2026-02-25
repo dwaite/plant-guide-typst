@@ -15,7 +15,8 @@
       "Bash(grep -h 'plant-header' /Users/david/Downloads/plant-guide-typst/content/plants/*.typ)",
       "Bash(make build)",
       "Bash(make check)",
-      "Bash(make images)"
+      "Bash(make images)",
+      "Bash(make -C /Users/david/Downloads/plant-guide-typst build)"
     ]
   }
 }

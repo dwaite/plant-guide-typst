@@ -28,7 +28,7 @@
 
   set page(
     paper: "us-letter",
-    margin: (top: 0.75in, bottom: 0.5in, left: 0.5in, right: 0.5in),
+    margin: (top: 0.75in, bottom: 0.5in, inside: 1in, outside: 0.5in),
     header: context {
       if counter(page).get().first() > 1 {
         set text(size: 8.5pt, fill: text-muted)

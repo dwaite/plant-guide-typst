@@ -13,7 +13,7 @@ On drip irrigation with a *1 gph emitter*. See the Irrigation & Watering section
 
 === Fertilization
 
-Your soil already has HIGH phosphorus — do not use 10-10-10, bone meal, superphosphate, or any phosphorus-containing fertilizer. Apply a light N-K formula (16-0-8) once in early spring before leaf-out. Supplement with potassium sulfate (0-0-50) in late summer or fall — potassium, not phosphorus, is what supports strong flower bud set and cold hardiness, and your K is LOW. Apply chelated micronutrients in spring. Never fertilize after mid-July.
+Per soil profile, use N-K formula only (16-0-8). Apply once in early spring before leaf-out. Supplement with potassium sulfate (0-0-50) in late summer or fall — potassium, not phosphorus, is what supports strong flower bud set and cold hardiness, and your K is LOW. Apply chelated micronutrients in spring. Never fertilize after mid-July.
 
 === Pruning & Maintenance
 

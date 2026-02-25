@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Very low needs. If feeding at all, use a light N-K formula only — your soil P is already HIGH so avoid any balanced or phosphorus-containing fertilizer. Top-dressing with compost every 1–2 years is preferable to synthetic fertilizer. A chelated micronutrient application in spring addresses very low Fe and Zn without adding unwanted phosphorus.
+Per soil profile, use N-K formula only — very low needs. Compost top-dressing every 1–2 years is preferable to synthetic fertilizer. A chelated micronutrient application in spring addresses very low Fe and Zn without adding unwanted phosphorus.
 
 === Pruning & Maintenance
 

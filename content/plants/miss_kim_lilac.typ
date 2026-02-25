@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Your soil has HIGH phosphorus — do not use 10-10-10 or any P-containing fertilizer. As a fully established shrub, light N-K fertilization in spring is fine but not critical year to year — do not over-feed. Potassium sulfate (0-0-50) in fall and chelated micronutrients in spring are the more important annual tasks: K supports strong flower bud formation and cold hardiness (yours is LOW), and micronutrients address the very low iron and zinc in your soil. Do not fertilize after bloom.
+Per soil profile, use N-K formula only. As a fully established shrub, light fertilization in spring is fine but not critical year to year — do not over-feed. Potassium sulfate (0-0-50) in fall and chelated micronutrients in spring are the more important annual tasks: K supports strong flower bud formation and cold hardiness (yours is LOW), and micronutrients address the very low iron and zinc in your soil. Do not fertilize after bloom.
 
 === Pruning & Maintenance
 
@@ -29,4 +29,6 @@ The intensely fragrant late-May blooms are excellent for butterflies (especially
 
 === Other Care
 
-MISS KIM TROUBLESHOOTING — WHY ISN'T IT GROWING? Your lilacs are at the highest point of the yard next to the house, which creates several likely limiting factors worth diagnosing systematically: (1) Foundation soil pH: Concrete foundations leach calcium carbonate, driving soil pH to 8.5+ immediately adjacent to the foundation — well above your tested 7.27. Test pH within 12" of the foundation wall specifically, using a meter probe or test kit. If pH is above 8, sulfur applications directly at the foundation bed are needed. (2) Planting depth: Miss Kim will stagnate indefinitely if planted even 1–2" too deep. The root crown (where stem meets roots) must be at or slightly above soil grade — dig carefully to confirm this. If buried, carefully excavate soil away from the crown and add a small soil mound to raise it without transplanting. (3) Construction fill: Foundation beds in new construction often contain compacted subsoil or concrete rubble that severely restricts roots. If you have not already done so, probe the bed area for hidden debris. (4) Shade: If the house wall significantly reduces sunlight below 6 hours daily, bloom quantity drops substantially. Check whether the house shades the plants for any significant part of the day. (5) Root competition: Silver Maples have aggressive roots — if the maples are nearby, they compete for moisture and nutrients. The drip system helps, but check that emitters are placing water directly at the lilac root zone.
+#warning-callout("Miss Kim — Priority Checks if Not Growing")[
+  Two most actionable causes: (1) *Foundation pH* — concrete leaches calcium carbonate and may have driven soil pH to 8.5+ within 12" of the wall, regardless of your yard's tested 7.27. Test pH right at the foundation bed; if above 8.0, apply elemental sulfur directly there. (2) *Planting depth* — even 1–2" too deep causes indefinite stagnation. Carefully excavate to confirm the root crown is at or slightly above grade; correct in place if buried.
+]

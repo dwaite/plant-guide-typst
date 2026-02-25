@@ -37,6 +37,14 @@
 #include "content/watering.typ"
 
 
+// ══════════════════════ REFERENCE SECTIONS ════════════════════
+
+#include "content/wildlife.typ"
+#include "content/fertilizer.typ"
+#include "content/weed_control.typ"
+#include "content/task_grid.typ"
+#include "content/calendar.typ"
+
 // ══════════════════════════ PLANT SECTIONS ════════════════════
 
 // ── Trees ────────────────────────────────────────────────────
@@ -99,11 +107,3 @@
 #pagebreak()
 #include "content/plants/candytuft.typ"
 
-
-// ══════════════════════ REFERENCE SECTIONS ════════════════════
-
-#include "content/wildlife.typ"
-#include "content/fertilizer.typ"
-#include "content/weed_control.typ"
-#include "content/task_grid.typ"
-#include "content/calendar.typ"

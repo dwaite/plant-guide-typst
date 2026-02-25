@@ -91,9 +91,3 @@ effective for active weeds in rock areas. Always avoid contact with desirable pl
 *Organic debris:* Rake out accumulated leaves, soil, and organic debris from rock
 areas annually in spring — this organic layer is where most weed seeds germinate.
 A thorough spring cleanup reduces weed pressure through the entire season.
-
-#info-callout("Note for future revisions")[
-  Once specific weed species are identified in your landscape, targeted control
-  recommendations (timing, product selection, cultural management) can be added
-  for each weed.
-]

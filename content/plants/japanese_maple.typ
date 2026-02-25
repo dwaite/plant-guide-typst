@@ -17,7 +17,7 @@ During extended heat waves in July and August (3+ consecutive days above 95°F),
 
 === Fertilization
 
-Emperor I prefers slightly acidic soil (pH 5.5–6.5) — your soil at pH 7.27 is alkaline for this plant, which compounds heat and sun stress. Do NOT use standard balanced fertilizer; nothing with phosphorus (your soil P is HIGH).
+Emperor I prefers slightly acidic soil (pH 5.5–6.5) — your soil at pH 7.27 is alkaline for this plant, which compounds heat and sun stress. Per soil profile, no phosphorus additions.
 
 Apply Hollytone (4-3-4) in early spring as an acidifying nitrogen source — it contains sulfur that gradually lowers pH in the root zone over time. The middle number of 3 (phosphorus) is low; at 1–2 cups per tree annually, the total P added is small, and at pH 7.27 it rapidly binds into insoluble calcium phosphate and follows the same fate as existing soil P — an acceptable tradeoff given no good zero-phosphorus acidifying fertilizer exists. Alternative for zero-P preference: ammonium sulfate (21-0-0) plus separate elemental sulfur granules, same acidifying benefit, slightly less convenient.
 

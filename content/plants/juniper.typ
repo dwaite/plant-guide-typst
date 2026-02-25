@@ -4,7 +4,7 @@
 #import "../../template.typ": *
 
 #plant-header("Wichita Blue Juniper", "Juniperus scopulorum 'Wichita Blue'", "juniper")[
-  A striking, narrow, upright evergreen with intense silver-blue foliage and a naturally columnar form. Extremely cold hardy, wind resistant, and well adapted to Commerce City's alkaline soils and dry conditions. Provides exceptional year-round structure, privacy screening, and windbreak value. Established 2+ years — on drip irrigation. IMPORTANT: This is a high-drainage-requirement plant growing in clay soil — see Other Care.
+  A striking, narrow, upright evergreen with intense silver-blue foliage and a naturally columnar form. Extremely cold hardy, wind resistant, and well adapted to Commerce City's alkaline soils and dry conditions. Provides exceptional year-round structure, privacy screening, and windbreak value. Established 2+ years — on drip irrigation. Requires good drainage in clay — see Other Care for planting specs.
 ]
 
 === Watering
@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Very low need. If feeding at all, use only a nitrogen-potassium evergreen formula with zero phosphorus (your soil P is already HIGH). A chelated micronutrient application in spring (especially Fe, Zn, Cu) is more beneficial than standard fertilizer given your very low micronutrient readings. Skip fertilizer entirely in vigorous growth years.
+Very low need. Per soil profile, use a zero-phosphorus N-K evergreen formula if feeding at all. A chelated micronutrient application in spring (especially Fe, Zn, Cu) is more beneficial than standard fertilizer. Skip fertilizer entirely in vigorous growth years.
 
 === Pruning & Maintenance
 
@@ -29,4 +29,4 @@ Wichita Blue Juniper is one of the most wildlife-valuable evergreens in your lan
 
 === Other Care
 
-CLAY SOIL WARNING: At planting time (or if replanting), excavate a wide, shallow hole (wider than deep), amend the entire zone with 30–40% coarse grit or perlite, and plant the root crown 1–2 inches above surrounding grade. Do not create a 'bowl' that collects water. Maintain good air circulation around the base — remove any accumulated debris. Protect from winter road salt spray if near paved areas. Highly deer resistant.
+At planting time (or if replanting), excavate a wide, shallow hole (wider than deep), amend the entire zone with 30–40% coarse grit or perlite, and plant the root crown 1–2 inches above surrounding grade. Do not create a bowl that collects water. Maintain good air circulation around the base — remove any accumulated debris. Protect from winter road salt spray if near paved areas. Highly deer resistant.

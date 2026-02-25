@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Yarrow thrives in poor to average soil and performs best with no fertilization — this aligns perfectly with your high-P soil test. Do not fertilize. Rich soil and excess nitrogen cause leggy, floppy plants. If your clay soil is very lean in organic matter, a very thin compost topdressing in spring is the maximum it should receive.
+No fertilizer. Yarrow thrives in poor to average soil — rich conditions cause leggy, floppy plants. At most, a very thin compost topdressing in spring.
 
 === Pruning & Maintenance
 

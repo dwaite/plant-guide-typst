@@ -10,7 +10,7 @@
 === Container Setup
 
 #warning-callout("Pea Gravel Replacement Recommended")[
-  If the bottom third of the pots is currently filled with pea gravel, this should be replaced. Gravel layers at pot bottoms do not improve drainage as commonly believed — water perches above the gravel layer until the finer soil above reaches saturation, then drains slowly. Removing gravel actually improves both drainage and pot weight simultaneously. *Recommended replacement:* polystyrene foam packing peanuts (not cornstarch/biodegradable type — these decompose). Fill the bottom third with peanuts, cover with a layer of fine mesh or landscape fabric to prevent potting mix from filtering down, then add potting mix on top. Near-weightless and non-decomposing. Potential weight reduction: 15–20 lbs or more per large pot.
+  If the bottom third of the pots is currently filled with pea gravel, replace it. *Recommended replacement:* polystyrene foam packing peanuts (not cornstarch/biodegradable type — these decompose). Fill the bottom third with peanuts, cover with a layer of fine mesh or landscape fabric to prevent potting mix from filtering down, then add potting mix on top. Near-weightless and non-decomposing. Potential weight reduction: 15–20 lbs or more per large pot.
 ]
 
 *Potting mix:* Miracle-Gro Moisture Control (peat/coir base, initial pH 5.5–6.5). The slow-release fertilizer charge depletes after one season. Refresh the top third of the mix each spring with fresh Miracle-Gro Moisture Control.

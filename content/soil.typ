@@ -34,7 +34,7 @@ in 2 years to confirm P levels are declining.
   [Nitrogen (N)],   text(fill: status-warn, weight: "bold")[⚠ LOW],
                     [Supplement with N-K fertilizers as specified per plant],
   [Phosphorus (P)], text(fill: status-high, weight: "bold")[⚠ HIGH],
-                    [*Do NOT add any P fertilizers, bloom boosters, or bone meal.* Retest in 2 years to track decline.],
+                    [*Do NOT add any P fertilizers, bloom boosters, or bone meal.*],
   [Potassium (K)],  text(fill: status-warn, weight: "bold")[⚠ LOW],
                     [Supplement with potassium sulfate (0-0-50) as specified per plant],
   [Sulfur (S)],     text(fill: status-ok)[✓ Optimal],  [No action needed],
@@ -58,7 +58,7 @@ in 2 years to confirm P levels are declining.
   landscape. This includes 10-10-10, 5-10-5, bloom boosters, bone meal,
   superphosphate, and most "starter fertilizers." High soil phosphorus combined
   with alkaline pH chemically locks out iron, zinc, copper, boron, and manganese —
-  worsening micronutrient deficiency with every P application.
+  worsening micronutrient deficiency with every P application. Soil should be retested to verify P levels.
 ]
 
 #info-callout("Annual Priority Action")[
@@ -124,6 +124,12 @@ in 2 years to confirm P levels are declining.
   Use a liquid form for container application. See the Knock Out Roses plant section
   for timing and frequency.
 ]
+
+#warning-callout("Pesticide Note")[
+  Broad-spectrum pesticides (pyrethroids, neonicotinoids, organophosphates)can be hazardous to hummingbirds, butterflies, bees, and insect-feeding birds. Use targeted treatments (neem oil, insecticidal soap, Bt, spinosad)
+  applied at dawn or dusk. Systemic neonicotinoids should be avoided entirely due to the negative effects on bees.
+]
+
 
 == Application Methods
 

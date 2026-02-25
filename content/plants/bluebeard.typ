@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering secti
 
 === Fertilization
 
-Apply a very light N-K formula in early spring as new growth emerges — avoid any phosphorus-containing product. A single light feeding is sufficient. Avoid excess nitrogen, which causes rank leafy growth and reduces the flower display.
+Per soil profile, use N-K formula only. Apply a very light amount in early spring as new growth emerges — a single light feeding is sufficient. Avoid excess nitrogen, which causes rank leafy growth and reduces the flower display.
 
 === Pruning & Maintenance
 
@@ -29,4 +29,4 @@ Bluebeard has few serious pest or disease problems when drainage is adequate. In
 
 === Other Care
 
-CLAY SOIL IS THE PRIMARY RISK. Caryopteris requires excellent drainage year-round and will reliably rot in wet clay over winter. To grow this successfully: plant in a raised bed or significantly amended mound (mix native soil with 40–50% coarse grit and compost), plant so the crown sits 2–3 inches above surrounding grade. A south or west-facing slope is ideal. Without these amendments, winter survival in your clay soil is unlikely. Container growing is a reliable alternative.
+Plant in a raised bed or amended mound (mix native soil with 40–50% coarse grit and compost), with the crown sitting 2–3 inches above surrounding grade. A south or west-facing slope is ideal. Container growing is a reliable alternative.

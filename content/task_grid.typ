@@ -6,10 +6,7 @@
 #import "../template.typ": *
 
 #pagebreak(weak: true)
-= Seasonal Task Grid
-
-Green cells (◆) indicate the month(s) to perform each task.
-Based on Commerce City Zone 5b: last frost \~May 10, first fall frost \~October 5.
+= Commerce City Seasonal Task Grid
 
 // Helper: shorthand for true/false month arrays
 #let Y = true
@@ -77,13 +74,13 @@ Based on Commerce City Zone 5b: last frost \~May 10, first fall frost \~October 
 // ── Render the grid ──────────────────────────────────────────
 #{
   let month-labels = ([Jan],[Feb],[Mar],[Apr],[May],[Jun],[Jul],[Aug],[Sep],[Oct],[Nov],[Dec])
-  let col-w = (160pt, ..range(12).map(_ => 1fr))
+  let col-w = (180pt, ..range(12).map(_ => 1fr))
 
   // Build cell list
   let cells = ()
 
   // Header row
-  cells += (table.cell(fill: forest)[#text(fill: white, weight: "bold", size: 10pt)[Task]],)
+  cells += (table.cell(fill: forest)[#text(fill: white, weight: "bold", size: 10pt)[Task (Prioritized)]],)
   for m in month-labels {
     cells += (table.cell(fill: forest, align: center)[#text(fill: white, weight: "bold", size: 10pt)[#m]],)
   }
@@ -119,10 +116,3 @@ Based on Commerce City Zone 5b: last frost \~May 10, first fall frost \~October 
     ..cells
   )
 }
-
-#v(0.5em)
-#info-callout("Key")[
-  ◆ = Do this task during the highlighted month(s). Tasks are listed in priority
-  order within each category. See the Month-by-Month Checklist for detailed
-  instructions on each task.
-]

@@ -4,7 +4,7 @@
 #import "../../template.typ": *
 
 #plant-header("Rocky Mountain Penstemon", "Penstemon strictus", "penstemon")[
-  Rocky Mountain Penstemon is one of Colorado's finest native flowering plants — electric blue-purple flower spikes in late May–June, semi-evergreen foliage, and extreme cold and drought hardiness. Short-lived (3–5 years) but self-seeds readily to maintain the colony. Blooms on old wood. Established — on drip irrigation. DRAINAGE WARNING: Poor drainage in clay will kill this plant reliably.
+  Rocky Mountain Penstemon is one of Colorado's finest native flowering plants — electric blue-purple flower spikes in late May–June, semi-evergreen foliage, and extreme cold and drought hardiness. Short-lived (3–5 years) but self-seeds readily to maintain the colony. Blooms on old wood. Established — on drip irrigation. Requires excellent drainage — see Other Care for planting specs.
 ]
 
 === Watering
@@ -13,7 +13,7 @@ On drip irrigation with a *0.5 gph emitter* — the minimum needed during establ
 
 === Fertilization
 
-No fertilizer. Lean soil produces the best, longest-lived plants. This aligns with your high-P soil test. A light compost topdressing in fall is the absolute maximum. Any fertilizer addition promotes lush growth that shortens plant lifespan dramatically.
+No fertilizer. Lean soil produces the best, longest-lived plants — any fertilizer addition promotes lush growth that shortens plant lifespan dramatically. A light compost topdressing in fall is the absolute maximum.
 
 === Pruning & Maintenance
 
@@ -29,4 +29,4 @@ Penstemon has very few serious pest problems when well-sited. #link("https://www
 
 === Other Care
 
-CLAY SOIL IS THIS PLANT'S PRIMARY ENEMY. Plant only in a raised or sloped area with the native clay amended to at least 50% coarse grit and gravel, or build a dedicated rocky raised bed. Alternatively, treat as a short-lived accent and rely on self-seeding for colony continuity. Resistant to deer and rabbits. One of Colorado's best native plants when sited correctly.
+Plant in a raised or sloped area with clay amended to at least 50% coarse grit and gravel, or build a dedicated rocky raised bed. Alternatively, treat as a short-lived accent and rely on self-seeding for colony continuity. Resistant to deer and rabbits.
