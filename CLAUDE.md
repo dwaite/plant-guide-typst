@@ -62,6 +62,27 @@ frequency.
 - **Candytuft survival:** Do not edit `candytuft.typ` until spring 2026 confirms
   survival or loss. See handoff notes within that file for what to do in each case.
 
+## Three-Layer Structure
+
+| Layer | Location | Purpose |
+|-------|----------|---------|
+| **Data** | `data/plants.toml` | Canonical facts: emitter sizes, irrigation type, establishment year, sun zone, pH preference. Edit when a physical fact changes. |
+| **Reasoning** | `notes/*.md` | The *why* behind recommendations — decision rationale, trade-offs, observations. Edit when logic changes or observations update. |
+| **Document** | `content/`, `main.typ` | Presentation layer — concise prose and tables derived from data + reasoning. Edit when the printed guide needs to change. |
+
+The document is a *derived* artifact. If data or reasoning changes, evaluate whether
+the document needs updating, but the notes files are the source of truth for *why*
+recommendations are what they are.
+
+### Notes Files
+
+| File | Contents |
+|------|---------|
+| `notes/irrigation.md` | Zone architecture, schedule decision (Option B), emitter sizing rationale, drip stop decisions |
+| `notes/fertilizer.md` | High-P constraint, EDDHA iron rationale, acidifying fertilizer trade-offs, per-group strategies |
+| `notes/soil.md` | Soil test results, pH context, Ca/P/micronutrient lockout mechanism, what to retest and when |
+| `notes/establishment.md` | Cohort status, per-plant concerns (Miss Kim, JM, Bluebeard), season log |
+
 ## File Roles
 
 | File | Purpose | Edit for... |
