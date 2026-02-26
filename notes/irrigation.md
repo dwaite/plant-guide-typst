@@ -58,27 +58,123 @@ from drought-tolerant plants.
   Option B provides. Not implemented; more invasive and costly.
 
 **Recommended schedule (Option B):**
-- April–May: every 5–6 days (spring ramp-up; clay retains winter moisture)
+- April–May: every 5–6 days (spring ramp-up; check soil before starting — clay may
+  retain moisture from the fall pre-freeze watering or spring snow events, but Commerce
+  City winters are semi-arid and this cannot be assumed in a dry year)
 - June–August: every 3 days (peak demand; calibrated for Japanese Maple at 2 gph)
 - September–October: every 6–7 days (fall taper; fall precipitation contributes)
 - November–March: system off
 
 ---
 
+## Time of Day
+
+Run the drip system early morning — 5–7 am is the target start time.
+
+Drip timing is less critical than sprinklers (no foliar wetting, minimal surface
+evaporation), but morning still wins for two reasons specific to this setup:
+1. Moisture reaches the root zone while plants can use it during peak photosynthesis
+   hours, rather than sitting in overnight-saturated clay.
+2. Smart Cycle soak-and-cycle sequences need the full morning window to complete
+   their pause-and-resume cycles before midday heat. An evening start may not
+   finish cycling before temperatures drop.
+
+---
+
 ## Emitter Sizing Rationale
 
-Emitter sizing is the only per-plant variable on a shared schedule.
+### Hardware baseline
 
-| Rate   | Plants | Rationale |
-|--------|--------|-----------|
-| 2 gph  | Japanese Maple | Highest demand; full afternoon sun; shallow roots; pH stress |
-| 1 gph  | Crabapple, Serviceberry, Yankee Doodle Lilac | Establishing trees/larger shrub; moderate-high demand |
-| 0.5 gph | All others | Drought-tolerant or established; clay moisture retention between cycles is adequate |
+The system was installed with 2 gph emitters throughout. Rather than replacing
+emitters with mixed sizes, the approach is:
+- Keep all emitters at 2 gph
+- Reduce the shared run time from the original ~60 min to ~20 min
+- Scale up emitter *count* on trees and the Yankee Doodle Lilac to meet their
+  higher demand within the shorter run time
 
-The every-3-day summer schedule at 0.5 gph provides roughly 0.17 gph/day average
-output. In clay soil with significant moisture retention between cycles, this is
-adequate for established and drought-tolerant plants. For establishing plants with
-moderate demand (crabapple, serviceberry), 1 gph at the same interval is appropriate.
+This keeps hardware simple (one emitter type) and gives meaningful tuning levers:
+emitter count for plants that need more, and early cap dates for plants that need less.
+
+### Volume math
+
+At ~20 min run time (Smart Cycle will split this into shorter pulses with soak time
+between — see Smart Cycle note below):
+
+| Configuration | Volume/cycle | Weekly avg (every 3 days) |
+|---|---|---|
+| 1 × 2 gph | 0.67 gal | ~1.6 gal |
+| 2 × 2 gph | 1.33 gal | ~3.1 gal |
+| 3 × 2 gph | 2.0 gal | ~4.7 gal |
+
+This replaces the previous ~60 min baseline, which delivered 2 gal/cycle for
+single-emitter plants and 4 gal/cycle for 2×2 gph trees. The reduced volumes
+are more appropriate; clay moisture retention between cycles was compensating
+for the excess.
+
+### Emitter count by plant
+
+| Count | Plants | Notes |
+|-------|--------|-------|
+| 3 × 2 gph | Emperor Japanese Maple | Highest demand; full afternoon sun; shallow roots; maintains ~2 gal/cycle |
+| 2–3 × 2 gph | Spring Snow Crabapple, Autumn Brilliance Serviceberry | Establishing trees in full/south sun; 2 minimum, 3 preferred |
+| 2 × 2 gph | Yankee Doodle Lilac | Larger establishing shrub |
+| 1 × 2 gph | All others | Single emitter adequate for shrubs, perennials, grasses |
+
+**Miss Kim Lilacs and Daylilies — audit required before reducing run time.** These
+were installed in 2022 and may have smaller emitters than the 2024 cohort. Confirm
+emitter size before reducing run time. If smaller than 2 gph, swap to 2 gph so
+that the reduced run time (~20 min) still delivers ~0.67 gal/cycle — appropriate
+for established plants in afternoon shade.
+
+### Multiple emitters: placement matters
+
+For trees with 2–3 emitters, distribute them around the drip line (outer canopy
+edge), not clustered at the trunk. Feeder roots are at the drip line. Water at
+the trunk concentrates moisture where it does the least good and increases crown
+rot risk. For young trees where the canopy is still small, 18–24 inches from the
+trunk toward the drip line is a reasonable placement.
+
+Multiple emitters distributed around the root zone also encourage lateral root
+spread — important for structural establishment in clay.
+
+### Smart Cycle and clay
+
+With Smart Cycle enabled, a ~20 min scheduled run time is split into shorter
+pulses (e.g., 3 × 7 min with 30–45 min soak between). Total water delivered is
+the same, but penetration into clay is significantly better than a single 20 min
+run. This pairing — shorter run time + Smart Cycle — outperforms the original
+60 min straight run for actual root-zone delivery in clay.
+
+---
+
+## Overwatering Indicators and Run-Time Tuning
+
+Even at ~20 min / 2 gph, drought-tolerant plants may show signs of excess moisture.
+The drip stop date is the primary tuning lever — cap emitters earlier if signs appear.
+Swapping in a smaller emitter (e.g., 0.5–1 gph saved from the Miss Kim / daylily
+audit) is the next option if early capping isn't sufficient.
+
+**What to watch for, by plant:**
+
+- **Autumn Joy Sedum** — clearest early signal in the landscape. Stems flop outward
+  in a ring rather than staying upright and compact. If flopping by mid-July, it's
+  getting too much water.
+- **White Yarrow** — yellow lower leaves followed by flopping stems. Yellow foliage
+  mid-season when soil is consistently moist is the tell.
+- **Dark Knight Bluebeard** — yellowing leaves despite wet soil, or wilting that
+  doesn't recover in cool morning temperatures. The dangerous late-season version is
+  crown rot going into winter, which won't be visible until spring.
+- **Agastache / Penstemon** — softness or yellowing at the crown base, or stems
+  flopping. Both are on raised/amended beds which buffers risk, but persistent wet
+  at the crown is what kills them.
+- **Wichita Blue Juniper / Mops Mugo Pine** — interior needle yellowing or browning.
+  Conifers often look fine until they crash; monitoring soil moisture at the crown in
+  June is more reliable than watching foliage. First visible needle symptoms are late.
+
+**Tuning actions (least to most invasive):**
+1. Cap the emitter earlier in the season — or immediately mid-season if signs appear
+2. Swap to a smaller emitter from spares
+3. Remove emitter entirely; hand-water only if needed
 
 ---
 

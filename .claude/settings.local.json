@@ -16,7 +16,10 @@
       "Bash(make build)",
       "Bash(make check)",
       "Bash(make images)",
-      "Bash(make -C /Users/david/Downloads/plant-guide-typst build)"
+      "Bash(make -C /Users/david/Downloads/plant-guide-typst build)",
+      "Bash(unzip -p wss_aoi_2026-02-25_03-53-31.zip wss_aoi_2026-02-25_03-53-31/tabular/chunifie.txt)",
+      "Bash(unzip -l wss_aoi_2026-02-25_03-53-31.zip)",
+      "Bash(unzip -p wss_aoi_2026-02-25_03-53-31.zip wss_aoi_2026-02-25_03-53-31/tabular/chorizon.txt)"
     ]
   }
 }

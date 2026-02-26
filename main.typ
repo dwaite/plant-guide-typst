@@ -33,6 +33,9 @@
 // ── Soil Profile & Nutrition ─────────────────────────────────
 #include "content/soil.typ"
 
+// ── Fertilizer & Nutrient Application ────────────────────────
+#include "content/fertilizer.typ"
+
 // ── Irrigation & Watering ────────────────────────────────────
 #include "content/watering.typ"
 
@@ -40,10 +43,9 @@
 // ══════════════════════ REFERENCE SECTIONS ════════════════════
 
 #include "content/wildlife.typ"
-#include "content/fertilizer.typ"
 #include "content/weed_control.typ"
 #include "content/task_grid.typ"
-#include "content/calendar.typ"
+#include "content/checklist.typ"
 
 // ══════════════════════════ PLANT SECTIONS ════════════════════
 

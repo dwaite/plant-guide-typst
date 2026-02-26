@@ -106,9 +106,16 @@
 // ── Plant page header (name + latin + image + overview) ──────
 // image-file: filename without extension, e.g. "maple"
 // body: overview content block
-#let plant-header(name, latin, image-file, body) = {
+// img-dx / img-dy: crop offset in pt (default 0pt = top-center crop).
+//   For landscape photos, dx shifts left/right (negative = left, positive = right).
+//   For portrait photos, dy shifts up/down (negative = up, positive = down).
+//   Image is sized to img-h height; landscape images overflow the 112pt box
+//   width and are clipped — use dx to shift the visible horizontal slice.
+#let plant-header(name, latin, image-file, body, img-dx: 0pt, img-dy: 0pt) = {
+  let img-w = 112pt
+  let img-h = 181pt  // img-w × φ (1.618) ≈ 181pt
   grid(
-    columns: (1fr, 112pt),
+    columns: (1fr, img-w + 2pt),
     column-gutter: 16pt,
     align: top,
     [
@@ -118,7 +125,11 @@
       #v(7pt, weak: true)
       #text(size: 10.5pt, fill: text-main)[#body]
     ],
-    image("images/" + image-file + ".jpg", width: 100%)
+    box(width: img-w, height: img-h, stroke: 1pt + black, radius: 2.5pt, clip: true)[
+      #place(top + center, dx: img-dx, dy: img-dy,
+        image("images/" + image-file + ".jpg", height: img-h)
+      )
+    ]
   )
   v(0.5pt)
   line(length: 100%, stroke: 0.4pt + luma(210))

@@ -11,7 +11,7 @@ typst watch main.typ plant_care_guide.pdf      # watch mode (auto-recompile)
 
 ## Key Property Facts
 - **Location:** Commerce City, CO, Zone 5b
-- **Soil:** Clay-dominant, pH 7.27
+- **Soil:** Heavy clay (observational — no particle size analysis performed), pH 7.27
   - HIGH phosphorus → never add P to any in-ground plant, ever
   - LOW nitrogen → supplement per plant
   - LOW potassium → supplement with 0-0-50 potassium sulfate
@@ -96,7 +96,7 @@ recommendations are what they are.
 | `content/fertilizer.typ` | Per-plant application table | Fertilizer changes for any plant |
 | `content/weed_control.typ` | Three-zone weed guide | Weed control updates |
 | `content/task_grid.typ` | 12-month visual task grid | Adding/changing active months per task |
-| `content/calendar.typ` | Spring 2026 priority callout + month-by-month checkbox checklist (no overview table) | Adding/editing seasonal tasks |
+| `content/checklist.typ` | Spring 2026 priority callout + month-by-month checkbox checklist (no overview table) | Adding/editing seasonal tasks |
 | `content/plants/*.typ` | One file per plant — mostly prose | Plant care text, callouts |
 
 ## Plants (23 total)
@@ -138,6 +138,10 @@ recommendations are what they are.
 // Plant page components
 #plant-header("Name", "Latin name", "image-filename")[overview text]
 // image-filename = stem only, e.g. "maple" for images/maple.jpg
+// Image crops to 112pt × 181pt (golden ratio portrait), top-center by default.
+// Per-plant crop adjustment (optional named args):
+//   img-dx: horizontal shift in pt — negative = left, positive = right
+//   img-dy: vertical shift in pt  — negative = up,   positive = down
 
 // Structural
 #group-header("TREES")  // full-width dark green banner

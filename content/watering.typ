@@ -16,9 +16,14 @@ this document.
 
 All trees and shrubs except the Silver Maples and Skyline Honeylocust are on drip
 irrigation. All drip zones share a single schedule — frequency and run time apply
-uniformly across every zone. *Emitter output rate (gph) at each plant is the only
-per-plant adjustment available.* Plant-specific watering guidance throughout this
-document is expressed in terms of emitter sizing, not schedule frequency.
+uniformly across every zone. *Emitter output rate and count at each plant are the
+only per-plant adjustments available.* Plant-specific watering guidance throughout
+this document is expressed in terms of emitter configuration, not schedule frequency.
+
+Set the drip controller to start early morning (5–7 am). Drip timing is less
+critical than sprinklers, but morning allows Smart Cycle soak-and-cycle sequences
+to complete before midday and delivers moisture to the root zone during peak
+photosynthesis hours rather than leaving roots in overnight-saturated clay.
 
 === Recommended Schedule
 
@@ -32,54 +37,73 @@ document is expressed in terms of emitter sizing, not schedule frequency.
   tbl-header-text[Interval],
   tbl-header-text[Notes],
 
-  [April – May],     [Every 5–6 days], [Spring ramp-up. Clay retains winter moisture — start conservatively and observe.],
+  [April – May],     [Every 5–6 days], [Spring ramp-up. Check soil before starting — clay may still hold moisture from the fall pre-freeze deep watering or spring snow events, but do not assume this in a dry year. Observe and adjust.],
   [June – August],   [Every 3 days],   [Peak demand. Right for the thirstiest drip plant (Japanese Maple at high emitter output). Clay's moisture retention means every-other-day would keep most plants too wet.],
   [September – October], [Every 6–7 days], [Taper down. Fall precipitation contributes; reduce run time as temperatures drop.],
   [November – March], [System off],    [Winter watering done manually. See Winter Watering below.],
 )
 
-Run time per zone: 30–45 minutes. Reduce if clay surface shows pooling or runoff before the cycle ends. If drip zones are configured in Rachio, enabling Smart Cycle (soak and cycle) improves water penetration into clay without runoff, and ET/MAD on drip zones will automatically shorten intervals during heat waves.
+Run time per zone: ~20 minutes. Enable Smart Cycle (soak and cycle) — Rachio will split this into shorter pulses with soak time between (e.g., 3 × 7 min), which penetrates clay far better than a single uninterrupted run. ET/MAD on drip zones will automatically shorten intervals during cool or wet periods.
 
-=== Emitter Sizing
+=== Emitter Configuration
 
-Size emitters at each plant to match its water demand. The schedule runs identically for all zones; emitter output is what differentiates a thirsty tree from a drought-tolerant perennial.
+All emitters are 2 gph. Total output per plant is controlled by emitter *count*.
+Trees and the Yankee Doodle Lilac use multiple emitters to meet higher demand within
+the shared run time. At ~20 min, each 2 gph emitter delivers approximately 0.67 gal
+per cycle.
+
+For trees, distribute emitters around the drip line (outer canopy edge), not at the
+trunk — feeder roots are at the drip line, and spacing emitters encourages lateral
+root spread. Aim for 18–24 inches from the trunk for young trees.
 
 #table(
-  columns: (2.2fr, 0.8fr, 3fr),
+  columns: (2.2fr, 1fr, 3fr),
   fill: tbl-fill,
   stroke: tbl-stroke,
   align: (left, left, left),
 
   tbl-header-text[Plant],
-  tbl-header-text[Emitter],
-  tbl-header-text[Rationale],
+  tbl-header-text[Emitters],
+  tbl-header-text[Notes],
 
-  [Emperor Japanese Maple],         [2 gph], [Highest demand on the property; full afternoon sun; shallow roots feel drought quickly.],
-  [Spring Snow Crabapple],          [1 gph], [Establishing tree; moderate-high demand.],
-  [Autumn Brilliance Serviceberry], [1 gph], [Establishing tree; elevated demand due to south-facing full-sun exposure.],
-  [Yankee Doodle Lilac],            [1 gph], [Larger establishing shrub; moderate demand.],
-  [Wichita Blue Juniper],           [0.5 gph], [Establishing evergreen; drought tolerant once established; overwatering is the greater risk.],
-  [Dwarf Globe Blue Spruce],        [0.5 gph], [Establishing evergreen; moderate-low demand; clay crown drainage critical.],
-  [Mops Mugo Pine],                 [0.5 gph], [Drought tolerant; low demand; sensitive to overwatering.],
-  [Miss Kim Lilac],                 [0.5 gph], [Fully established (2022); east-facing afternoon shade reduces demand.],
-  [Peking Cotoneaster],             [0.5 gph], [Very drought tolerant; low demand.],
-  [Dark Knight Bluebeard],          [0.5 gph], [Drought tolerant; prefers dry conditions; overwatering in clay is a kill risk.],
-  [Northwind Switchgrass],          [0.5 gph], [Native grass; moderate-low demand.],
-  [Daylilies],                      [0.5 gph], [Fully established (2022); east-facing afternoon shade reduces demand.],
-  [Agastache Sunset Hyssop],        [0.5 gph], [Drought tolerant; needs the least water per cycle on the shared schedule.],
-  [Rocky Mountain Penstemon],       [0.5 gph], [Native; drought tolerant; dry fall essential for survival in clay.],
-  [White Yarrow],                   [0.5 gph], [Very drought tolerant; roots susceptible to rot in persistently wet soil.],
-  [Blonde Ambition Blue Grama],     [0.5 gph], [Native prairie grass; very drought tolerant; thrives with minimal supplemental water.],
-  [Autumn Joy Sedum],               [0.5 gph], [Drought tolerant; extended wet conditions in clay reduce quality and cause flopping.],
+  [Emperor Japanese Maple],         [3 × 2 gph], [Highest demand; full afternoon sun; shallow roots. ~2.0 gal/cycle.],
+  [Spring Snow Crabapple],          [2–3 × 2 gph], [Establishing tree; 2 minimum, 3 preferred. 1.33–2.0 gal/cycle.],
+  [Autumn Brilliance Serviceberry], [2–3 × 2 gph], [South-facing full sun adds demand. 1.33–2.0 gal/cycle.],
+  [Yankee Doodle Lilac],            [2 × 2 gph], [Larger establishing shrub. 1.33 gal/cycle.],
+  [Wichita Blue Juniper],           [1 × 2 gph], [Drought tolerant; overwatering is the greater risk. 0.67 gal/cycle.],
+  [Dwarf Globe Blue Spruce],        [1 × 2 gph], [Moderate-low demand; clay crown drainage critical. 0.67 gal/cycle.],
+  [Mops Mugo Pine],                 [1 × 2 gph], [Drought tolerant; sensitive to overwatering. 0.67 gal/cycle.],
+  [Miss Kim Lilac],                 [1 × 2 gph], [Established (2022); afternoon shade. #emph[Audit existing emitter before reducing run time — swap to 2 gph if smaller.]],
+  [Peking Cotoneaster],             [1 × 2 gph], [Very drought tolerant. 0.67 gal/cycle.],
+  [Dark Knight Bluebeard],          [1 × 2 gph], [Prefers dry; cap emitter in September. 0.67 gal/cycle.],
+  [Northwind Switchgrass],          [1 × 2 gph], [Native grass; moderate-low demand. 0.67 gal/cycle.],
+  [Daylilies],                      [1 × 2 gph], [Established (2022); afternoon shade. #emph[Audit existing emitter — swap to 2 gph if smaller.]],
+  [Agastache Sunset Hyssop],        [1 × 2 gph], [Drought tolerant; cap emitter in September. 0.67 gal/cycle.],
+  [Rocky Mountain Penstemon],       [1 × 2 gph], [Native; drought tolerant; cap emitter in September. 0.67 gal/cycle.],
+  [White Yarrow],                   [1 × 2 gph], [Very drought tolerant; cap emitter in September. 0.67 gal/cycle.],
+  [Blonde Ambition Blue Grama],     [1 × 2 gph], [Native prairie grass; very drought tolerant. 0.67 gal/cycle.],
+  [Autumn Joy Sedum],               [1 × 2 gph], [Drought tolerant; cap emitter in September. 0.67 gal/cycle.],
 )
 
 #warning-callout("Japanese Maple — Supplemental Watering Exception")[
   During extended heat waves in July and August (3 or more consecutive days above
-  95°F), the every-3-day schedule at 2 gph may not fully meet this tree's needs in
-  its full-afternoon-sun location. Supplemental hand watering at the drip line during
-  these events is appropriate — a slow soak with a hose at the outer root zone. This
-  is a documented system constraint, not a general recommendation. All other drip
-  plants are adequately served by emitter sizing on the shared schedule.
+  95°F), the every-3-day schedule at 3 × 2 gph may not fully meet this tree's needs
+  in its full-afternoon-sun location. Supplemental hand watering at the drip line
+  during these events is appropriate — a slow soak with a hose at the outer root zone.
+  This is a documented system constraint, not a general recommendation.
+]
+
+#info-callout("Drought-Tolerant Plants — Watching for Too Much Water")[
+  At 0.67 gal/cycle, drought-tolerant plants receive more than strictly necessary
+  during establishment. Watch for these early signals and cap or remove emitters
+  earlier in the season if they appear:
+  - *Autumn Joy Sedum:* stems flopping outward in a ring rather than staying upright — the clearest early signal in the landscape.
+  - *White Yarrow:* yellowing lower leaves, then flopping stems mid-season.
+  - *Dark Knight Bluebeard:* yellowing despite wet soil, or wilting that doesn't recover in cool morning temperatures.
+  - *Agastache / Penstemon:* softness or yellowing at the crown base.
+  - *Juniper / Mugo Pine:* interior needle yellowing — monitor soil moisture at the crown in June rather than waiting for visible symptoms.
+  Cap emitters earlier as the first response. Swap to a smaller emitter if a single
+  cap date isn't enough to control moisture.
 ]
 
 

@@ -1,6 +1,6 @@
 // ============================================================
-// SEASONAL CALENDAR & MONTHLY TASK CHECKLIST
-// Edit the calendar table rows and checklist items below.
+// MONTH-BY-MONTH TASK CHECKLIST
+// Edit the priority callout and checklist items below.
 // ============================================================
 #import "../template.typ": *
 
