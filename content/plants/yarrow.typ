@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. The combination of small emitter output and clay's moisture retention keeps the root zone appropriately moist without overwatering. Stop drip support in September.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. Clay's moisture retention between cycles keeps the root zone adequately moist; cap the emitter in September.
 
 === Fertilization
 

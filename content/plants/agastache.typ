@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter* — the minimum needed during establishment. See the Irrigation & Watering section for the shared drip schedule. Agastache is very drought tolerant and needs significantly less water than the trees on the same schedule. Wet fall and winter soil in clay is the primary cause of plant loss — stop drip support entirely by mid-September.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Agastache is very drought tolerant and receives more water than strictly necessary at the standard emitter rate — watch for crown softness or yellowing as an early overwatering signal and cap the emitter in September to reduce fall moisture. Wet fall and winter soil in clay is the primary cause of plant loss.
 
 === Fertilization
 

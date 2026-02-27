@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Wichita Blue Juniper is drought tolerant but still in its second establishment season. In clay soil, overwatering is a greater risk than underwatering — the schedule's dry-down interval between cycles is beneficial for this plant. Never allow water to pool at or near the root crown.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Wichita Blue Juniper is drought tolerant but still in its second establishment season. In clay soil, overwatering is a greater risk than underwatering — the schedule's dry-down interval between cycles is beneficial for this plant. Never allow water to pool at or near the root crown.
 
 === Fertilization
 

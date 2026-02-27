@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter* — the minimum during establishment. See the Irrigation & Watering section for the shared drip schedule. Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant. The 0.5 gph emitter on the shared schedule delivers a conservative amount well-suited to this plant. Once fully established, drip support may not be necessary at all.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant — 0.67 gal/cycle is more than strictly needed for this plant. Once fully established, drip support may not be necessary at all; cap the emitter when the plant shows no stress signs.
 
 === Fertilization
 

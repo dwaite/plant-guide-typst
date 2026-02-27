@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. As a fully established shrub (since 2022) in afternoon shade, water demand is lower than a full-sun plant of the same size — the 0.5 gph emitter is appropriate. Clay soil retains moisture significantly between cycles; overwatering in clay creates crown rot risk. Never let water pool at the base. Continue drip support through October in dry autumns; the system can run its normal fall taper for this plant.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle) — audit the existing emitter before the 2026 season; if a smaller emitter is installed, swap to 2 gph before reducing overall run time. See the Irrigation & Watering section for the shared drip schedule. As a fully established shrub (since 2022) in afternoon shade, water demand is lower than a full-sun plant of the same size. Clay soil retains moisture significantly between cycles; overwatering in clay creates crown rot risk. Never let water pool at the base. Continue drip support through October in dry autumns.
 
 === Fertilization
 

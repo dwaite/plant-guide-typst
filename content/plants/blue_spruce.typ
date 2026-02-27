@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. The dense, low crown means drainage away from the root zone is critical — ensure the plant sits slightly raised above grade so water does not pool at the base. Clay moisture retention between cycles is adequate for this plant; the greater risk is overwatering rather than underwatering.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. The dense, low crown means drainage away from the root zone is critical — ensure the plant sits slightly raised above grade so water does not pool at the base. Clay moisture retention between cycles is adequate for this plant; the greater risk is overwatering rather than underwatering.
 
 === Fertilization
 

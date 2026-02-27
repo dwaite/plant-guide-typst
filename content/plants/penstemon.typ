@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter* — the minimum needed during establishment. See the Irrigation & Watering section for the shared drip schedule. Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Stop drip support in late August.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Cap the emitter and stop drip support in late August.
 
 === Fertilization
 

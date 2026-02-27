@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. As fully established clumps (since 2022) in afternoon shade, water demand is lower than full-sun daylilies — the 0.5 gph emitter and the shared schedule are appropriate. Daylilies are very drought tolerant after establishment; consistent moisture during the blooming period (June–July) improves flower production, but the shared schedule is sufficient. Stop drip support in September as temperatures drop.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle) — audit the existing emitter before the 2026 season; if a smaller emitter is installed, swap to 2 gph before reducing overall run time. See the Irrigation & Watering section for the shared drip schedule. As fully established clumps (since 2022) in afternoon shade, water demand is lower than full-sun daylilies. Daylilies are very drought tolerant after establishment; consistent moisture during the blooming period (June–July) improves flower production, but the shared schedule is sufficient. Stop drip support in September as temperatures drop.
 
 === Fertilization
 

@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *1 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Consistent moisture during the spring bloom period and early summer — when next year's flower buds are setting — is the most critical period for this plant. The shared schedule through June directly supports bloom quality the following year.
+On drip irrigation with 2 × 2 gph emitters (1.33 gal/cycle) — the higher count reflects this shrub's larger size relative to other drip-irrigated shrubs. See the Irrigation & Watering section for the shared drip schedule. Consistent moisture during the spring bloom period and early summer — when next year's flower buds are setting — is the most critical period for this plant. The shared schedule through June directly supports bloom quality the following year.
 
 === Fertilization
 

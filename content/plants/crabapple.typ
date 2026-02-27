@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *1 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom. Deep watering encourages roots to grow downward.
+On drip irrigation with 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). Distribute emitters around the drip line, not at the trunk — feeder roots are at the canopy edge. See the Irrigation & Watering section for the shared drip schedule. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom.
 
 === Fertilization
 

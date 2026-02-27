@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *1 gph emitter*. The south-facing full-sun exposure elevates water demand above a typical serviceberry — this emitter rate reflects that elevated need relative to most shrubs on the same schedule. See the Irrigation & Watering section for the shared drip schedule.
+On drip irrigation with 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). The south-facing full-sun exposure is the most stressful on the property and drives the higher emitter count relative to other shrubs. Distribute emitters around the drip line, not at the trunk. See the Irrigation & Watering section for the shared drip schedule.
 
 As a second-season plant in the most stressful location on the property, water demand is at its peak this season. Leaf scorch (brown margins, starting at leaf tips) is likely in hot summers — ensure the emitter is delivering fully and mulch is maintained before scorch appears, not after. Consistent moisture during fruit set (May–June) improves berry crop size and quality. Drip delivery keeps water off foliage, which is ideal for reducing fungal risk.
 

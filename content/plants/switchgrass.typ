@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well at low emitter output. No supplemental irrigation needed once the plant goes dormant in fall.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well. No supplemental irrigation needed once the plant goes dormant in fall.
 
 === Fertilization
 

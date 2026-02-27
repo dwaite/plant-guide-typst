@@ -82,6 +82,8 @@ recommendations are what they are.
 | `notes/fertilizer.md` | High-P constraint, EDDHA iron rationale, acidifying fertilizer trade-offs, per-group strategies |
 | `notes/soil.md` | Soil test results, pH context, Ca/P/micronutrient lockout mechanism, what to retest and when |
 | `notes/establishment.md` | Cohort status, per-plant concerns (Miss Kim, JM, Bluebeard), season log |
+| `notes/property.md` | Lot layout, zone descriptions, bed types, plant-to-location mapping, design deviations (Serviceberry→JM substitution, Agastache species confirmation) |
+| `notes/products.md` | Delivery system guide (M12 vs. hose-end vs. granular), tank mixing rules, product list by task with brand names, annual supply order reference |
 
 ## File Roles
 

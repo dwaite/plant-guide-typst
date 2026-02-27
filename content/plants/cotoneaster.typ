@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Peking Cotoneaster is very drought tolerant and handles the shared schedule well at low emitter output. In clay soil, the natural moisture retention between cycles is more than adequate for this plant.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Peking Cotoneaster is very drought tolerant; clay moisture retention between cycles is more than adequate. The 0.67 gal/cycle delivery is somewhat generous for this plant — cap the emitter in September.
 
 === Fertilization
 

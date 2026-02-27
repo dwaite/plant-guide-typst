@@ -9,7 +9,7 @@
 
 === Watering
 
-On drip irrigation with a *0.5 gph emitter*. See the Irrigation & Watering section for the shared drip schedule. Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. The schedule's natural taper in September–October aligns well with this plant's needs; stop drip support by late September.
+On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. Cap the emitter by late September; the schedule's natural taper aligns well with this plant's needs.
 
 === Fertilization
 
