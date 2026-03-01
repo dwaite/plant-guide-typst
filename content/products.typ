@@ -52,6 +52,13 @@ section for the nutrient context driving these choices.
 Lawn reference baseline for this guide: #lawn-size-sqft sq ft with an annual
 fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
+#info-callout("Shared Handling Rules")[
+  - Use label rates and timing.
+  - Use the bucket drench method for root-zone products.
+  - Water in granular and wetting-agent applications.
+  - Apply EDDHA iron, herbicides, oils/soaps/fungicides, and anti-desiccant solo.
+]
+
 #v(0.8em)
 
 == Fertilizers & Nutrients
@@ -90,7 +97,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 #pe("Liquid N-K Fertilizer",
   role:    [Spring Nitrogen and Potassium for Trees and Shrubs],
   npk:     [15-0-15],
-  apply:   [All in-ground trees and shrubs — bucket drench at drip line; follow with slow hose soak. Can be combined in the same bucket as chelated micronutrient blend for the May combined pass.],
+  apply:   [All in-ground trees and shrubs — bucket drench at drip line. Can be combined with the chelated micronutrient blend for the May pass.],
   timing:  [Early spring; combined with LESCO Chelated Micro Mix in May.],
   sources: [Simple Lawn Solutions 15-0-15 (liquid concentrate; also contains humic acid and kelp). Amazon or simplelawnsolutions.com.])
 
@@ -104,7 +111,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("EDDHA Chelated Iron",
   role:    [pH-Stable Iron Correction at pH 7.27],
-  apply:   [Honeylocust and Japanese Maple — bucket drench only; dissolve in 1–2 gal water per plant, pour slowly at drip line, follow with slow hose soak. *Apply solo — never mix with other products.*],
+  apply:   [Honeylocust and Japanese Maple — bucket drench only.],
   timing:  [May (both plants); June (Honeylocust only); early July (Japanese Maple only).],
   note:    [EDDHA is the only chelated iron form that remains plant-available above pH 7.0. EDTA and other chelates precipitate out above pH 6.5 and are ineffective in this soil. Applied *in addition to* the chelated micronutrient blend — the blend covers all plants, while EDDHA iron provides targeted supplemental iron for the two most chlorosis-prone plants.],
   sources: [Ferrilene 6% EDDHA or Sequestrene 138 (equivalent products). Amazon, pestrong.com, or intermountainturf.com. Also at SiteOne Landscape Supply (call ahead). Not at Home Depot or Ace.])
@@ -118,7 +125,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Chelated Micronutrient Blend",
   role:    [Annual Fe, Mn, Zn, Cu, Mg, S, Mo Correction — Highest-Priority Annual Task],
-  apply:   [All in-ground trees, shrubs, and perennials — bucket drench at drip line; combine with liquid N-K fertilizer in the same bucket for the May combined pass; follow with slow hose soak.],
+  apply:   [All in-ground trees, shrubs, and perennials — bucket drench; combine with liquid N-K for the May pass.],
   timing:  [May only.],
   note:    [The iron in this blend is not EDDHA-form and may not be fully available at pH 7.27 for the most chlorosis-sensitive plants. Honeylocust and Japanese Maple receive a separate *EDDHA Chelated Iron* drench in addition to this blend — not instead of it.],
   sources: [LESCO Chelated Micro Mix (liquid). SiteOne Landscape Supply (open to public; Denver/Aurora metro — call ahead to confirm stock). Mail-order alternative: Golf Course Lawn Micronutrient Blend (golfcourselawn.store).])
@@ -126,7 +133,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 #pe("Ammonium Sulfate Powder",
   role:    [Acidifying Nitrogen for Japanese Maple, Blue Spruce, and Mugo Pine],
   npk:     [21-0-0],
-  apply:   [Japanese Maple, Dwarf Globe Blue Spruce, and Mops Mugo Pine — bucket drench at drip line; dissolve powder in 1–2 gal water, pour slowly, follow with slow hose soak. Percolates through mulch without disturbing it.],
+  apply:   [Japanese Maple, Dwarf Globe Blue Spruce, and Mops Mugo Pine — bucket drench at drip line.],
   timing:  [Early spring (April), every 1–2 years.],
   note:    [Must be water-soluble powder — granular ammonium sulfate does not dissolve adequately for bucket use. Holly-tone 4-3-4 is a convenience alternative but contains P; acceptable for these three plants only where no zero-P acidifying option exists.],
   sources: [Water-soluble ammonium sulfate 21-0-0 powder. Shop for best price — any horticultural or food-grade soluble formulation is equivalent. Ryan Knorr Lawn Care (ryanknorrlawncare.com) at \~\$2.20/lb is one source.])
@@ -153,7 +160,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Compost Tea",
   role:    [Living Soil Microbial Inoculant],
-  apply:   [Lawn — hose-end sprayer broadcast. Tree and shrub drip lines — bucket slow-pour. Buy same-day only: viable microbial counts drop within 24–48 hours.],
+  apply:   [Lawn — hose-end broadcast. Tree/shrub drip lines — bucket drench. Buy and apply same day.],
   timing:  [Spring (April/May); fall (September, after aeration and compost topdressing).],
   note:    [Do not apply in summer — clay surface temperatures kill microbes before establishment. Never mix with chemical fertilizers.],
   sources: [EcoCycle Microbe Brew — local Boulder, CO product. ecocycle.org.])
@@ -174,7 +181,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Anti-Desiccant",
   role:    [Winter Moisture Protection for Evergreen Foliage],
-  apply:   [Wichita Blue Juniper and Dwarf Globe Blue Spruce — M12 sprayer, thorough foliar coat on all foliage. Apply solo — do not mix.],
+  apply:   [Wichita Blue Juniper and Dwarf Globe Blue Spruce — M12 foliar spray.],
   timing:  [Late November only, after temperatures are consistently below 40°F but before the hardest freezes.],
   sources: [Bonide Wilt-Stop or Wilt-Pruf concentrate. Ace Hardware, Home Depot, and garden centers.])
 
@@ -209,7 +216,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Bindweed Herbicide",
   role:    [Systemic Control of Field Bindweed],
-  apply:   [Bindweed foliage only — M12 sprayer, targeted spot treatment. Apply solo — never mix with fertilizers.],
+  apply:   [Bindweed foliage only — M12 targeted spot spray.],
   timing:  [Late August — roots are most vulnerable before fall dormancy; optimal kill rate vs. earlier timing.],
   sources: [Triclopyr concentrate: Ortho Brush-B-Gon or similar. Home Depot and Ace Hardware.])
 
@@ -239,19 +246,19 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Insecticidal Soap",
   role:    [Contact Kill of Soft-Bodied Pests — Aphids, Mites, Whitefly],
-  apply:   [Affected foliage — M12 sprayer on both sides at dawn or dusk. Apply solo. Repeat every 5–7 days as needed.],
+  apply:   [Affected foliage — M12 spray at dawn/dusk; repeat every 5–7 days as needed.],
   timing:  [As needed during growing season.],
   sources: [Garden Safe or Bonide Insecticidal Soap. Ace Hardware, Home Depot, and garden centers.])
 
 #pe("Neem Oil",
   role:    [Multi-Action Fungicide, Miticide, and Insecticide],
-  apply:   [Affected foliage — M12 sprayer at dawn or dusk. Apply solo. Do not apply when temperatures exceed 90°F.],
+  apply:   [Affected foliage — M12 spray at dawn/dusk. Do not apply above 90°F.],
   timing:  [As needed; preventive rotation for roses starting in May.],
   sources: [Bonide Neem Oil. Ace Hardware, Home Depot, and garden centers.])
 
 #pe("Horticultural Oil",
   role:    [Smothers Overwintering Insects, Mite Eggs, and Scale on Woody Plants],
-  apply:   [Woody plants — M12 sprayer. Apply solo — do not mix with sulfur-based products or within 2 weeks of sulfur applications. Do not apply above 85°F.],
+  apply:   [Woody plants — M12 spray. Do not mix with sulfur products or apply above 85°F.],
   timing:  [Primary: early spring before bud break (dormant application). Secondary: growing season as needed.],
   sources: [Bonide All Seasons Oil or similar horticultural oil. Ace Hardware and garden centers.])
 
@@ -269,7 +276,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Copper Fungicide",
   role:    [Fire Blight, Powdery Mildew, and Rust Prevention and Control],
-  apply:   [Affected plants — M12 sprayer. Apply solo.],
+  apply:   [Affected plants — M12 spray.],
   timing:  [Preventively in early spring or at first symptom.],
   sources: [Bonide Copper Fungicide or Liqui-Cop. Ace Hardware and garden centers.])
 
@@ -281,7 +288,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Rose Fungicide",
   role:    [Systemic Black Spot Prevention and Control for Knock Out Roses],
-  apply:   [Knock Out Rose foliage — M12 sprayer on a 7–14 day preventive rotation. Apply solo.],
+  apply:   [Knock Out Rose foliage — M12 spray on a 7–14 day preventive rotation.],
   timing:  [Preventively starting in May through the growing season.],
   sources: [Myclobutanil (Spectracide Immunox) or tebuconazole (Bayer Disease Control). Home Depot, Ace Hardware, and garden centers.])
 
@@ -294,28 +301,12 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 #v(0.8em)
 == Application Methods
 
-*Granular products* (ammonium sulfate 21-0-0 for lawn, potassium sulfate, elemental
-sulfur) — *broadcast spreader or hand broadcast:* Pull mulch back from the plant
-base, broadcast granules evenly out to the drip line, water in well, then replace
-mulch. For the lawn, use a broadcast spreader for even coverage.
-
-*Soil drench products* (15-0-15 N-K, LESCO Chelated Micro Mix, EDDHA iron,
-water-soluble ammonium sulfate for acid-preferring plants) — *bucket + watering can
-or slow hose:* Mix product in a bucket of water, pour slowly around the drip line,
-then follow with a slow hose soak. More water volume means better penetration into
-clay. The May combined pass (15-0-15 + LESCO Micro Mix in one bucket) covers most
-trees and shrubs in a single trip. *EDDHA iron must be applied solo in its own
-bucket — do not mix.*
-
-*Bed sprays* (liquid pre-emergent, bindweed spot treatment, neem oil, insecticidal
-soap, copper fungicide, anti-desiccant) — *Milwaukee M12 2-gallon handheld sprayer:*
-Fine spray for surface coverage, not volume. Not the right tool for soil drenches.
-
-*Lawn broadcast liquids* (humic acid, compost tea) — *Chapin G362D hose-end sprayer:*
-Adjustable dilution ratios for large-area coverage.
-
-*Crushed rock areas:*
-Broadcast granular products over the rock surface and water in — no need to move rock.
+Use these default methods:
+- *Granular products* — broadcast spreader (lawn) or hand-broadcast to drip line (beds); water in.
+- *Soil drenches* — bucket at drip line; May combined pass is 15-0-15 + chelated micros.
+- *Bed sprays* — Milwaukee M12 for surface coverage.
+- *Lawn liquids* — Chapin hose-end sprayer.
+- *Rock areas* — broadcast over rock surface and water in.
 
 #v(0.8em)
 == Tank Mixing Rules
@@ -327,13 +318,10 @@ Broadcast granular products over the rock surface and water in — no need to mo
 ]
 
 #danger-callout("Apply solo — never mix these")[
-  - *EDDHA iron* (Ferrilene/Sequestrene 138) — dedicated bucket drench only for
-    dose control and compatibility risk avoidance
-  - *Herbicides* (triclopyr, glyphosate, 2,4-D products) — never mix with fertilizers;
-    always solo
+  - *EDDHA iron* (Ferrilene/Sequestrene 138)
+  - *Herbicides* (triclopyr, glyphosate, 2,4-D products)
   - *Compost tea* (EcoCycle Microbe Brew) — chemical fertilizers kill the living microbes
-  - *Anti-desiccant* (Wilt-Pruf/Bonide Wilt-Stop) — solo foliar application, November only
-  - *Horticultural oil* — do not mix with sulfur-based products or other pesticides
-  - *Insecticidal soap / neem oil / copper fungicide / other pest products* — solo;
-    risk of phytotoxicity in combination
+  - *Anti-desiccant* (Wilt-Pruf/Bonide Wilt-Stop)
+  - *Horticultural oil* — do not mix with sulfur-based products
+  - *Insecticidal soap / neem oil / copper fungicide / other pest products*
 ]

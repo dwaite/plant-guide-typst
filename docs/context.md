@@ -7,6 +7,12 @@ Shared project context for AI coding agents. Agent-specific behavior should live
 A Typst document project that compiles to a PDF plant care guide for a specific
 residential property in Commerce City, Colorado (Zone 5b).
 
+## Product Boundary
+- **Project output:** the compiled guide (`plant_care_guide.pdf`) and its source
+  document files in `content/`, `main.typ`, and `template.typ`.
+- **Internal support artifacts:** `notes/` and any audit records. These exist to
+  justify or update guidance, but are not the end product.
+
 ## Core Commands
 - `make build` — compile PDF
 - `make watch` — watch mode
@@ -38,11 +44,18 @@ higher attention to watering and mulch. See `notes/establishment.md`.
 ## Deferred Item
 Do not edit `content/plants/candytuft.typ` until spring 2026 survival is confirmed.
 
-## Three-Layer Model
+## Core Model
 - **Data:** `data/plants.toml` (canonical facts)
 - **Data:** `data/soil.toml`, `data/lawn_program.toml`, `data/inventory.toml` (non-plant canonical facts and constraints)
-- **Reasoning:** `notes/*.md` (why decisions were made)
-- **Document:** `content/**/*.typ`, `main.typ`, `template.typ` (presentation)
+- **Reasoning inputs:** `notes/*.md` (why decisions were made; internal only)
+- **Document output source:** `content/**/*.typ`, `main.typ`, `template.typ` (presentation)
+
+### Audit Lifecycle
+- Audit files (for example `notes/research/*`) are **temporary verification
+  work products** used when validating or re-validating guidance.
+- After audited guidance is integrated into data/content and verified, audit
+  files may be archived or removed until the next audit cycle.
+- Do not treat prior audit artifacts as permanent project outputs.
 
 When facts change (plant replacement, irrigation type, emitter setup), update the
 data layer first, then reconcile notes and document.

@@ -15,3 +15,5 @@ layering rules.
 - Favor minimal, targeted edits to the correct layer (`data/`, `notes/`, or `content/`).
 - Keep `data/plants.toml` as the canonical plant roster/order.
 - Keep recommendations specific to this property, never generic.
+- Treat `content/` + PDF as the product output; treat `notes/` as internal rationale.
+- Treat `notes/research/` audit artifacts as temporary unless an active audit is in progress.

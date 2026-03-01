@@ -3,6 +3,16 @@
 A plant care guide for a specific residential property in Commerce City, Colorado (Zone 5b),
 built with [Typst](https://typst.app) — a modern typesetting system that compiles to PDF.
 
+## Project Intent
+
+- **Primary deliverable:** the guide source (`content/`, `main.typ`,
+  `template.typ`) and compiled PDF (`plant_care_guide.pdf`).
+- **Supporting rationale:** `notes/` captures decision rationale and maintenance
+  context; it is an internal support layer, not an output artifact.
+- **Audit records:** audit/source-ledger files are temporary verification
+  artifacts used during audit cycles and may be archived or removed between
+  audits once guidance has been integrated.
+
 ## Setup
 
 **Install Typst** (one-time):
@@ -71,6 +81,9 @@ data/
   soil.toml           ← Canonical soil profile/status rows
   lawn_program.toml   ← Canonical lawn annual N range and pass schedule
   inventory.toml      ← Canonical constrained inventory decisions (e.g., on-hand Preen)
+notes/
+  *.md                ← Internal rationale and planning notes
+  research/           ← Temporary audit artifacts (not a permanent output layer)
 images/
   maple.jpg, ...      ← 23 plant photos
 ```
