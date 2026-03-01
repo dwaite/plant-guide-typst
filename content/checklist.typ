@@ -24,6 +24,39 @@ Tasks are listed in priority order within each month.
   fall 2026.
 ]
 
+#warning-callout("2026 Nutrition Catch-Up — What to Know")[
+  In 2025, fertilization was partial: approximately half the recommended lawn
+  nitrogen was applied, and a 50/50 topsoil and compost blend was applied as a
+  fall topdress. Here is how to account for this going into 2026:
+
+  *Lawn nitrogen — do not double up.* Applying extra N in spring to compensate
+  pushes fast top growth at the expense of roots and raises disease risk. Resume
+  the normal schedule: \~1.0 lb N/1,000 sq ft in May, 0.5 lb in June, and a
+  full fall liquid N program in September (the most important of the year). The
+  lawn will recover on a normal schedule.
+
+  *Fall topdress blend.* The blend was topsoil and compost — no synthetic
+  fertilizer was included, so there is no phosphorus concern from this
+  application. Compost is the recommended topdressing material; this was a
+  beneficial application. Continue compost-only topdressing in future falls.
+
+  *May 2026 micronutrient drench is especially critical.* The 2024-cohort
+  plants are now in their second and highest-risk establishment season after a
+  growing year with limited iron, zinc, copper, and manganese. Do not skip or
+  delay the May LESCO Chelated Micro Mix pass — it is the single
+  highest-impact task of the year.
+
+  *Japanese Maple and Honeylocust:* Most vulnerable to iron chlorosis in this
+  alkaline soil. If EDDHA iron drenches were skipped in 2025, the May 2026
+  drench is especially important. Follow the split schedule: Honeylocust — May
+  and June; Japanese Maple — May and early July.
+
+  *Trees and shrubs:* Resume the normal May combined 15-0-15 N-K + LESCO
+  Micro Mix drip-line pass. One missed season is unlikely to cause lasting
+  damage for fully established plants (2022 cohort), but the 2024 cohort is not
+  yet established — give them extra attention through summer 2026.
+]
+
 // Helper: shorthand for true/false
 #let Y = true
 #let N = false
@@ -31,7 +64,7 @@ Tasks are listed in priority order within each month.
 #let task-checklist = (
   // ── January ────────────────────────────────────────────────
   "January",
-  ("Winter water all trees and drip-zone shrubs on any day above 40°F (20 min run time)",N),
+  ("Winter water all trees and drip-zone shrubs on any day above 40°F (15–20 min per plant with a slow hose at the drip line)",N),
   ("Check Knock Out Rose and Candytuft storage — barely moist, not dry, not frozen",N),
   ("Inspect tree trunk wraps on Silver Maples — replace if damaged",N),
   ("Review this guide; order spring supplies — see _Products & Delivery_ in notes. Key items to order online: Ferrilene/Sequestrene 138 EDDHA iron, LESCO Chelated Micro Mix (SiteOne), Simple Lawn Solutions 15-0-15",N),
@@ -47,7 +80,7 @@ Tasks are listed in priority order within each month.
   // ── March ───────────────────────────────────────────────────
   "March",
   ("Apply pre-emergent to lawn — granular pendimethalin (Scotts Halts) at forsythia bloom / soil 50°F",N),
-  ("Apply pre-emergent to mulched beds and rock areas — liquid pre-emergent via M12 sprayer",N),
+  ("Apply pre-emergent to mulched beds and rock areas — broadcast Preen granules; water in (mulch beds) or hose flush-through (rock beds)",N),
   ("Start drip system if freeze risk has passed",N),
   ("Pull mulch back from plant crowns (prevent crown rot)",N),
   ("Check perennials for winter heave — press crowns back down if lifted",N),
@@ -56,7 +89,7 @@ Tasks are listed in priority order within each month.
   // ── April ───────────────────────────────────────────────────
   "April",
   ("Apply N-K fertilizer to trees and shrubs — Simple Lawn Solutions 15-0-15 mixed in bucket, slow-pour at each drip line; follow with slow hose soak",N),
-  ("Apply acidifying fertilizer to Japanese Maple and Mugo Pine — ammonium sulfate 21-0-0 broadcast at drip line, water in",N),
+  ("Apply acidifying nitrogen to Japanese Maple, Dwarf Globe Blue Spruce, and Mugo Pine — dissolve water-soluble ammonium sulfate 21-0-0 in bucket, slow-pour at drip line, follow with hose soak",N),
   ("Knock Out Roses: spring container refresh — top-third mix, hydrogel crystals, elemental sulfur. See _Container Setup_ in plant pages.",N),
   ("Knock Out Roses: replace pea gravel layer with foam packing peanuts (one-time — remove this item once done). See _Container Setup_.",N),
   ("*Knock Out Roses: begin fertilizer schedule — Jack's Classic Rose FeED every 3–4 weeks through mid-August (6–7 applications total)*",N),
@@ -70,7 +103,7 @@ Tasks are listed in priority order within each month.
 
   // ── May ─────────────────────────────────────────────────────
   "May",
-  ("*Apply chelated micronutrient package to ALL in-ground trees, shrubs, and perennials — LESCO Chelated Micro Mix mixed in bucket with 15-0-15 N-K; slow-pour at each drip line, follow with slow hose soak. Highest priority task of the year.*",N),
+  ("*Apply chelated micronutrient blend to ALL in-ground trees, shrubs, and perennials — LESCO Chelated Micro Mix mixed in bucket with 15-0-15 N-K; slow-pour at each drip line, follow with slow hose soak. Highest priority task of the year.*",N),
   ("Apply EDDHA chelated iron soil drench to Honeylocust and Japanese Maple — Ferrilene/Sequestrene 138 dissolved in separate bucket of water; slow-pour at drip line, follow with hose soak. Apply solo — do not mix with other products.",N),
   ("Apply liquid chelated iron (EDTA — Bonide Liquid Iron) to rose containers as monthly drench — continue through August",N),
   ("Knock Out Roses: fertilize with Jack's Classic Rose FeED (~3–4 weeks after April application)",N),
@@ -88,7 +121,7 @@ Tasks are listed in priority order within each month.
   ("Apply monthly chelated iron (EDTA — Bonide Liquid Iron) drench to rose containers",N),
   ("Knock Out Roses: fertilize with Jack's Classic Rose FeED (~3–4 weeks after May application)",N),
   ("Supplement Japanese Maple drip with hand watering during heat waves — drip schedule alone may be insufficient in full afternoon sun",N),
-  ("Apply Revive Ready Spray to lawn and all beds — attach bottle to hose, follow immediately with irrigation",N),
+  ("Apply Revive liquid concentrate to lawn and all beds via Chapin hose-end sprayer — follow immediately with irrigation",N),
   ("Begin weekly spider mite inspections on Dwarf Globe Blue Spruce — check branch undersides for fine webbing and stippled needles",N),
   ("Second lawn fertilization — granular ammonium sulfate 21-0-0 via broadcast spreader, 0.5 lb N/1,000 sq ft; water in after",N),
   ("Scout all plants for pests — treat early before populations build",N),
@@ -98,11 +131,11 @@ Tasks are listed in priority order within each month.
   ("Prune Silver Maples if needed (preferred summer window)",N),
   ("Apply second EDDHA chelated iron drench to Japanese Maple (early July, before peak heat) — Ferrilene/Sequestrene 138 in separate bucket, slow-pour at drip line, follow with hose soak. Apply solo.",N),
   ("Apply monthly chelated iron (EDTA — Bonide Liquid Iron) drench to rose containers",N),
-  ("Knock Out Roses: fertilize with Jack's Classic Rose FeED (~3–4 weeks after June application) — last application no later than mid-July",N),
+  ("Knock Out Roses: fertilize with Jack's Classic Rose FeED (~3–4 weeks after June application)",N),
   ("Monitor Japanese Maple for leaf scorch — supplement drip with hand watering during heat waves",N),
   ("Continue weekly spider mite inspections on Dwarf Globe Blue Spruce through August",N),
   ("Check drip emitters — flush or replace any clogged heads",N),
-  ("Stop all fertilizer by mid-July — do not fertilize heat-stressed plants",N),
+  ("Stop all fertilizer on in-ground plants by mid-July — do not fertilize heat-stressed plants. Potted Knock Out Roses continue through early August.",N),
   ("Monitor lawn for dry spots, summer patch, or spider mite stress",N),
 
   // ── August ──────────────────────────────────────────────────
@@ -112,15 +145,16 @@ Tasks are listed in priority order within each month.
   ("Knock Out Roses: final fertilizer application — Jack's Classic Rose FeED, early August only; stop by mid-August (6 weeks before first frost)",N),
   ("Reduce watering on Bluebeard and Agastache significantly",N),
   ("Apply second pre-emergent to lawn — granular pendimethalin (Scotts Halts)",N),
-  ("Apply second pre-emergent to beds if needed — liquid via M12",N),
+  ("Apply second pre-emergent to rock beds — liquid prodiamine concentrate via M12 sprayer (longer residual carries through fall and winter)",N),
   ("Plan fall overseeding of thin lawn areas (seed immediately after aerating)",N),
   ("Apply bindweed herbicide — triclopyr concentrate (Ortho Brush-B-Gon) spot spray via M12; late August optimal for root-level control",N),
   ("Note any plants showing summer stress for troubleshooting and correction this fall",N),
 
   // ── September ───────────────────────────────────────────────
   "September",
-  ("Primary fall lawn fertilization — slow-release granular N via broadcast spreader, 1.0–1.25 lb N/1,000 sq ft; most important lawn N application of the year",N),
-  ("Apply granular potassium sulfate (0-0-50) at drip line of all trees and shrubs — broadcast and water in; critical for winter hardening",N),
+  ("*Early September — first liquid N pass on lawn:* hose-end sprayer, Simple Lawn Solutions 28-0-0 or equivalent, ~0.5 lb N/1,000 sq ft; water in after. Apply before or just after core aeration for best penetration.",N),
+  ("*Late September — second liquid N + K pass on lawn:* mix liquid N (28-0-0) and liquid potassium (Simple Lawn Solutions 0-0-25) in hose-end sprayer per label rates; water in after. This replaces the separate granular K₂SO₄ lawn pass. *If either liquid pass is missed, revert to slow-release granular urea at 1.0–1.25 lb N via broadcast spreader instead.*",N),
+  ("Apply granular potassium sulfate (0-0-50) at drip line of all trees and shrubs — pull mulch back, broadcast and water in, replace mulch; critical for winter hardening. Lawn K is covered by the liquid K pass above.",N),
   ("Overseed thin lawn areas right after core aeration",N),
   ("Apply compost tea (EcoCycle Microbe Brew) to lawn after topdressing — inoculates fresh compost for faster breakdown before soil cools",N),
   ("Reduce drip irrigation frequency to every 10–14 days",N),

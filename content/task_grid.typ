@@ -22,8 +22,9 @@
   ("Prune Silver Maple (summer)",         (N,N,N,N,N,N,Y,N,N,N,N,N)),
   ("Deep water trees (non-drip)",         (N,N,N,N,Y,Y,Y,Y,N,N,N,N)),
   ("Fertilize trees (N-K)",               (N,N,N,Y,N,N,N,N,N,N,N,N)),
-  ("Chelated micronutrients (all)",        (N,N,N,N,Y,N,N,N,N,Y,N,N)),
-  ("EDDHA iron: Honeylocust & J. Maple",  (N,N,N,N,Y,N,Y,N,N,N,N,N)),
+  ("Chelated micronutrients (all)",        (N,N,N,N,Y,N,N,N,N,N,N,N)),
+  ("EDDHA iron: Honeylocust",             (N,N,N,N,Y,Y,N,N,N,N,N,N)),
+  ("EDDHA iron: Japanese Maple",          (N,N,N,N,Y,N,Y,N,N,N,N,N)),
   ("Trunk wrap: Silver Maples + Serviceberry", (N,N,N,N,N,N,N,N,N,Y,Y,N)),
 
   "EVERGREENS",

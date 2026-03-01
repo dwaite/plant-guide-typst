@@ -13,7 +13,7 @@ On drip irrigation with 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). Distribu
 
 === Fertilization
 
-Per soil profile, use N-K formula only. Use ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides a mild acidification side benefit at your pH 7.27, improving micronutrient availability. Apply in early spring before leaf-out. Apply a chelated micronutrient package in May — crabapple is susceptible to iron and zinc deficiency in alkaline clay soils, and your soil test confirms both are very low. Avoid high-nitrogen fertilizers after mid-July. Compost mulch around the drip line benefits soil health over time.
+Per soil profile, use N-K formula only. Use granular ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides a mild acidification side benefit at your pH 7.27, improving micronutrient availability. Apply in early spring before leaf-out. Apply a chelated micronutrient blend in May — crabapple is susceptible to iron and zinc deficiency in alkaline clay soils, and your soil test confirms both are very low. Avoid high-nitrogen fertilizers after mid-July. Compost mulch around the drip line benefits soil health over time.
 
 === Pruning & Maintenance
 

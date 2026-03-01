@@ -1,167 +1,127 @@
 // ============================================================
-// FERTILIZER & NUTRIENT APPLICATION TABLE
-// Edit rows below. For product details see content/soil.typ.
+// FERTILIZER & NUTRIENT APPLICATION
+// Group-based approach summary. Per-plant detail is on each
+// plant's page. Timing and sequence lives in the checklist.
+// Product details and sourcing live in content/products.typ.
 // ============================================================
 #import "../template.typ": *
 
 #pagebreak(weak: true)
 = Fertilizer & Nutrient Application
 
-Per-plant recommendations based on your CSU soil test. No phosphorus additions
-to any in-ground plant. See the _Soil Profile & Nutrition_ section for product
-details and recommended brands.
+No phosphorus additions to any in-ground plant — ever. The soil test returned HIGH
+phosphorus, and every P addition worsens the micronutrient lockout that is already
+this landscape's primary limitation. For timing and sequence of all tasks, see the
+_Month-by-Month Checklist_. For product names and sourcing, see _Recommended Products_.
 
-#v(0.6em)
+#v(0.5em)
 
-// ── Application table ────────────────────────────────────────
-// Columns: Plant | Product Type | N-P-K | Timing | Notes
-#table(
-  columns: (2fr, 1.6fr, 0.8fr, 1.7fr, 2.8fr),
-  fill: tbl-fill,
-  stroke: tbl-stroke,
-  align: (left, left, center, left, left),
+#danger-callout("Never Fertilize — Lean Soil Required")[
+  These plants must receive *no nitrogen fertilizer* under any circumstances.
+  Rich soil causes leggy growth, reduced bloom, and dramatically shortened plant
+  life. They are adapted to the dry, lean conditions of this landscape and perform
+  best left alone:
 
-  tbl-header-text[Plant],
-  tbl-header-text[Product Type],
-  tbl-header-text[N-P-K],
-  tbl-header-text[Timing],
-  tbl-header-text[Notes],
+  - *White Yarrow* — lean soil is non-negotiable for form and longevity
+  - *Rocky Mountain Penstemon* — lifespan drops from 5–8 years to 2–3 in rich soil
+  - *Agastache Sunset Hyssop* — excess nutrition causes floppy, disease-prone growth
+  - *Autumn Joy Sedum* — lean conditions produce the compact, upright form
 
-  [Silver Maple (Trees)],
-  [Micronutrients primary],
-  [Chelated package],
-  [May (micronutrients)],
-  [Established trees — N already received through lawn fertilization. EDDHA chelated iron + micronutrients in May is the primary annual task. Supplemental N (21-0-0) only if deficiency symptoms appear.],
+  Thin compost as a mulch is acceptable for these plants. Granular fertilizer of any
+  kind is not. Never use bloom boosters near these beds.
+]
 
-  [Emperor Japanese Maple],
-  [Acidifying N formula],
-  [Hollytone 4-3-4 or 21-0-0],
-  [Early spring; EDDHA iron May & July],
-  [Hollytone preferred for convenience; ammonium sulfate + elemental sulfur for zero-P. EDDHA iron twice: May + early July. Acid mulch annually.],
+#v(0.3em)
 
-  [Skyline Honeylocust],
-  [N-K + micronutrients],
-  [16-0-8 + chelated Fe/Zn/Cu/B/Mn],
-  [Spring N-K + May & June micronutrients],
-  [Highest micronutrient priority. Two micronutrient applications recommended.],
+== Trees
 
-  [Spring Snow Crabapple],
-  [Acidifying N-K formula],
-  [21-0-0 preferred],
-  [Early spring (young trees)],
-  [Use ammonium sulfate as N source — mild acidification side benefit. Chelated micronutrients in May.],
+*Silver Maples* are fully established and receive nitrogen through lawn fertilization.
+Their primary annual task is the May chelated micronutrient blend — not supplemental N.
 
-  [Autumn Brilliance Serviceberry],
-  [Acidifying N + micronutrients],
-  [21-0-0 + chelated package],
-  [Early spring],
-  [Use ammonium sulfate as N source — mild acidification side benefit. Boron critical for fruit set. Compost mulch preferred long-term.],
+*Skyline Honeylocust* is the highest micronutrient priority in the landscape.
+It receives liquid N-K fertilizer (15-0-15) in April, the chelated micronutrient
+blend in May with all other trees, and EDDHA chelated iron drenches in both May
+and June.
 
-  [Kentucky Bluegrass Lawn],
-  [Zero-P turf formula],
-  [32-0-6 or 46-0-0 + 0-0-50],
-  [4×: May, Jun, Sep, Oct],
-  [Potassium sulfate in Sep & Oct. Chelated Fe/Zn/Mn in spring. 3–4 lbs N / 1,000 sq ft / yr.],
+*Spring Snow Crabapple* and *Autumn Brilliance Serviceberry* use granular ammonium
+sulfate (21-0-0) as their N source — the mild acidification side benefit is worth
+choosing it over liquid N-K fertilizer for these two. Chelated micronutrient blend
+in May; boron is especially critical for Serviceberry fruit set.
 
-  [Miss Kim Lilac (Shrubs)],
-  [N-K only],
-  [16-0-8 + 0-0-50 in fall],
-  [Spring N-K + potassium sulfate in fall],
-  [No bone meal. K (not P) drives bloom quality. Chelated micronutrients in spring.],
+*Emperor Japanese Maple* is the most pH-sensitive tree in the landscape (prefers
+pH 5.5–6.5; soil is 7.27). It receives granular ammonium sulfate (21-0-0) in early spring for
+acidifying N, EDDHA chelated iron in May *and* early July (the July application
+addresses peak summer iron demand under full afternoon sun), and annual acid mulch
+(shredded pine bark or pine needles) to gradually shift root zone pH over time.
 
-  [Yankee Doodle Lilac],
-  [N-K only],
-  [16-0-8 + 0-0-50],
-  [Spring N-K + K in fall],
-  [Same approach as Miss Kim. No P-containing products.],
+== Evergreens
 
-  [Peking Cotoneaster],
-  [Compost or skip],
-  [—],
-  [Compost topdress every 1–2 yrs],
-  [Chelated micronutrients in spring. Skip synthetic fertilizer entirely.],
+All three evergreens receive chelated micronutrient blend in May. Beyond that, their
+needs diverge by pH sensitivity:
 
-  [Dark Knight Bluebeard],
-  [N-K (very light)],
-  [16-0-8],
-  [Early spring only],
-  [Single very light feeding. No P. Drainage is more important than nutrition.],
+*Wichita Blue Juniper* is more pH-adaptable than the other evergreens. A light
+liquid N-K fertilizer drench in spring is optional — the chelated micronutrient
+blend matters more.
 
-  [Wichita Blue Juniper (Evergreens)],
-  [N-K evergreen or skip],
-  [12-0-6 or none],
-  [Early spring (optional)],
-  [Chelated micronutrients more important. Never use P-containing evergreen products.],
+*Dwarf Globe Blue Spruce* and *Mops Mugo Pine* both have significant pH mismatch
+with the soil (both prefer pH 4.5–6.0). Ammonium sulfate 21-0-0 is preferred as
+their N source for the acidification side benefit. Apply lightly — every 1–2 years
+is sufficient. Over-fertilizing disrupts the compact, mounding forms that make these
+plants attractive.
 
-  [Dwarf Globe Blue Spruce],
-  [Acidifying N-K (light)],
-  [21-0-0 preferred],
-  [Early spring (light)],
-  [Use ammonium sulfate as N source — mild acidification improves Fe/Mn availability. Chelated micronutrients in spring. Over-fertilizing disrupts compact form.],
+== Shrubs
 
-  [Mops Mugo Pine],
-  [Acidifying N or skip],
-  [21-0-0 or Hollytone 4-3-4],
-  [Every 1–2 yrs in spring],
-  [Use ammonium sulfate or Hollytone for acidification benefit (pH 4.5–6.5 preferred). Acid mulch (shredded pine bark). Chelated micronutrients in spring.],
+All shrubs follow a common sequence: liquid N-K fertilizer drench in April,
+chelated micronutrient blend in May, granular potassium sulfate (0-0-50) broadcast
+in September.
 
-  [Daylilies (Perennials)],
-  [N-K formula only],
-  [16-0-8 or 21-0-0 + 0-0-50],
-  [Early spring + chelated micronutrients],
-  [No bloom booster. Potassium sulfate side-dress improves blooming.],
+*Miss Kim Lilac* and *Yankee Doodle Lilac* benefit most from the fall potassium
+application — K (not P) is what drives bloom quality and winter flower bud formation.
+Many gardeners mistakenly apply high-P bloom boosters to lilacs; potassium sulfate
+in September is the correct approach.
 
-  [White Yarrow],
-  [None],
-  [—],
-  [No fertilizer — ever],
-  [Lean soil required. Never fertilize. Thin compost only if needed.],
+*Peking Cotoneaster* should skip synthetic N entirely. A compost topdress every
+1–2 years is sufficient; chelated micronutrient blend in May addresses the deficiency.
 
-  [Agastache Sunset Hyssop],
-  [None],
-  [—],
-  [No fertilizer needed],
-  [Drainage amendment critical. No feeding whatsoever.],
+*Dark Knight Bluebeard* needs only a very light liquid N-K fertilizer drench in
+early spring. Drainage is more important than nutrition for this plant — do not
+over-fertilize.
 
-  [Blonde Ambition Blue Grama],
-  [None or minimal K],
-  [0-0-50 (optional)],
-  [Late spring (optional)],
-  [Native grass — no fertilizer needed. Light potassium sulfate only if desired.],
+== Perennials & Ornamental Grasses
 
-  [Northwind Switchgrass],
-  [N-K (light)],
-  [16-0-8 or 12-0-6],
-  [Mid-spring + K in fall],
-  [No P. Light potassium sulfate in fall improves stem stiffness.],
+*Daylilies* receive a light liquid N-K fertilizer drench in spring plus granular
+potassium sulfate. No bloom boosters — the high-P constraint applies and K is what
+improves flowering.
 
-  [Rocky Mountain Penstemon],
-  [None],
-  [—],
-  [No fertilizer — ever],
-  [Lean soil essential. Rich soil shortens plant life dramatically.],
+*Blonde Ambition Blue Grama* is a native prairie grass that needs no fertilizer.
+A light granular potassium sulfate application is optional if desired.
 
-  [Autumn Joy Sedum],
-  [None to minimal K],
-  [0-0-50 (optional)],
-  [Early spring (minimal)],
-  [No P. Lean conditions produce compact plants.],
+*Northwind Switchgrass* receives a light liquid N-K fertilizer drench in spring and
+granular potassium sulfate in fall — K improves stem stiffness and reduces flopping
+in fall.
 
-  [Knock Out Roses (Potted)],
-  [Low-P rose formula],
-  [5-1-7 or similar],
-  [Every 3–4 wks, Apr–mid Aug],
-  [Potted plants differ from tested soil. Low-P rose fertilizer with high K. Liquid chelated micronutrients monthly.],
+*Yarrow, Penstemon, Agastache, and Sedum:* see the callout above. No fertilizer.
 
-  [Candytuft (Potted)],
-  [N-K container formula],
-  [16-0-8 or low-P granular],
-  [Spring + mid-season],
-  [Potted plants differ from tested soil. No high-P bloom booster.],
+== Lawn
 
-  [White Bacopa (Potted)],
-  [None — shared with roses],
-  [—],
-  [No additional feeding],
-  [Light feeder. Receives rose fertilization; no separate feeding needed. Keep rose rates at lower end to avoid leggy bacopa growth.],
-)
+The lawn follows a five-application annual schedule with specific products and rates
+for each timing. See the _Month-by-Month Checklist_ for the complete sequence and
+the _Recommended Products_ section for product details. Key principle: the September
+liquid nitrogen passes are the most important of the year — fall N drives deep root
+development and is more impactful on long-term lawn health than spring applications.
+The late-September pass also combines liquid potassium, eliminating a separate K
+broadcast for the lawn.
+
+== Potted Plants
+
+Container plants are not in the tested soil and follow different rules.
+High-P constraint is relaxed for containers — the volume is limited and leaches
+quickly, so P accumulation is not a concern.
+
+*Knock Out Roses* are fed every 3–4 weeks from April through mid-August with
+Jack's Classic Rose FeED 12-4-16, plus a monthly EDTA chelated iron drench
+(Bonide Liquid Iron) from May through August. Stop all fertilizer 6 weeks before
+expected first frost.
+
+*White Bacopa* shares the rose container and receives no separate feeding —
+keep rose fertilizer rates at the lower end to avoid overly leggy Bacopa growth.

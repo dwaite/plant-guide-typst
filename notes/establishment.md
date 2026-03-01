@@ -158,11 +158,52 @@ Update this file and review relevant document sections when:
 
 ## Season Log
 
+### 2025 Season — Nutrition Summary
+
+Fertilization was limited in 2025. Key gaps vs. the full program:
+
+- **Lawn nitrogen:** approximately half the recommended annual N was applied.
+  A 50/50 topsoil and compost blend was applied to the lawn as a fall topdress
+  (no synthetic fertilizer component — compost only; this was beneficial).
+- **Chelated micronutrient blend:** not applied (LESCO Chelated Micro Mix pass
+  was skipped or incomplete).
+- **EDDHA iron:** application status for Honeylocust and Japanese Maple unclear;
+  assumed limited or skipped.
+- **Trees and shrubs:** fertilization program largely not followed.
+
+**Implication for 2026:** The 2024 cohort (second-season establishment plants)
+went through their highest-risk year without the full micronutrient, iron, and
+N-K support they needed. Spring 2026 is a recovery and catch-up year. Do not
+skip the May chelated micronutrient blend + EDDHA iron pass — this is the most
+critical gap to close. See the Spring 2026 Priority callout in the checklist.
+
+---
+
 ### Spring 2026
+
+#### Pre-Season: Nutrition Audit & Product Order (complete before ordering supplies)
+
+Review all per-plant nutrition recommendations before placing the annual product
+order. Go through `content/fertilizer.typ` (condensed per-plant summary) against
+each plant's `.typ` file and verify:
+- No phosphorus additions to any in-ground plant
+- Product names match the current names in `content/products.typ`
+- EDDHA iron scoped to Honeylocust and Japanese Maple only (not Silver Maples)
+- "Granular" qualifier present wherever ammonium sulfate or potassium sulfate
+  is referenced
+- Anything flagged as unclear or skipped in the 2025 season log above
+
+Once the nutrition audit is complete, use the Annual Supply Order table in
+`notes/products.md` as the order checklist. Order online items (EDDHA iron,
+LESCO Chelated Micro Mix) first — they have the longest lead times.
+
+#### Green-Up Inspection (after May green-up)
 *(To be filled in after spring green-up inspection)*
 
 Key items to assess:
 - Candytuft survival
 - Miss Kim foundation pH test result
-- All 2024 cohort winter survival
+- All 2024 cohort winter survival — note any plants that show significant stress
+  or die-back attributable to the limited 2025 nutrition program
 - Japanese Maple — any iron chlorosis from 2025?
+- Honeylocust — interveinal yellowing from skipped EDDHA iron?

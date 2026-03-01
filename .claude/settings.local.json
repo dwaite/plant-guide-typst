@@ -20,7 +20,15 @@
       "Bash(unzip -p wss_aoi_2026-02-25_03-53-31.zip wss_aoi_2026-02-25_03-53-31/tabular/chunifie.txt)",
       "Bash(unzip -l wss_aoi_2026-02-25_03-53-31.zip)",
       "Bash(unzip -p wss_aoi_2026-02-25_03-53-31.zip wss_aoi_2026-02-25_03-53-31/tabular/chorizon.txt)",
-      "WebFetch(domain:ecocycle.org)"
+      "WebFetch(domain:ecocycle.org)",
+      "Bash(grep -rn -E \"\\(Osmocote|Miracle-Gro|Ironite|Espoma|Jobes|Holly-tone|Plant-tone|Tree-tone|Schultz|Vigoro|Scott|Bonide|Bayer|Sevin|Neem|Captain Jack|Spinosad|imidacloprid|permethrin|malathion|glyphosate|Roundup|Preen|Snapshot|Dimension|Gallery|isoxaben|prodiamine|dithiopyr|EDDHA|chelated|sulfate|muriate|potassium|ammonium|urea|ferrous|ferric|mycorrhiz|rhizob|Actinovate|SoilGard|Rootshield|Serenade|copper|fungicid|bactericid|insecticid|miticide|pyrethrin|bifenthrin|cyfluthrin|lambda|chlorpyrifos|diazinon|Merit|Safari|Flagship|Tempo|Talstar|Crosscheck|Demand|Suspend|deltamethrin|cyhalothrin|carbaryl|Thuricide|Bt |B\\\\.t\\\\.|Dipel|Foray|apply [A-Z]|use [A-Z]|treat with|spray with|drench with|inject|granul\\)\" /Users/david/Projects/plant-guide-typst/content/plants/*.typ)",
+      "Bash(grep -rn \"iron\" /Users/david/Projects/plant-guide-typst/content/plants/*.typ)",
+      "WebFetch(domain:ryanknorrlawncare.com)",
+      "Bash(grep -n \"15-0-15\\\\|N-K fertilizer\\\\|N-K drench\" /Users/david/Projects/plant-guide-typst/content/fertilizer.typ /Users/david/Projects/plant-guide-typst/content/plants/*.typ)",
+      "Bash(grep -n \"granular potassium sulfate\\\\|potassium sulfate \\(0-0-50\\)\" /Users/david/Projects/plant-guide-typst/content/plants/*.typ)",
+      "Bash(grep -n \"granular ammonium sulfate\\\\|ammonium sulfate \\(21-0-0\\)\" /Users/david/Projects/plant-guide-typst/content/plants/*.typ)",
+      "WebFetch(domain:www.siteone.com)",
+      "WebFetch(domain:simplelawnsolutions.com)"
     ]
   }
 }

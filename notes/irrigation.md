@@ -227,4 +227,6 @@ Priority order for winter hand watering (any day above 40°F, soil not frozen):
 2. Evergreens (Juniper, Blue Spruce, Mugo Pine)
 3. Shrubs (Cotoneaster, Lilacs, Bluebeard)
 
-15–20 minutes with a slow hose at the drip line per plant, or until water pools.
+15–20 minutes with a slow hose at the drip line per plant. Under mulch the soil surface
+is not visible, so use time as the primary cue. If runoff appears at the outer edge of
+the mulch ring before 15 minutes, move the hose inward and continue.

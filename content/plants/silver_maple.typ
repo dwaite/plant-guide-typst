@@ -17,7 +17,7 @@ As fully established trees (since 2022), Silver Maples are largely self-sufficie
 
 Established Silver Maples in a regularly fertilized lawn are already receiving nitrogen through turf applications — additional N feeding is typically unnecessary and can promote excessive soft growth. Focus the fertilization program on micronutrients rather than macronutrients.
 
-Apply a chelated micronutrient package (Fe, Zn, Cu, B, Mn) in May — this is the primary annual task for established maples given your very low micronutrient readings. Use EDDHA chelated iron specifically. Apply supplemental nitrogen (ammonium sulfate 21-0-0) only if deficiency symptoms appear: pale, yellowing foliage with otherwise healthy form, or noticeably reduced annual growth.
+Apply the chelated micronutrient blend (Fe, Zn, Cu, B, Mn) in May — this is the primary annual task for established maples given your very low micronutrient readings. Apply supplemental nitrogen (granular ammonium sulfate 21-0-0) only if deficiency symptoms appear: pale, yellowing foliage with otherwise healthy form, or noticeably reduced annual growth.
 
 Per soil profile, no phosphorus additions. Do not fertilize after July.
 
@@ -31,7 +31,7 @@ Silver Maple produces abundant winged seeds (samaras) in spring that are an impo
 
 === Pests & Disease
 
-#link("https://www.google.com/search?q=cottony+maple+scale+treatment")[Cottony maple scale] appears as white cottony masses on the undersides of branches in late May–June; treat with horticultural oil spray in May (crawler stage) or systemic insecticide. #link("https://www.google.com/search?q=maple+aphids+treatment")[Aphids] cluster on new growth in spring — a strong water spray dislodges them, or use insecticidal soap. #link("https://www.google.com/search?q=verticillium+wilt+maple+treatment")[Verticillium wilt] causes sudden wilting of individual branches; no cure — prune infected branches well below wilted area with sterilized tools. Iron/zinc #link("https://www.google.com/search?q=maple+iron+chlorosis+treatment")[chlorosis] (yellowing between green veins) is expected given your soil test results — address proactively with EDDHA chelated iron drench in May.
+#link("https://www.google.com/search?q=cottony+maple+scale+treatment")[Cottony maple scale] appears as white cottony masses on the undersides of branches in late May–June; treat with horticultural oil spray in May (crawler stage) or systemic insecticide. #link("https://www.google.com/search?q=maple+aphids+treatment")[Aphids] cluster on new growth in spring — a strong water spray dislodges them, or use insecticidal soap. #link("https://www.google.com/search?q=verticillium+wilt+maple+treatment")[Verticillium wilt] causes sudden wilting of individual branches; no cure — prune infected branches well below wilted area with sterilized tools. Iron/zinc #link("https://www.google.com/search?q=maple+iron+chlorosis+treatment")[chlorosis] (yellowing between green veins) is possible given your soil test results — address proactively with the chelated micronutrient blend drench in May. If chlorosis persists despite the blend, add a separate EDDHA chelated iron drench (Ferrilene/Sequestrene 138) the following season.
 
 === Other Care
 

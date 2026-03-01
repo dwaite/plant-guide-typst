@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Mops Mugo Pine prefers pH 4.5–6.5 — your soil at pH 7.27 is the second-largest pH mismatch of any plant in the landscape (after Japanese Maple). Use ammonium sulfate (21-0-0) or Hollytone (4-3-4) as the nitrogen source; both acidify the root zone gradually over time. Apply lightly every 1–2 years in spring. A chelated micronutrient application in spring addresses your very low Fe, Zn, and Cu, which are more limiting than macronutrients. Over-fertilizing promotes excessive candle elongation and disrupts the compact form — light is correct. Use shredded pine bark as the mulch material around the base rather than wood chip mulch; pine bark provides mild ongoing acidification as it breaks down.
+Mops Mugo Pine prefers pH 4.5–6.5 — your soil at pH 7.27 is the second-largest pH mismatch of any plant in the landscape (after Japanese Maple). Use granular ammonium sulfate (21-0-0) as the preferred nitrogen source — zero phosphorus, mild acidification. Holly-tone (4-3-4) is a convenient one-product alternative but contains some phosphorus; an acceptable tradeoff if preferred. Apply lightly every 1–2 years in spring. The chelated micronutrient blend applied in spring addresses your very low Fe, Zn, and Cu, which are more limiting than macronutrients. Over-fertilizing promotes excessive candle elongation and disrupts the compact form — light is correct. Use shredded pine bark as the mulch material around the base rather than wood chip mulch; pine bark provides mild ongoing acidification as it breaks down.
 
 === Pruning & Maintenance
 

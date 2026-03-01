@@ -28,7 +28,7 @@ Check soil moisture by pressing a finger 2 inches into the soil — water when i
 
 === Fertilization
 
-Container roses require more frequent fertilization than in-ground plants since nutrients leach out with every watering. Your tested garden soil conditions do NOT apply here — the bagged potting mix starts relatively neutral. Use a rose fertilizer that is relatively low in phosphorus with higher potassium — formulas like 5-1-7 or specialty rose feeds labeled for repeat bloom. Avoid standard high-P bloom boosters. Feed every 3–4 weeks from April through mid-August with a liquid rose fertilizer. Stop feeding 6 weeks before expected first frost (approximately mid-August for Commerce City). Include a liquid chelated iron (EDTA form, not EDDHA) as a monthly drench from May through August — as irrigation water gradually raises container pH through summer, EDTA chelated iron maintains iron availability in the mix.
+Container roses require more frequent fertilization than in-ground plants since nutrients leach out with every watering. Your tested garden soil conditions do NOT apply here — the bagged potting mix starts relatively neutral. Use Jack's Classic Rose FeED 12-4-16 (water-soluble powder) — low phosphorus relative to older rose formulas, high potassium for repeat bloom. Avoid standard high-P bloom boosters. Feed every 3–4 weeks from April through mid-August. Stop feeding 6 weeks before expected first frost (approximately mid-August for Commerce City). Include a liquid chelated iron (EDTA form, not EDDHA) as a monthly drench from May through August — as irrigation water gradually raises container pH through summer, EDTA chelated iron maintains iron availability in the mix.
 
 === Pruning & Maintenance
 

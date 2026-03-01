@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Minimal fertilization only — lean conditions produce compact, self-supporting plants. If anything, a very light application of potassium sulfate in early spring is acceptable. No fall fertilization.
+Minimal fertilization only — lean conditions produce compact, self-supporting plants. If anything, a very light application of granular potassium sulfate in early spring is acceptable. No fall fertilization.
 
 === Pruning & Maintenance
 

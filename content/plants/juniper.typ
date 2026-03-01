@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Very low need. Per soil profile, use a zero-phosphorus N-K evergreen formula if feeding at all. A chelated micronutrient application in spring (especially Fe, Zn, Cu) is more beneficial than standard fertilizer. Skip fertilizer entirely in vigorous growth years.
+Very low need. Per soil profile, use a zero-phosphorus N-K evergreen formula if feeding at all. The chelated micronutrient blend applied in spring (especially Fe, Zn, Cu) is more beneficial than standard fertilizer. Skip fertilizer entirely in vigorous growth years.
 
 === Pruning & Maintenance
 

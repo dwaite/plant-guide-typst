@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Per soil profile, use N-K formula only. Apply ammonium sulfate (21-0-0) lightly in early spring — it provides mild acidification as a side benefit, improving micronutrient availability at your pH 7.27. A chelated micronutrient package (especially Fe and Zn) in spring is more important than fertilizer for this plant — very low Fe and Zn cause needle yellowing and browning in spruce. Light annual spring feeding only; over-fertilizing disrupts the compact form.
+Per soil profile, use N-K formula only. Apply granular ammonium sulfate (21-0-0) lightly in early spring — it provides mild acidification as a side benefit, improving micronutrient availability at your pH 7.27. A chelated micronutrient blend (especially Fe and Zn) in spring is more important than fertilizer for this plant — very low Fe and Zn cause needle yellowing and browning in spruce. Light annual spring feeding only; over-fertilizing disrupts the compact form.
 
 === Pruning & Maintenance
 
@@ -35,4 +35,4 @@ Dwarf Globe Blue Spruce provides dense, sheltered cover that house finches and o
 
 In clay soil, ensure the planting hole was not filled as a 'bowl' — water must drain away from the crown. Check annually that the root crown has not been buried deeper by soil migration. Protect from winter road salt spray if located near a driveway or walkway. Deer resistant. Very long-lived once properly established — treat this as a 50-year plant.
 
-ANTI-DESICCANT: Apply Wilt-Pruf or similar anti-desiccant spray in late November, after the plant has hardened off for winter but before the ground freezes. Commerce City's prevailing north and northwest winter winds cause significant moisture loss through foliage when roots are frozen. A single late-November application substantially reduces winter desiccation (needle browning) through February.
+ANTI-DESICCANT: Apply anti-desiccant (Bonide Wilt-Stop or Wilt-Pruf) in late November, after the plant has hardened off for winter but before the ground freezes. Commerce City's prevailing north and northwest winter winds cause significant moisture loss through foliage when roots are frozen. A single late-November application substantially reduces winter desiccation (needle browning) through February.

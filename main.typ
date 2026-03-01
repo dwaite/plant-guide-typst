@@ -36,6 +36,9 @@
 // ── Fertilizer & Nutrient Application ────────────────────────
 #include "content/fertilizer.typ"
 
+// ── Recommended Products & Application Methods ────────────────
+#include "content/products.typ"
+
 // ── Irrigation & Watering ────────────────────────────────────
 #include "content/watering.typ"
 

@@ -88,8 +88,8 @@ bed area (separate from general yard treatment).
 
 | Action | Timing | Rationale |
 |--------|--------|-----------|
-| Chelated micronutrient package (EDDHA iron + full blend) | Each May | Annual correction for lockout |
-| Second EDDHA iron drench (Japanese Maple only) | Early July | Midsummer demand under full afternoon sun |
+| Chelated micronutrient blend (LESCO Chelated Micro Mix — all in-ground trees, shrubs, perennials) | Each May | Annual correction for lockout |
+| EDDHA iron drench — Honeylocust (May + June), Japanese Maple (May + early July) | May, June, July | pH-stable iron for the two highest chlorosis-risk plants; applied in addition to the blend, not instead of it |
 | Soil pH spot-check (foundation beds) | Spring | Confirm Miss Kim root zone pH |
 | Full CSU soil retest | 2027 (2 years after last test) | Confirm P is declining; re-evaluate N and K |
 | Elemental sulfur application (if needed) | Fall | Gradual acidification; sulfur works slowly over winter |

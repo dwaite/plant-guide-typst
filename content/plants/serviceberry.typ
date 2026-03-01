@@ -15,9 +15,9 @@ As a second-season plant in the most stressful location on the property, water d
 
 === Fertilization
 
-Per soil profile, use N-K formula only. Use ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides a mild acidification side benefit that is helpful for a plant that prefers slightly lower pH than your 7.27. Apply a light amount in early spring.
+Per soil profile, use N-K formula only. Use granular ammonium sulfate (21-0-0) as the preferred nitrogen source — it provides a mild acidification side benefit that is helpful for a plant that prefers slightly lower pH than your 7.27. Apply a light amount in early spring.
 
-Apply a chelated micronutrient package (especially Fe, Zn, B) in spring — boron is particularly important for fruit set and is very low in your soil. Compost mulching in fall is the preferred long-term soil health approach. As a second-season plant, moderate fertilization is appropriate — not aggressive.
+Apply a chelated micronutrient blend (especially Fe, Zn, B) in spring — boron is particularly important for fruit set and is very low in your soil. Compost mulching in fall is the preferred long-term soil health approach. As a second-season plant, moderate fertilization is appropriate — not aggressive.
 
 === Pruning & Maintenance
 

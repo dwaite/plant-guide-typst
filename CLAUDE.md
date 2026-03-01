@@ -14,8 +14,8 @@ typst watch main.typ plant_care_guide.pdf      # watch mode (auto-recompile)
 - **Soil:** Heavy clay (observational — no particle size analysis performed), pH 7.27
   - HIGH phosphorus → never add P to any in-ground plant, ever
   - LOW nitrogen → supplement per plant
-  - LOW potassium → supplement with 0-0-50 potassium sulfate
-  - VERY LOW micronutrients (Fe, Zn, Cu, B, Mn) → annual chelated package in May
+  - LOW potassium → supplement with granular 0-0-50 (trees/shrubs) or liquid 0-0-25 (lawn)
+  - VERY LOW micronutrients (Fe, Zn, Cu, B, Mn) → annual chelated micronutrient blend in May
 - **Last frost:** ~May 10 · **First fall frost:** ~October 5
 - **Wind:** Significant; prevailing winter winds from north and northwest
 
@@ -34,29 +34,19 @@ frequency.
   watering not always necessary given east-facing afternoon shade.
 
 ## Plant Ages & Establishment Status
-- **Fully established (planted 2022):** Silver Maples, Miss Kim Lilacs, Daylilies,
-  Kentucky Bluegrass lawn
-- **Second-season establishment (planted 2024):** All other trees and shrubs —
-  Skyline Honeylocust, Spring Snow Crabapple, Autumn Brilliance Serviceberry,
-  Emperor Japanese Maple, Wichita Blue Juniper, Dwarf Globe Blue Spruce, Mops
-  Mugo Pine, Yankee Doodle Lilac, Peking Cotoneaster, Dark Knight Bluebeard,
-  and all perennials and grasses planted in 2024. Second season is highest-risk
-  establishment year — extra attention to watering and mulch through summer 2026.
-- **New 2025:** Knock Out Roses (potted), Bacopa (annual — no overwintering),
-  Candytuft (potted, survival through winter 2025–26 uncertain)
+The 2024 cohort (all trees, shrubs, perennials, and grasses except Silver Maples,
+Miss Kim Lilacs, Daylilies, and Kentucky Bluegrass lawn) is in its second —
+highest-risk — establishment season through summer 2026. Extra attention to
+watering and mulch applies to all 2024 plants. See `notes/establishment.md` for
+the full cohort list, per-plant concerns, and season log.
+
+New 2025 potted plants: Knock Out Roses, Bacopa (annual), Candytuft (survival
+through winter 2025–26 uncertain — see Pending below).
 
 ## Sun Exposure by Location
-- **East front yard (morning sun only, afternoon shade from house):** Silver Maples,
-  Miss Kim Lilacs, Daylilies, Potted plants (Knock Out Roses, Bacopa, Candytuft)
-- **West back yard (mid-morning sun onward, full afternoon sun):** Emperor Japanese
-  Maple (center), Dwarf Globe Blue Spruce
-- **South back yard (full afternoon sun — most stressful exposure):** Autumn
-  Brilliance Serviceberry
-- **Full sun (remaining plants):** Skyline Honeylocust, Wichita Blue Juniper,
-  Peking Cotoneaster, Yankee Doodle Lilac, Dark Knight Bluebeard, Spring Snow
-  Crabapple, Rocky Mountain Penstemon, White Yarrow, Agastache Sunset Hyssop,
-  Blonde Ambition Blue Grama, Northwind Switchgrass, Autumn Joy Sedum, Mops Mugo
-  Pine
+See the Sun Exposure Groups table in `notes/property.md`. Key writing constraints:
+Japanese Maple and Blue Spruce receive more afternoon sun than either species
+prefers; Serviceberry has the most stressful full-south exposure on the property.
 
 ## Pending / Deferred
 - **Candytuft survival:** Do not edit `candytuft.typ` until spring 2026 confirms
@@ -80,9 +70,10 @@ recommendations are what they are.
 |------|---------|
 | `notes/irrigation.md` | Zone architecture, schedule decision (Option B), emitter sizing rationale, drip stop decisions |
 | `notes/fertilizer.md` | High-P constraint, EDDHA iron rationale, acidifying fertilizer trade-offs, per-group strategies |
+| `notes/amendments.md` | Organic amendments and soil biology: humic acid, compost tea, mycorrhizal inoculants, wetting agent (Revive), gypsum rationale |
 | `notes/soil.md` | Soil test results, pH context, Ca/P/micronutrient lockout mechanism, what to retest and when |
 | `notes/establishment.md` | Cohort status, per-plant concerns (Miss Kim, JM, Bluebeard), season log |
-| `notes/property.md` | Lot layout, zone descriptions, bed types, plant-to-location mapping, design deviations (Serviceberry→JM substitution, Agastache species confirmation) |
+| `notes/property.md` | Lot layout, zone descriptions, plant-to-location mapping, sun exposure groups, bed types, design deviations (Serviceberry→JM substitution, Agastache species confirmation) |
 | `notes/products.md` | Delivery system guide (M12 vs. hose-end vs. granular), tank mixing rules, product list by task with brand names, annual supply order reference |
 
 ## File Roles
@@ -93,7 +84,7 @@ recommendations are what they are.
 | `main.typ` | Document assembly and ordering only | Reordering sections, adding new plant files |
 | `template.typ` | All styling — colours, fonts, helper functions | Visual changes, new helper functions |
 | `content/watering.typ` | Irrigation & Watering section — drip schedule, emitter sizing table, sprinkler/manual notes | Drip schedule changes, emitter size changes for any plant |
-| `content/soil.typ` | Soil profile table, recommended products, application methods | Soil data, product recommendations |
+| `content/soil.typ` | Soil profile table — nutrient status, pH context, management notes | Soil data changes |
 | `content/wildlife.typ` | Wildlife species table | Adding/editing species or food ratings |
 | `content/fertilizer.typ` | Per-plant application table | Fertilizer changes for any plant |
 | `content/weed_control.typ` | Three-zone weed guide | Weed control updates |

@@ -141,8 +141,11 @@ when temperatures rise above 40°F and the soil is not frozen. December through
 February are typically Commerce City's driest months, and roots continue to lose
 moisture even when plants are fully dormant.
 
-Run a hose slowly at the drip line of each tree and shrub for 15–20 minutes, or until
-water begins to pool. Focus first on the trees (Silver Maples, Honeylocust, Crabapple,
+Run a hose slowly at the drip line of each tree and shrub for 15–20 minutes. Under
+mulch the soil surface is not visible, so use time as the primary cue — 15 minutes
+of slow flow from a partially open hose delivers adequate penetration into clay. If
+water starts running off the outer edge of the mulch ring before 15 minutes, move
+the hose inward and continue. Focus first on the trees (Silver Maples, Honeylocust, Crabapple,
 Serviceberry, Japanese Maple), then the evergreens (Juniper, Blue Spruce, Mugo Pine),
 which are especially vulnerable to winter desiccation given Commerce City's prevailing
 north and northwest winds. Shrubs can go longer between winter waterings than trees

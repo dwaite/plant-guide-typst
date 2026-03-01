@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-No fertilizer needed. Blue Grama performs best in lean conditions — lean soil mimics its native prairie habitat. If anything, a very light application of potassium sulfate (0-0-50) in late spring is acceptable. Never use balanced or high-nitrogen formulas.
+No fertilizer needed. Blue Grama performs best in lean conditions — lean soil mimics its native prairie habitat. If anything, a very light application of granular potassium sulfate (0-0-50) in late spring is acceptable. Never use balanced or high-nitrogen formulas.
 
 === Pruning & Maintenance
 

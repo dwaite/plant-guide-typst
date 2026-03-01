@@ -207,3 +207,22 @@ slightly different configuration than drawn.
 Rock beds require pre-emergent in spring and hand-weeding; mulch beds follow standard
 mulch refresh schedule (2–3 inches depth each spring). See `content/weed_control.typ`
 for zone-specific weed guidance.
+
+---
+
+## Sun Exposure Groups
+
+Grouped by exposure level — useful when writing care text or assessing heat/drought
+stress. Per-plant detail is in the Plant Locations table above.
+
+| Exposure | Plants |
+|----------|--------|
+| **Morning sun only; afternoon shade from house** (east front yard) | Silver Maples, Miss Kim Lilacs, Daylilies, Knock Out Roses, White Bacopa, Candytuft |
+| **Mid-morning sun onward; full afternoon sun** (west back yard) | Emperor Japanese Maple, Dwarf Globe Blue Spruce |
+| **Full afternoon sun — most stressful exposure** (south back yard) | Autumn Brilliance Serviceberry |
+| **Full sun** (all other locations) | Skyline Honeylocust, Spring Snow Crabapple, Wichita Blue Juniper, Mops Mugo Pine, Yankee Doodle Lilac, Peking Cotoneaster, Dark Knight Bluebeard, White Yarrow, Agastache Sunset Hyssop, Rocky Mountain Penstemon, Autumn Joy Sedum, Blonde Ambition Blue Grama, Northwind Switchgrass |
+
+**Key care implications:**
+- Japanese Maple and Blue Spruce receive more afternoon sun than either species prefers — elevated heat and drought stress risk; both have pH stress compounding this.
+- Serviceberry has the harshest placement on the property — check most frequently during June–August heat waves.
+- East front yard plants (including potted) benefit from afternoon shade — more forgiving of missed waterings than back yard plants.
