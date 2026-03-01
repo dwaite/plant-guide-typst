@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("White Yarrow 'Achillea'", "Achillea millefolium", "yarrow")[
-  White Yarrow is a tough, drought-adapted native perennial with flat-topped flower clusters that attract pollinators abundantly. Its feathery, aromatic foliage grows 18–24 inches tall. Requires no feeding and thrives in lean, dry conditions. Established 2+ years — on drip irrigation. NOTE: Drainage is critical — clay soil is a significant challenge for this plant.
+#plant-header("White Yarrow 'Achillea'", "Achillea millefolium", "yarrow", establishment: plant-established("yarrow"), lifespan: plant-lifespan("yarrow"), tier: plant-tier("yarrow"), failure: plant-failure("yarrow"))[
+ White Yarrow is a tough, drought-adapted native perennial with flat-topped flower clusters that attract pollinators abundantly. Its feathery, aromatic foliage grows 18–24 inches tall. Requires no feeding and thrives in lean, dry conditions. NOTE: Drainage is critical — clay soil is a significant challenge for this plant.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. Clay's moisture retention between cycles keeps the root zone adequately moist; cap the emitter in September.
+Use 1 × 2 gph emitter (0.67 gal/cycle). White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. Clay's moisture retention between cycles keeps the root zone adequately moist; cap the emitter in September.
 
 === Fertilization
 

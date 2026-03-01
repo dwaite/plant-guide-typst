@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Agastache Sunset Hyssop", "Agastache rupestris 'Sunset'", "hyssop")[
-  Agastache Sunset Hyssop produces striking apricot-pink flower spikes from July through September on licorice-scented foliage. An outstanding late-season hummingbird and butterfly magnet. Short-lived perennial (2–4 years) but can self-seed. Native to the rocky Southwest and exquisitely adapted to Colorado's dry conditions — provided the drainage is right. Established — on drip irrigation.
+#plant-header("Agastache Sunset Hyssop", "Agastache rupestris 'Sunset'", "hyssop", establishment: plant-established("agastache"), lifespan: plant-lifespan("agastache"), tier: plant-tier("agastache"), failure: plant-failure("agastache"))[
+ Agastache Sunset Hyssop produces striking apricot-pink flower spikes from July through September on licorice-scented foliage. An outstanding late-season hummingbird and butterfly magnet. Short-lived perennial (2–4 years) but can self-seed. Native to the rocky Southwest and exquisitely adapted to Colorado's dry conditions — provided the drainage is right.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Agastache is very drought tolerant and receives more water than strictly necessary at the standard emitter rate — watch for crown softness or yellowing as an early overwatering signal and cap the emitter in September to reduce fall moisture. Wet fall and winter soil in clay is the primary cause of plant loss.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Agastache is very drought tolerant and receives more water than strictly necessary at the standard emitter rate — watch for crown softness or yellowing as an early overwatering signal and cap the emitter in September to reduce fall moisture. Wet fall and winter soil in clay is the primary cause of plant loss.
 
 === Fertilization
 

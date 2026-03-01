@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Yankee Doodle Lilac", "Syringa vulgaris 'Yankee Doodle'", "yankee_lilac")[
-  Yankee Doodle is a common French hybrid lilac selected for its large, dark purple-red, very fragrant flower panicles. Larger and faster-growing than Miss Kim (10–12 ft. tall). Like all common lilacs, it blooms profusely when well sited but requires full sun and good drainage. Established 2+ years — on drip irrigation.
+#plant-header("Yankee Doodle Lilac", "Syringa vulgaris 'Yankee Doodle'", "yankee_lilac", establishment: plant-established("yankee_doodle_lilac"), lifespan: plant-lifespan("yankee_doodle_lilac"), tier: plant-tier("yankee_doodle_lilac"), failure: plant-failure("yankee_doodle_lilac"))[
+ Yankee Doodle is a common French hybrid lilac selected for its large, dark purple-red, very fragrant flower panicles. Larger and faster-growing than Miss Kim (10–12 ft. tall). Like all common lilacs, it blooms profusely when well sited but requires full sun and good drainage.
 ]
 
 === Watering
 
-On drip irrigation with 2 × 2 gph emitters (1.33 gal/cycle) — the higher count reflects this shrub's larger size relative to other drip-irrigated shrubs. See the Irrigation & Watering section for the shared drip schedule. Consistent moisture during the spring bloom period and early summer — when next year's flower buds are setting — is the most critical period for this plant. The shared schedule through June directly supports bloom quality the following year.
+Use 2 × 2 gph emitters (1.33 gal/cycle) — the higher count reflects this shrub's larger size relative to other drip-irrigated shrubs. Consistent moisture during the spring bloom period and early summer — when next year's flower buds are setting — is the most critical period for this plant. The shared schedule through June directly supports bloom quality the following year.
 
 === Fertilization
 

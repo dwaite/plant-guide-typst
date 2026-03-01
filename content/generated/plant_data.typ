@@ -5,7 +5,7 @@
 #import "../../template.typ": *
 
 #let emitter-config-table = table(
-  columns: (2.2fr, 1fr, 3fr),
+  columns: (8fr, 3fr, 17fr),
   fill: tbl-fill,
   stroke: tbl-stroke,
   align: (left, left, left),
@@ -14,27 +14,27 @@
   tbl-header-text[Emitters],
   tbl-header-text[Notes],
 
-  ["Spring Snow Crabapple"], ["2-3 x 2 gph"], ["Establishing tree; 2 minimum, 3 preferred. 1.33-2.0 gal/cycle."],
-  ["Autumn Brilliance Serviceberry"], ["2-3 x 2 gph"], ["South-facing full sun adds demand. 1.33-2.0 gal/cycle."],
-  ["Emperor Japanese Maple"], ["3 x 2 gph"], ["Highest demand; full afternoon sun; shallow roots. ~2.0 gal/cycle."],
-  ["Wichita Blue Juniper"], ["1 x 2 gph"], ["Drought tolerant; overwatering is the greater risk. 0.67 gal/cycle."],
-  ["Dwarf Globe Blue Spruce"], ["1 x 2 gph"], ["Moderate-low demand; clay crown drainage critical. 0.67 gal/cycle."],
-  ["Mops Mugo Pine"], ["1 x 2 gph"], ["Drought tolerant; sensitive to overwatering. 0.67 gal/cycle."],
-  ["Peking Cotoneaster"], ["1 x 2 gph"], ["Very drought tolerant. 0.67 gal/cycle."],
-  ["Yankee Doodle Lilac"], ["2 x 2 gph"], ["Larger establishing shrub. 1.33 gal/cycle."],
-  ["Miss Kim Lilac"], ["1 x 2 gph"], ["Established (2022); afternoon shade. Audit existing emitter before reducing run time."],
-  ["Dark Knight Bluebeard"], ["1 x 2 gph"], ["Prefers dry; cap emitter in September. 0.67 gal/cycle."],
-  ["Daylilies (Mixed)"], ["1 x 2 gph"], ["Established (2022); afternoon shade. Audit existing emitter before reducing run time."],
-  ["White Yarrow"], ["1 x 2 gph"], ["Very drought tolerant; cap emitter in September. 0.67 gal/cycle."],
-  ["Agastache Sunset Hyssop"], ["1 x 2 gph"], ["Drought tolerant; cap emitter in September. 0.67 gal/cycle."],
-  ["Rocky Mountain Penstemon"], ["1 x 2 gph"], ["Native; drought tolerant; cap emitter in September. 0.67 gal/cycle."],
-  ["Autumn Joy Sedum"], ["1 x 2 gph"], ["Drought tolerant; cap emitter in September. 0.67 gal/cycle."],
-  ["Blonde Ambition Blue Grama"], ["1 x 2 gph"], ["Native prairie grass; very drought tolerant. 0.67 gal/cycle."],
-  ["Northwind Switchgrass"], ["1 x 2 gph"], ["Native grass; moderate-low demand. 0.67 gal/cycle."],
+  [#text("Spring Snow Crabapple")], [#text("2-3 x 2 gph")], [#text("Establishing tree; 2 minimum, 3 preferred. 1.33-2.0 gal/cycle.")],
+  [#text("Autumn Brilliance Serviceberry")], [#text("2-3 x 2 gph")], [#text("South-facing full sun adds demand. 1.33-2.0 gal/cycle.")],
+  [#text("Emperor Japanese Maple")], [#text("3 x 2 gph")], [#text("Highest demand; full afternoon sun; shallow roots. ~2.0 gal/cycle.")],
+  [#text("Wichita Blue Juniper")], [#text("1 x 2 gph")], [#text("Drought tolerant; overwatering is the greater risk. 0.67 gal/cycle.")],
+  [#text("Dwarf Globe Blue Spruce")], [#text("1 x 2 gph")], [#text("Moderate-low demand; clay crown drainage critical. 0.67 gal/cycle.")],
+  [#text("Mops Mugo Pine")], [#text("1 x 2 gph")], [#text("Drought tolerant; sensitive to overwatering. 0.67 gal/cycle.")],
+  [#text("Peking Cotoneaster")], [#text("1 x 2 gph")], [#text("Very drought tolerant. 0.67 gal/cycle.")],
+  [#text("Yankee Doodle Lilac")], [#text("2 x 2 gph")], [#text("Larger establishing shrub. 1.33 gal/cycle.")],
+  [#text("Miss Kim Lilac")], [#text("1 x 2 gph")], [#text("Audit existing emitter before reducing run time.")],
+  [#text("Dark Knight Bluebeard")], [#text("1 x 2 gph")], [#text("Prefers dry; cap emitter in September. 0.67 gal/cycle.")],
+  [#text("Daylilies (Mixed)")], [#text("1 x 2 gph")], [#text("Established (2022); afternoon shade. Audit existing emitter before reducing run time.")],
+  [#text("White Yarrow")], [#text("1 x 2 gph")], [#text("Very drought tolerant; cap emitter in September. 0.67 gal/cycle.")],
+  [#text("Agastache Sunset Hyssop")], [#text("1 x 2 gph")], [#text("Drought tolerant; cap emitter in September. 0.67 gal/cycle.")],
+  [#text("Rocky Mountain Penstemon")], [#text("1 x 2 gph")], [#text("Native; drought tolerant; cap emitter in September. 0.67 gal/cycle.")],
+  [#text("Autumn Joy Sedum")], [#text("1 x 2 gph")], [#text("Drought tolerant; cap emitter in September. 0.67 gal/cycle.")],
+  [#text("Blonde Ambition Blue Grama")], [#text("1 x 2 gph")], [#text("Native prairie grass; very drought tolerant. 0.67 gal/cycle.")],
+  [#text("Northwind Switchgrass")], [#text("1 x 2 gph")], [#text("Native grass; moderate-low demand. 0.67 gal/cycle.")],
 )
 
 #let fertilizer-program-table = table(
-  columns: (1.9fr, 3.1fr),
+  columns: (1.2fr, 3.1fr),
   fill: tbl-fill,
   stroke: tbl-stroke,
   align: (left, left),
@@ -42,27 +42,142 @@
   tbl-header-text[Plant],
   tbl-header-text[Fertilizer Program],
 
-  ["Silver Maple"], ["No direct N; receives lawn N indirectly. Priority: May micronutrient blend."],
-  ["Skyline Honeylocust"], ["April liquid N-K, May micronutrient blend, EDDHA iron in May and June."],
-  ["Spring Snow Crabapple"], ["Spring ammonium sulfate + May micronutrient blend."],
-  ["Autumn Brilliance Serviceberry"], ["Spring ammonium sulfate + May micronutrient blend; include boron support."],
-  ["Emperor Japanese Maple"], ["Spring ammonium sulfate, EDDHA iron in May and July, May micronutrient blend."],
-  ["Wichita Blue Juniper"], ["May micronutrient blend; optional light spring liquid N-K."],
-  ["Dwarf Globe Blue Spruce"], ["Light ammonium sulfate every 1-2 years + May micronutrient blend."],
-  ["Mops Mugo Pine"], ["Light ammonium sulfate every 1-2 years + May micronutrient blend."],
-  ["Peking Cotoneaster"], ["Skip synthetic N; compost topdress as needed + May micronutrient blend."],
-  ["Yankee Doodle Lilac"], ["April liquid N-K, May micronutrient blend, September potassium sulfate."],
-  ["Miss Kim Lilac"], ["April liquid N-K, May micronutrient blend, September potassium sulfate."],
-  ["Dark Knight Bluebeard"], ["Very light April liquid N-K, May micronutrient blend, September potassium sulfate."],
-  ["Kentucky Bluegrass"], ["Five-pass lawn program (spring granular N, September liquid N, fall winterizer)."],
-  ["Daylilies (Mixed)"], ["Light spring liquid N-K + September potassium sulfate."],
-  ["White Yarrow"], ["No fertilizer."],
-  ["Agastache Sunset Hyssop"], ["No fertilizer."],
-  ["Rocky Mountain Penstemon"], ["No fertilizer."],
-  ["Autumn Joy Sedum"], ["No fertilizer."],
-  ["Blonde Ambition Blue Grama"], ["No fertilizer (optional light potassium only)."],
-  ["Northwind Switchgrass"], ["Light spring liquid N-K + September potassium sulfate."],
-  ["Knock Out Roses"], ["Rose fertilizer every 3-4 weeks (Apr-mid Aug) + monthly EDTA iron (May-Aug)."],
-  ["White Bacopa"], ["No separate fertilizer; shares reduced-rate rose container feed."],
-  ["Candytuft"], ["Deferred pending spring survival confirmation."],
+  [#text("Silver Maple")], [#text("No direct N; receives lawn N indirectly. Priority: May micronutrient blend.")],
+  [#text("Skyline Honeylocust")], [#text("April liquid N-K, May micronutrient blend, EDDHA iron in May and June.")],
+  [#text("Spring Snow Crabapple")], [#text("Spring ammonium sulfate + May micronutrient blend.")],
+  [#text("Autumn Brilliance Serviceberry")], [#text("Spring ammonium sulfate + May micronutrient blend; include boron support.")],
+  [#text("Emperor Japanese Maple")], [#text("Spring ammonium sulfate, EDDHA iron in May and July, May micronutrient blend.")],
+  [#text("Wichita Blue Juniper")], [#text("May micronutrient blend; optional light spring liquid N-K.")],
+  [#text("Dwarf Globe Blue Spruce")], [#text("Light ammonium sulfate every 1-2 years + May micronutrient blend.")],
+  [#text("Mops Mugo Pine")], [#text("Light ammonium sulfate every 1-2 years + May micronutrient blend.")],
+  [#text("Peking Cotoneaster")], [#text("Skip synthetic N; compost topdress as needed + May micronutrient blend.")],
+  [#text("Yankee Doodle Lilac")], [#text("April liquid N-K, May micronutrient blend, September potassium sulfate.")],
+  [#text("Miss Kim Lilac")], [#text("April liquid N-K, May micronutrient blend, September potassium sulfate.")],
+  [#text("Dark Knight Bluebeard")], [#text("Very light April liquid N-K, May micronutrient blend, September potassium sulfate.")],
+  [#text("Kentucky Bluegrass")], [#text("Five-pass lawn program (spring granular N, September liquid N, fall winterizer).")],
+  [#text("Daylilies (Mixed)")], [#text("Light spring liquid N-K + September potassium sulfate.")],
+  [#text("White Yarrow")], [#text("No fertilizer.")],
+  [#text("Agastache Sunset Hyssop")], [#text("No fertilizer.")],
+  [#text("Rocky Mountain Penstemon")], [#text("No fertilizer.")],
+  [#text("Autumn Joy Sedum")], [#text("No fertilizer.")],
+  [#text("Blonde Ambition Blue Grama")], [#text("No fertilizer (optional light potassium only).")],
+  [#text("Northwind Switchgrass")], [#text("Light spring liquid N-K + September potassium sulfate.")],
+  [#text("Knock Out Roses")], [#text("Rose fertilizer every 3-4 weeks (Apr-mid Aug) + monthly EDTA iron (May-Aug).")],
+  [#text("White Bacopa")], [#text("No separate fertilizer; shares reduced-rate rose container feed.")],
+  [#text("Candytuft")], [#text("Deferred pending spring survival confirmation.")],
 )
+
+#let plant-lifespan-table = table(
+  columns: (1.9fr, 1.4fr),
+  fill: tbl-fill,
+  stroke: tbl-stroke,
+  align: (left, left),
+
+  tbl-header-text[Plant],
+  tbl-header-text[Typical Lifespan],
+
+  [#text("Silver Maple")], [#text("50–100 years")],
+  [#text("Skyline Honeylocust")], [#text("60–100 years")],
+  [#text("Spring Snow Crabapple")], [#text("30–50 years")],
+  [#text("Autumn Brilliance Serviceberry")], [#text("20–40 years")],
+  [#text("Emperor Japanese Maple")], [#text("40–60 years")],
+  [#text("Wichita Blue Juniper")], [#text("50–100 years")],
+  [#text("Dwarf Globe Blue Spruce")], [#text("40–60 years")],
+  [#text("Mops Mugo Pine")], [#text("40–80 years")],
+  [#text("Peking Cotoneaster")], [#text("30–50 years")],
+  [#text("Yankee Doodle Lilac")], [#text("40–60 years")],
+  [#text("Miss Kim Lilac")], [#text("30–50 years")],
+  [#text("Dark Knight Bluebeard")], [#text("5–10 years")],
+  [#text("Kentucky Bluegrass")], [#text("Indefinite with renovation")],
+  [#text("Daylilies (Mixed)")], [#text("15–30 years")],
+  [#text("White Yarrow")], [#text("5–10 years")],
+  [#text("Agastache Sunset Hyssop")], [#text("2–4 years")],
+  [#text("Rocky Mountain Penstemon")], [#text("5–8 years")],
+  [#text("Autumn Joy Sedum")], [#text("10–20 years")],
+  [#text("Blonde Ambition Blue Grama")], [#text("10–20 years")],
+  [#text("Northwind Switchgrass")], [#text("15–25 years")],
+  [#text("Knock Out Roses")], [#text("5–10 years (container)")],
+  [#text("White Bacopa")], [#text("1 season (annual)")],
+  [#text("Candytuft")], [#text("3–8 years (container)")],
+)
+
+#let plant-risk-table = table(
+  columns: (1.6fr, 0.8fr, 2.6fr),
+  fill: tbl-fill,
+  stroke: tbl-stroke,
+  align: (left, left, left),
+
+  tbl-header-text[Plant],
+  tbl-header-text[Tier],
+  tbl-header-text[Primary Failure Mode],
+
+  [#text("Silver Maple")], [#text("medium")], [#text("Structural branch failure from weak unions if pruning is deferred.")],
+  [#text("Skyline Honeylocust")], [#text("high")], [#text("Iron chlorosis and heat stress during establishment if irrigation is insufficient.")],
+  [#text("Spring Snow Crabapple")], [#text("medium")], [#text("Fire blight or establishment stress if canopy and irrigation are not managed.")],
+  [#text("Autumn Brilliance Serviceberry")], [#text("high")], [#text("Heat and moisture stress from south exposure leading to scorch and decline.")],
+  [#text("Emperor Japanese Maple")], [#text("high")], [#text("Leaf scorch and chlorosis from heat exposure plus alkaline root-zone stress.")],
+  [#text("Wichita Blue Juniper")], [#text("low")], [#text("Root/crown decline from chronic overwatering in clay.")],
+  [#text("Dwarf Globe Blue Spruce")], [#text("medium")], [#text("Spider mite pressure and crown stress under hot, dry summer conditions.")],
+  [#text("Mops Mugo Pine")], [#text("low")], [#text("Root decline from excess moisture or poor drainage in clay.")],
+  [#text("Peking Cotoneaster")], [#text("low")], [#text("Overwatering and poor air circulation leading to root/crown decline.")],
+  [#text("Yankee Doodle Lilac")], [#text("medium")], [#text("Poor bloom and mildew when pruning timing or airflow management is missed.")],
+  [#text("Miss Kim Lilac")], [#text("high")], [#text("Stagnation from root-zone constraints, especially alkaline foundation influence.")],
+  [#text("Dark Knight Bluebeard")], [#text("medium")], [#text("Crown/root rot from wet fall-winter soil.")],
+  [#text("Kentucky Bluegrass")], [#text("high")], [#text("Summer thinning from irrigation or compaction stress without regular renovation.")],
+  [#text("Daylilies (Mixed)")], [#text("low")], [#text("Reduced bloom and vigor from crowding if clumps are not periodically divided.")],
+  [#text("White Yarrow")], [#text("low")], [#text("Root/crown rot from prolonged wet conditions.")],
+  [#text("Agastache Sunset Hyssop")], [#text("low")], [#text("Shortened life from wet clay and excess fertility.")],
+  [#text("Rocky Mountain Penstemon")], [#text("low")], [#text("Crown rot from fall moisture or overwatering in clay.")],
+  [#text("Autumn Joy Sedum")], [#text("low")], [#text("Stem flopping and crown issues from overwatering or excess fertility.")],
+  [#text("Blonde Ambition Blue Grama")], [#text("low")], [#text("Loss of form from excess water/fertility and poor drainage.")],
+  [#text("Northwind Switchgrass")], [#text("low")], [#text("Flopping and weak stems when overfertilized.")],
+  [#text("Knock Out Roses")], [#text("high")], [#text("Container winter root freeze without protection.")],
+  [#text("White Bacopa")], [#text("medium")], [#text("Heat or dry-down stress in midsummer if container moisture drops.")],
+  [#text("Candytuft")], [#text("medium")], [#text("Container winter kill in severe cold without insulation or storage.")],
+)
+
+#let plant-profile-map = (
+  "silver_maple": ("2022", "50–100 years", "Medium", "Structural branch failure from weak unions if pruning is deferred."),
+  "honeylocust": ("2024", "60–100 years", "High", "Iron chlorosis and heat stress during establishment if irrigation is insufficient."),
+  "crabapple": ("2024", "30–50 years", "Medium", "Fire blight or establishment stress if canopy and irrigation are not managed."),
+  "serviceberry": ("2024", "20–40 years", "High", "Heat and moisture stress from south exposure leading to scorch and decline."),
+  "japanese_maple": ("2024", "40–60 years", "High", "Leaf scorch and chlorosis from heat exposure plus alkaline root-zone stress."),
+  "juniper": ("2024", "50–100 years", "Low", "Root/crown decline from chronic overwatering in clay."),
+  "blue_spruce": ("2024", "40–60 years", "Medium", "Spider mite pressure and crown stress under hot, dry summer conditions."),
+  "mugo_pine": ("2024", "40–80 years", "Low", "Root decline from excess moisture or poor drainage in clay."),
+  "cotoneaster": ("2024", "30–50 years", "Low", "Overwatering and poor air circulation leading to root/crown decline."),
+  "yankee_doodle_lilac": ("2024", "40–60 years", "Medium", "Poor bloom and mildew when pruning timing or airflow management is missed."),
+  "miss_kim_lilac": ("2022", "30–50 years", "High", "Stagnation from root-zone constraints, especially alkaline foundation influence."),
+  "bluebeard": ("2024", "5–10 years", "Medium", "Crown/root rot from wet fall-winter soil."),
+  "bluegrass": ("2022", "Indefinite with renovation", "High", "Summer thinning from irrigation or compaction stress without regular renovation."),
+  "daylilies": ("2022", "15–30 years", "Low", "Reduced bloom and vigor from crowding if clumps are not periodically divided."),
+  "yarrow": ("2024", "5–10 years", "Low", "Root/crown rot from prolonged wet conditions."),
+  "agastache": ("2024", "2–4 years", "Low", "Shortened life from wet clay and excess fertility."),
+  "penstemon": ("2024", "5–8 years", "Low", "Crown rot from fall moisture or overwatering in clay."),
+  "sedum": ("2024", "10–20 years", "Low", "Stem flopping and crown issues from overwatering or excess fertility."),
+  "blue_grama": ("2024", "10–20 years", "Low", "Loss of form from excess water/fertility and poor drainage."),
+  "switchgrass": ("2024", "15–25 years", "Low", "Flopping and weak stems when overfertilized."),
+  "knockout_roses": ("2025", "5–10 years (container)", "High", "Container winter root freeze without protection."),
+  "bacopa": ("2025", "1 season (annual)", "Medium", "Heat or dry-down stress in midsummer if container moisture drops."),
+  "candytuft": ("2025", "3–8 years (container)", "Medium", "Container winter kill in severe cold without insulation or storage."),
+)
+
+#let plant-established(file-key) = {
+  let (established, _, _, _) = plant-profile-map.at(file-key)
+  established
+}
+
+#let plant-lifespan(file-key) = {
+  let (_, lifespan, _, _) = plant-profile-map.at(file-key)
+  lifespan
+}
+
+#let plant-tier(file-key) = {
+  let (_, _, tier, _) = plant-profile-map.at(file-key)
+  tier
+}
+
+#let plant-failure(file-key) = {
+  let (_, _, _, mode) = plant-profile-map.at(file-key)
+  mode
+}

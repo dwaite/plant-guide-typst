@@ -29,7 +29,7 @@ photosynthesis hours rather than leaving roots in overnight-saturated clay.
 === Recommended Schedule
 
 #table(
-  columns: (1.2fr, 1fr, 2.8fr),
+  columns: (1.2fr, 1fr, 4fr),
   fill: tbl-fill,
   stroke: tbl-stroke,
   align: (left, left, left),

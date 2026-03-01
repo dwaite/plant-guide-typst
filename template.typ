@@ -111,11 +111,23 @@
 //   For portrait photos, dy shifts up/down (negative = up, positive = down).
 //   Image is sized to img-h height; landscape images overflow the 112pt box
 //   width and are clipped — use dx to shift the visible horizontal slice.
-#let plant-header(name, latin, image-file, body, img-dx: 0pt, img-dy: 0pt) = {
+#let plant-header(
+  name,
+  latin,
+  image-file,
+  body,
+  establishment: none,
+  lifespan: none,
+  tier: none,
+  failure: none,
+  img-dx: 0pt,
+  img-dy: 0pt,
+) = {
   let img-w = 112pt
   let img-h = 181pt  // img-w × φ (1.618) ≈ 181pt
   grid(
     columns: (1fr, img-w + 2pt),
+    rows: 2,
     column-gutter: 16pt,
     align: top,
     [
@@ -125,10 +137,30 @@
       #v(7pt, weak: true)
       #text(size: 10.5pt, fill: text-main)[#body]
     ],
-    box(width: img-w, height: img-h, stroke: 1pt + black, radius: 2.5pt, clip: true)[
-      #place(top + center, dx: img-dx, dy: img-dy,
-        image("images/" + image-file + ".jpg", height: img-h)
-      )
+    grid.cell(rowspan: 2, {
+      box(width: img-w, height: img-h, stroke: 1pt + black, radius: 2.5pt, clip: true)[
+        #place(top + center, dx: img-dx, dy: img-dy,
+          image("images/" + image-file + ".jpg", height: img-h)
+        )
+      ]
+    })
+    ,
+    [ #grid.cell(align:bottom, [
+      #if establishment != none and lifespan != none and tier != none and failure != none [
+        #v(12pt)
+        #text(size: 8.7pt, fill: text-muted)[
+          Established: #text(weight: "semibold")[#establishment]]
+        #v(4pt, weak: true)
+        #text(size: 8.7pt, fill: text-muted)[
+          Lifespan: #text(weight: "semibold")[#lifespan]]
+        #v(4pt, weak: true)
+        #text(size: 8.7pt, fill: text-muted)[
+          Maintenance Tier: #text(weight: "semibold")[#tier]]
+        #v(4pt, weak: true)
+        #text(size: 8.7pt, fill: text-muted)[
+          Common Failure: #failure]
+      ]
+    ])
     ]
   )
   v(0.5pt)

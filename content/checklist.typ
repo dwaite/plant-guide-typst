@@ -39,6 +39,7 @@ _Recommended Products & Application Methods_.
   "March",
   ("Lawn pre-emergent at forsythia/50°F soil", N),
   ("Bed pre-emergent (Preen constrained plan)", N),
+  ("Bluebeard hard cut to 4–6 inches (as buds swell)", N),
   ("Start drip after freeze risk", N),
   ("Pull mulch off crowns; fix winter heave", N),
   ("Hand-pull winter annual weeds", N),

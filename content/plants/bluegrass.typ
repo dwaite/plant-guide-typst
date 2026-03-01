@@ -2,9 +2,10 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Kentucky Bluegrass Lawn", "Poa pratensis", "bluegrass")[
-  Kentucky Bluegrass is by far the most common lawn grass in Colorado and is well adapted to the Front Range climate when properly managed. A cool-season grass, it grows actively in spring and fall when temperatures are 60–75°F and may enter summer semi-dormancy during July–August heat. On a full sprinkler system. Your soil test reveals several important factors specific to your lawn: LOW nitrogen (the most limiting nutrient for turf), HIGH phosphorus (meaning starter fertilizer during sod installation has already provided lasting P; do not add more), LOW potassium (critical for winter hardiness and drought tolerance), and very low micronutrients. Mowing height note: CSU Extension's research-based recommendation for all Colorado lawns is 2.5–3 inches year-round — this specific height is climate-justified for Commerce City.
+#plant-header("Kentucky Bluegrass Lawn", "Poa pratensis", "bluegrass", establishment: plant-established("bluegrass"), lifespan: plant-lifespan("bluegrass"), tier: plant-tier("bluegrass"), failure: plant-failure("bluegrass"))[
+ Kentucky Bluegrass is by far the most common lawn grass in Colorado and is well adapted to the Front Range climate when properly managed. A cool-season grass, it grows actively in spring and fall when temperatures are 60–75°F and may enter summer semi-dormancy during July–August heat. Your soil test reveals several important factors specific to your lawn: LOW nitrogen (the most limiting nutrient for turf), HIGH phosphorus (meaning starter fertilizer during sod installation has already provided lasting P; do not add more), LOW potassium (critical for winter hardiness and drought tolerance), and very low micronutrients. Mowing height note: CSU Extension's research-based recommendation for all Colorado lawns is 2.5–3 inches year-round — this specific height is climate-justified for Commerce City.
 ]
 
 === Watering

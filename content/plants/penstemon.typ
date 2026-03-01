@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Rocky Mountain Penstemon", "Penstemon strictus", "penstemon")[
-  Rocky Mountain Penstemon is one of Colorado's finest native flowering plants — electric blue-purple flower spikes in late May–June, semi-evergreen foliage, and extreme cold and drought hardiness. Short-lived (3–5 years) but self-seeds readily to maintain the colony. Blooms on old wood. Established — on drip irrigation. Requires excellent drainage — see Other Care for planting specs.
+#plant-header("Rocky Mountain Penstemon", "Penstemon strictus", "penstemon", establishment: plant-established("penstemon"), lifespan: plant-lifespan("penstemon"), tier: plant-tier("penstemon"), failure: plant-failure("penstemon"))[
+ Rocky Mountain Penstemon is one of Colorado's finest native flowering plants — electric blue-purple flower spikes in late May–June, semi-evergreen foliage, and extreme cold and drought hardiness. Short-lived (3–5 years) but self-seeds readily to maintain the colony. Blooms on old wood. Requires excellent drainage — see Other Care for planting specs.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Cap the emitter and stop drip support in late August.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Cap the emitter and stop drip support in late August.
 
 === Fertilization
 

@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Peking Cotoneaster", "Cotoneaster acutifolius", "cotoneaster")[
-  Peking Cotoneaster is one of the most adaptable, reliable landscape shrubs for the Front Range. It tolerates alkaline soil, clay, drought, cold, and urban conditions with ease. In spring it produces small white flowers; in fall, glossy black berries and excellent orange-red fall color. Very low maintenance once established. 8–10 ft. tall and wide at maturity. Established 2+ years — on drip irrigation.
+#plant-header("Peking Cotoneaster", "Cotoneaster acutifolius", "cotoneaster", establishment: plant-established("cotoneaster"), lifespan: plant-lifespan("cotoneaster"), tier: plant-tier("cotoneaster"), failure: plant-failure("cotoneaster"))[
+ Peking Cotoneaster is one of the most adaptable, reliable landscape shrubs for the Front Range. It tolerates alkaline soil, clay, drought, cold, and urban conditions with ease. In spring it produces small white flowers; in fall, glossy black berries and excellent orange-red fall color. Very low maintenance once established. 8–10 ft. tall and wide at maturity.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Peking Cotoneaster is very drought tolerant; clay moisture retention between cycles is more than adequate. The 0.67 gal/cycle delivery is somewhat generous for this plant — cap the emitter in September.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Peking Cotoneaster is very drought tolerant; clay moisture retention between cycles is more than adequate. The 0.67 gal/cycle delivery is somewhat generous for this plant — cap the emitter in September.
 
 === Fertilization
 

@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Wichita Blue Juniper", "Juniperus scopulorum 'Wichita Blue'", "juniper")[
-  A striking, narrow, upright evergreen with intense silver-blue foliage and a naturally columnar form. Extremely cold hardy, wind resistant, and well adapted to Commerce City's alkaline soils and dry conditions. Provides exceptional year-round structure, privacy screening, and windbreak value. Established 2+ years — on drip irrigation. Requires good drainage in clay — see Other Care for planting specs.
+#plant-header("Wichita Blue Juniper", "Juniperus scopulorum 'Wichita Blue'", "juniper", establishment: plant-established("juniper"), lifespan: plant-lifespan("juniper"), tier: plant-tier("juniper"), failure: plant-failure("juniper"))[
+ A striking, narrow, upright evergreen with intense silver-blue foliage and a naturally columnar form. Extremely cold hardy, wind resistant, and well adapted to Commerce City's alkaline soils and dry conditions. Provides exceptional year-round structure, privacy screening, and windbreak value. Requires good drainage in clay — see Other Care for planting specs.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Wichita Blue Juniper is drought tolerant but still in its second establishment season. In clay soil, overwatering is a greater risk than underwatering — the schedule's dry-down interval between cycles is beneficial for this plant. Never allow water to pool at or near the root crown.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Wichita Blue Juniper is drought tolerant but still in its second establishment season. In clay soil, overwatering is a greater risk than underwatering — the schedule's dry-down interval between cycles is beneficial for this plant. Never allow water to pool at or near the root crown.
 
 === Fertilization
 

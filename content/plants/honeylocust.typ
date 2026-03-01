@@ -2,9 +2,10 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Skyline Honeylocust", "Gleditsia triacanthos 'Skycole'", "honeylocust")[
-  Skyline Honeylocust is one of the most reliable shade trees for the Front Range. Its feathery compound foliage creates dappled shade that allows grass to thrive beneath it. Thornless and seedless, it tolerates drought, alkaline soils, heat, and air pollution well. Golden-yellow fall color is dramatic and long-lasting. Located in the center of the front yard lawn zone in full sun — watered by the Rachio sprinkler system, not drip. Second-season establishment plant (planted 2024): higher care attention warranted this season.
+#plant-header("Skyline Honeylocust", "Gleditsia triacanthos 'Skycole'", "honeylocust", establishment: plant-established("honeylocust"), lifespan: plant-lifespan("honeylocust"), tier: plant-tier("honeylocust"), failure: plant-failure("honeylocust"))[
+ Skyline Honeylocust is one of the most reliable shade trees for the Front Range. Its feathery compound foliage creates dappled shade that allows grass to thrive beneath it. Thornless and seedless, it tolerates drought, alkaline soils, heat, and air pollution well. Golden-yellow fall color is dramatic and long-lasting. Located in the center of the front yard lawn zone in full sun.
 ]
 
 === Watering

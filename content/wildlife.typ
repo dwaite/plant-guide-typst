@@ -13,7 +13,7 @@ Your landscape supports a diverse wildlife community for a suburban setting.
 // ── Wildlife table ───────────────────────────────────────────
 // Food column uses line breaks (\) between entries — star rating first.
 #table(
-  columns: (1.2fr, 2.6fr, 3.2fr),
+  columns: (1.6fr, 2.6fr, 2.7fr),
   fill: tbl-fill,
   stroke: tbl-stroke,
   align: (left, left, left),

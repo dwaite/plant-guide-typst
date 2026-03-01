@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Spring Snow Crabapple", "Malus 'Spring Snow'", "crabapple")[
-  Spring Snow Crabapple delivers a spectacular display of pure white, lightly fragrant flowers in May. Uniquely, it is fruitless — eliminating litter and fireblight concerns associated with fruit. Disease-resistant dark green foliage is significantly lower maintenance than many other crabapples. Well adapted to the Front Range. Established 2+ years — on drip irrigation.
+#plant-header("Spring Snow Crabapple", "Malus 'Spring Snow'", "crabapple", establishment: plant-established("crabapple"), lifespan: plant-lifespan("crabapple"), tier: plant-tier("crabapple"), failure: plant-failure("crabapple"))[
+ Spring Snow Crabapple delivers a spectacular display of pure white, lightly fragrant flowers in May. Uniquely, it is fruitless — eliminating litter and fireblight concerns associated with fruit. Disease-resistant dark green foliage is significantly lower maintenance than many other crabapples. Well adapted to the Front Range.
 ]
 
 === Watering
 
-On drip irrigation with 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). Distribute emitters around the drip line, not at the trunk — feeder roots are at the canopy edge. See the Irrigation & Watering section for the shared drip schedule. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom.
+Use 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). Distribute emitters around the drip line, not at the trunk — feeder roots are at the canopy edge. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom.
 
 === Fertilization
 

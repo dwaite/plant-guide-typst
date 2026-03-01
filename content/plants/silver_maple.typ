@@ -2,9 +2,10 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Silver Maple (Unidentified)", "Acer saccharinum", "maple")[
-  Silver Maple is one of the fastest-growing native North American maples, capable of adding 3–7 feet per year when young. Its deeply lobed leaves are bright green on top and silvery-white beneath. It produces a broad, somewhat irregular crown and reliable yellow fall color. Located in the center of the front yard lawn zone — watered by the Rachio sprinkler system, not drip. Fully established since 2022. While extremely adaptable, its rapid growth produces somewhat brittle wood, requiring proactive structural pruning.
+#plant-header("Silver Maple (Unidentified)", "Acer saccharinum", "maple", establishment: plant-established("silver_maple"), lifespan: plant-lifespan("silver_maple"), tier: plant-tier("silver_maple"), failure: plant-failure("silver_maple"))[
+ Silver Maple is one of the fastest-growing native North American maples, capable of adding 3–7 feet per year when young. Its deeply lobed leaves are bright green on top and silvery-white beneath. It produces a broad, somewhat irregular crown and reliable yellow fall color. Located in the center of the front yard lawn zone. While extremely adaptable, its rapid growth produces somewhat brittle wood, requiring proactive structural pruning.
 ]
 
 === Watering
@@ -38,7 +39,7 @@ Silver Maple produces abundant winged seeds (samaras) in spring that are an impo
 Mulch 2–3 inches deep out to the drip line. Keep mulch several inches back from the trunk base. Silver Maple's aggressive surface roots can lift sidewalks and invade irrigation lines — plant and maintain away from hardscaping.
 
 #warning-callout("Trunk Wrap — Fall 2026 Priority")[
-  Trunk wrap was not installed on the Silver Maples for winter 2025–26. Inspect both trunks in early spring for frost crack (vertical bark splits on the south or southwest side) and sunscald (sunken, discolored bark). Neither is fatal if caught early — keep the area dry and do not seal or paint. Installing trunk wrap (paper-based, not plastic) in October–November 2026, before the first hard freeze, is a first-priority fall task. Remove wraps in early March each year. Continue annual wrapping until the bark thickens and becomes less vulnerable, typically 5–7 years after planting.
+ Trunk wrap was not installed on the Silver Maples for winter 2025–26. Inspect both trunks in early spring for frost crack (vertical bark splits on the south or southwest side) and sunscald (sunken, discolored bark). Neither is fatal if caught early — keep the area dry and do not seal or paint. Installing trunk wrap (paper-based, not plastic) in October–November 2026, before the first hard freeze, is a first-priority fall task. Remove wraps in early March each year. Continue annual wrapping until the bark thickens and becomes less vulnerable, typically 5–7 years after planting.
 ]
 
 Because these trees are unidentified, take note of any unusual traits (fruit type, bark texture) that may help confirm the species as they mature.

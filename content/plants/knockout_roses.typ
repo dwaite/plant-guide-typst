@@ -2,15 +2,16 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Knock Out Roses (Potted)", "Rosa 'Radrazz' (Double Knock Out)", "knockout_rose")[
-  Knock Out Roses are exceptionally disease-resistant, repeat-blooming landscape roses producing waves of bright red blooms from June through frost. In containers, they are more versatile and moveable but require more attentive irrigation and fertilization than in-ground plants. Located on the east side of the house — morning sun only, with afternoon shade from the house beginning around midday. This is a favorable exposure: afternoon shade blocks the hottest, most desiccating hours (1–5pm), reducing watering demand and stress on container roots. Potted plants use bagged potting mix managed separately from in-ground soil conditions.
+#plant-header("Knock Out Roses (Potted)", "Rosa 'Radrazz' (Double Knock Out)", "knockout_rose", establishment: plant-established("knockout_roses"), lifespan: plant-lifespan("knockout_roses"), tier: plant-tier("knockout_roses"), failure: plant-failure("knockout_roses"))[
+ Knock Out Roses are exceptionally disease-resistant, repeat-blooming landscape roses producing waves of bright red blooms from June through frost. In containers, they are more versatile and moveable but require more attentive irrigation and fertilization than in-ground plants. Located on the east side of the house — morning sun only, with afternoon shade from the house beginning around midday. This is a favorable exposure: afternoon shade blocks the hottest, most desiccating hours (1–5pm), reducing watering demand and stress on container roots. Potted plants use bagged potting mix managed separately from in-ground soil conditions.
 ]
 
 === Container Setup
 
 #warning-callout("Pea Gravel Replacement Recommended")[
-  If the bottom third of the pots is currently filled with pea gravel, replace it. *Recommended replacement:* polystyrene foam packing peanuts (not cornstarch/biodegradable type — these decompose). Fill the bottom third with peanuts, cover with a layer of fine mesh or landscape fabric to prevent potting mix from filtering down, then add potting mix on top. Near-weightless and non-decomposing. Potential weight reduction: 15–20 lbs or more per large pot.
+ If the bottom third of the pots is currently filled with pea gravel, replace it. *Recommended replacement:* polystyrene foam packing peanuts (not cornstarch/biodegradable type — these decompose). Fill the bottom third with peanuts, cover with a layer of fine mesh or landscape fabric to prevent potting mix from filtering down, then add potting mix on top. Near-weightless and non-decomposing. Potential weight reduction: 15–20 lbs or more per large pot.
 ]
 
 *Potting mix:* Miracle-Gro Moisture Control (peat/coir base, initial pH 5.5–6.5). The slow-release fertilizer charge depletes after one season. Refresh the top third of the mix each spring with fresh Miracle-Gro Moisture Control.

@@ -19,6 +19,10 @@ def q(text: str) -> str:
     return text.replace("\\", "\\\\").replace('"', '\\"')
 
 
+def c(text: str) -> str:
+    return f'[#text("{q(text)}")]'
+
+
 def load_toml(path: pathlib.Path) -> dict:
     with path.open("rb") as f:
         return tomllib.load(f)
@@ -26,12 +30,12 @@ def load_toml(path: pathlib.Path) -> dict:
 
 def status_expr(severity: str, text: str) -> str:
     if severity == "warn":
-        return f'text(fill: status-warn, weight: "bold")[{text}]'
+        return f'[#text(fill: status-warn, weight: "bold", "{q(text)}")]'
     if severity == "high":
-        return f'text(fill: status-high)[{text}]'
+        return f'[#text(fill: status-high, "{q(text)}")]'
     if severity == "ok":
-        return f'text(fill: status-ok)[{text}]'
-    return f'[{text}]'
+        return f'[#text(fill: status-ok, "{q(text)}")]'
+    return c(text)
 
 
 def render() -> str:
@@ -67,7 +71,7 @@ def render() -> str:
     lines.append(f'#let preen-scope = "{q(preen["scope"])}"')
     lines.append("")
     lines.append("#let soil-profile-table = table(")
-    lines.append("  columns: (1.7fr, 1fr, 3.6fr),")
+    lines.append("  columns: (1fr, 1fr, 4.5fr),")
     lines.append("  fill: tbl-fill,")
     lines.append("  stroke: tbl-stroke,")
     lines.append("  align: (left, left, left),")
@@ -80,9 +84,9 @@ def render() -> str:
     for row in rows:
         sev = row.get("severity", "plain")
         st = row.get("status_text", "")
-        lines.append(f'  ["{q(row["parameter"])}"],')
+        lines.append(f'  {c(row["parameter"])},')
         lines.append(f"  {status_expr(sev, st)},")
-        lines.append(f'  ["{q(row["management"])}"],')
+        lines.append(f'  {c(row["management"])},')
 
     lines.append(")")
     lines.append("")

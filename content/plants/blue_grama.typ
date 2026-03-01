@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Blonde Ambition Blue Grama", "Bouteloua gracilis 'Blonde Ambition'", "grama")[
-  'Blonde Ambition' is a Colorado native warm-season grass selected for its exceptional ornamental eyelash-shaped seed heads that mature to golden-blonde in late summer. Extraordinary drought tolerance, good fall color, and wildlife value. Grows 18–24 inches tall with seed heads reaching 24–30 inches. Established 2+ years — on drip irrigation. NOTE: Clay drainage is a consideration.
+#plant-header("Blonde Ambition Blue Grama", "Bouteloua gracilis 'Blonde Ambition'", "grama", establishment: plant-established("blue_grama"), lifespan: plant-lifespan("blue_grama"), tier: plant-tier("blue_grama"), failure: plant-failure("blue_grama"))[
+ 'Blonde Ambition' is a Colorado native warm-season grass selected for its exceptional ornamental eyelash-shaped seed heads that mature to golden-blonde in late summer. Extraordinary drought tolerance, good fall color, and wildlife value. Grows 18–24 inches tall with seed heads reaching 24–30 inches. NOTE: Clay drainage is a consideration.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant — 0.67 gal/cycle is more than strictly needed for this plant. Once fully established, drip support may not be necessary at all; cap the emitter when the plant shows no stress signs.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant — 0.67 gal/cycle is more than strictly needed for this plant. Once fully established, drip support may not be necessary at all; cap the emitter when the plant shows no stress signs.
 
 === Fertilization
 

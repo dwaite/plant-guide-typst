@@ -47,7 +47,7 @@ images:
 	@echo "Checking plant images..."
 	@missing=0; \
 	for stem in $$(grep -h 'plant-header' content/plants/*.typ \
-	              | sed 's/.*plant-header("[^"]*", "[^"]*", "\([^"]*\)").*/\1/'); do \
+	              | sed 's/.*plant-header("[^"]*", "[^"]*", "\([^"]*\)".*/\1/'); do \
 	  if ! ls $(IMGDIR)/$$stem.* >/dev/null 2>&1; then \
 	    echo "  MISSING: $(IMGDIR)/$$stem.*"; \
 	    missing=$$((missing + 1)); \

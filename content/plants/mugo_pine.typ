@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Mops Mugo Pine", "Pinus mugo 'Mops'", "mugo")[
-  A beautifully compact, symmetrical dwarf pine with rich dark-green needles and decorative spring 'candles.' Extraordinarily cold hardy, wind resistant, and long-lived. Perfect for rock gardens, slopes, foundation plantings, and perennial borders. Holds its shape naturally with minimal maintenance. Established 2+ years — on drip irrigation.
+#plant-header("Mops Mugo Pine", "Pinus mugo 'Mops'", "mugo", establishment: plant-established("mugo_pine"), lifespan: plant-lifespan("mugo_pine"), tier: plant-tier("mugo_pine"), failure: plant-failure("mugo_pine"))[
+ A beautifully compact, symmetrical dwarf pine with rich dark-green needles and decorative spring 'candles.' Extraordinarily cold hardy, wind resistant, and long-lived. Perfect for rock gardens, slopes, foundation plantings, and perennial borders. Holds its shape naturally with minimal maintenance.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Mops Mugo Pine is drought tolerant and sensitive to overwatering — it needs the least water of any of the evergreens on the drip system. In clay, the 0.67 gal/cycle delivery and the soil's natural moisture retention are appropriate. Cap the emitter in September; skip cycles if the root zone is still moist going into a cycle.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Mops Mugo Pine is drought tolerant and sensitive to overwatering — it needs the least water of any of the evergreens on the drip system. In clay, the 0.67 gal/cycle delivery and the soil's natural moisture retention are appropriate. Cap the emitter in September; skip cycles if the root zone is still moist going into a cycle.
 
 === Fertilization
 

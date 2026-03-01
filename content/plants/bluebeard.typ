@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Dark Knight Bluebeard", "Caryopteris x clandonensis 'Dark Knight'", "bluebeard")[
-  Dark Knight Bluebeard produces vivid deep-blue flower spikes in late July–September, a season when little else is blooming. Extremely fragrant, attracting butterflies, bees, and hummingbirds heavily. Low, mounded habit (2–3 ft. tall and wide). Cut to the ground each spring — it blooms on new wood. DRAINAGE WARNING: This is the most drainage-sensitive shrub in your landscape. On drip irrigation.
+#plant-header("Dark Knight Bluebeard", "Caryopteris x clandonensis 'Dark Knight'", "bluebeard", establishment: plant-established("bluebeard"), lifespan: plant-lifespan("bluebeard"), tier: plant-tier("bluebeard"), failure: plant-failure("bluebeard"))[
+ Dark Knight Bluebeard produces vivid deep-blue flower spikes in late July–September, a season when little else is blooming. Extremely fragrant, attracting butterflies, bees, and hummingbirds heavily. Low, mounded habit (2–3 ft. tall and wide). Cut to the ground each spring — it blooms on new wood. DRAINAGE WARNING: This is the most drainage-sensitive shrub in your landscape. 
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. Cap the emitter by late September; the schedule's natural taper aligns well with this plant's needs.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. Cap the emitter by late September; the schedule's natural taper aligns well with this plant's needs.
 
 === Fertilization
 

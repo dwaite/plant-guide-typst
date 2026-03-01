@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Northwind Switchgrass", "Panicum virgatum 'Northwind'", "switchgrass")[
-  'Northwind' is one of the most architecturally striking native grasses available — strongly upright, wind-resistant, and reaching 5–6 feet tall with golden-yellow fall color. Excellent for year-round structure, privacy screening, and wildlife habitat. Unusual among ornamental grasses in tolerating clay soils. This is the most clay-tolerant grass in your landscape. Established 2+ years — on drip irrigation.
+#plant-header("Northwind Switchgrass", "Panicum virgatum 'Northwind'", "switchgrass", establishment: plant-established("switchgrass"), lifespan: plant-lifespan("switchgrass"), tier: plant-tier("switchgrass"), failure: plant-failure("switchgrass"))[
+ 'Northwind' is one of the most architecturally striking native grasses available — strongly upright, wind-resistant, and reaching 5–6 feet tall with golden-yellow fall color. Excellent for year-round structure, privacy screening, and wildlife habitat. Unusual among ornamental grasses in tolerating clay soils. This is the most clay-tolerant grass in your landscape.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well. No supplemental irrigation needed once the plant goes dormant in fall.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well. No supplemental irrigation needed once the plant goes dormant in fall.
 
 === Fertilization
 

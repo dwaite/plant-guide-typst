@@ -11,6 +11,7 @@ from pathlib import Path
 
 DATA_FILE = Path(__file__).resolve().parents[1] / "data" / "plants.toml"
 EMITTER_DISPLAY_RE = re.compile(r"^\d+(?:-\d+)? x \d+(?:\.\d+)? gph$")
+MAINTENANCE_TIERS = {"high", "medium", "low"}
 
 
 def error(msg: str) -> None:
@@ -44,6 +45,38 @@ def main() -> int:
             failures.append(f"{name}: missing fertilizer_program")
         else:
             failures.extend(validate_sentence(name, "fertilizer_program", program, max_len=120))
+
+        lifespan = plant.get("lifespan")
+        if not lifespan:
+            failures.append(f"{name}: missing lifespan")
+        else:
+            if not isinstance(lifespan, str):
+                failures.append(f"{name}: lifespan must be a string")
+            else:
+                if len(lifespan) > 40:
+                    failures.append(f"{name}: lifespan exceeds 40 chars ({len(lifespan)})")
+                if lifespan != lifespan.strip():
+                    failures.append(f"{name}: lifespan has leading/trailing whitespace")
+                if "  " in lifespan:
+                    failures.append(f"{name}: lifespan contains double spaces")
+
+        failure_mode = plant.get("primary_failure_mode")
+        if not failure_mode:
+            failures.append(f"{name}: missing primary_failure_mode")
+        elif not isinstance(failure_mode, str):
+            failures.append(f"{name}: primary_failure_mode must be a string")
+        else:
+            failures.extend(validate_sentence(name, "primary_failure_mode", failure_mode, max_len=120))
+
+        tier = plant.get("maintenance_tier")
+        if not tier:
+            failures.append(f"{name}: missing maintenance_tier")
+        elif not isinstance(tier, str):
+            failures.append(f"{name}: maintenance_tier must be a string")
+        elif tier not in MAINTENANCE_TIERS:
+            failures.append(
+                f'{name}: maintenance_tier "{tier}" must be one of high|medium|low'
+            )
 
         if plant.get("irrigation") == "drip":
             display = plant.get("emitter_display")

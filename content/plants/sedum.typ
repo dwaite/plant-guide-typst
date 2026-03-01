@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Autumn Joy Sedum", "Sedum spectabile 'Autumn Joy'", "sedum")[
-  Autumn Joy Sedum is one of the most reliable four-season perennials for the Front Range. Pink flowers in August–September mature to rust-bronze and persist through winter. Succulent, drought-adapted foliage. Very low maintenance. Works in any well-drained spot. Established 2+ years — on drip irrigation.
+#plant-header("Autumn Joy Sedum", "Sedum spectabile 'Autumn Joy'", "sedum", establishment: plant-established("sedum"), lifespan: plant-lifespan("sedum"), tier: plant-tier("sedum"), failure: plant-failure("sedum"))[
+ Autumn Joy Sedum is one of the most reliable four-season perennials for the Front Range. Pink flowers in August–September mature to rust-bronze and persist through winter. Succulent, drought-adapted foliage. Very low maintenance. Works in any well-drained spot.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. Autumn Joy Sedum is drought tolerant — dry conditions improve plant quality and reduce stem flopping. In clay, the soil's natural moisture retention between cycles is significant; watch for stems flopping outward as the earliest overwatering signal and cap the emitter earlier if it appears. Reduce or stop drip support in early fall.
+Use 1 × 2 gph emitter (0.67 gal/cycle). Autumn Joy Sedum is drought tolerant — dry conditions improve plant quality and reduce stem flopping. In clay, the soil's natural moisture retention between cycles is significant; watch for stems flopping outward as the earliest overwatering signal and cap the emitter earlier if it appears. Reduce or stop drip support in early fall.
 
 === Fertilization
 

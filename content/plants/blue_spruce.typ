@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Dwarf Globe Blue Spruce", "Picea pungens 'Glauca Globosa'", "blue_spruce")[
-  This refined, architectural evergreen brings year-round structure and brilliant silver-blue color to the landscape. Extremely slow-growing (1–3 inches per year), forming a dense, symmetrical mound perfect for foundation plantings and four-season borders. Native to Colorado's mountains and exceptionally adapted to the Front Range environment. Located in the back yard with full afternoon sun — second-season establishment plant (planted 2024) — on drip irrigation.
+#plant-header("Dwarf Globe Blue Spruce", "Picea pungens 'Glauca Globosa'", "blue_spruce", establishment: plant-established("blue_spruce"), lifespan: plant-lifespan("blue_spruce"), tier: plant-tier("blue_spruce"), failure: plant-failure("blue_spruce"))[
+ This refined, architectural evergreen brings year-round structure and brilliant silver-blue color to the landscape. Extremely slow-growing (1–3 inches per year), forming a dense, symmetrical mound perfect for foundation plantings and four-season borders. Native to Colorado's mountains and exceptionally adapted to the Front Range environment. Located in the back yard with full afternoon sun.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation & Watering section for the shared drip schedule. The dense, low crown means drainage away from the root zone is critical — ensure the plant sits slightly raised above grade so water does not pool at the base. Clay moisture retention between cycles is adequate for this plant; the greater risk is overwatering rather than underwatering.
+Use 1 × 2 gph emitter (0.67 gal/cycle). The dense, low crown means drainage away from the root zone is critical — ensure the plant sits slightly raised above grade so water does not pool at the base. Clay moisture retention between cycles is adequate for this plant; the greater risk is overwatering rather than underwatering.
 
 === Fertilization
 
@@ -36,7 +37,7 @@ Dwarf Globe Blue Spruce provides dense, sheltered cover that house finches and o
 === Pests & Disease
 
 #warning-callout("Spider Mite Risk — Watch Closely June through August")[
-  Spider mites thrive in hot, dry conditions — exactly what a back yard with full afternoon sun in Commerce City produces in July and August. This is the most serious and likely pest threat for this plant in this location. Inspect weekly from late June through August: look for fine webbing on branch undersides, stippled or bronzy needle color, and needle drop. Early treatment is far more effective than treating an established infestation. Dislodge mites with a strong water spray first; if populations persist, apply insecticidal soap or horticultural oil in the evening (avoid applying oil in daytime heat).
+ Spider mites thrive in hot, dry conditions — exactly what a back yard with full afternoon sun in Commerce City produces in July and August. This is the most serious and likely pest threat for this plant in this location. Inspect weekly from late June through August: look for fine webbing on branch undersides, stippled or bronzy needle color, and needle drop. Early treatment is far more effective than treating an established infestation. Dislodge mites with a strong water spray first; if populations persist, apply insecticidal soap or horticultural oil in the evening (avoid applying oil in daytime heat).
 ]
 
 #link("https://www.google.com/search?q=spruce+spider+mites+treatment")[Spruce spider mites] are also active in cooler weather — inspect in May and September as well. #link("https://www.google.com/search?q=cooley+spruce+gall+adelgid+treatment")[Cooley spruce gall adelgid] causes cone-like galls at branch tips; prune and destroy galls before they open in summer. #link("https://www.google.com/search?q=spruce+needle+cast+treatment")[Needle cast diseases] (Rhizosphaera or Stigmina) cause inner needles to turn brown and drop in wet springs; improve air circulation and apply copper-based fungicide preventively in spring if the disease has appeared before.

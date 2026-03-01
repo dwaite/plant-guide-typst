@@ -2,15 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Autumn Brilliance Serviceberry", "Amelanchier x grandiflora 'Autumn Brilliance'", "serviceberry")[
-  One of Colorado's finest four-season plants: pure white flowers in April, edible blue-purple berries in June, and brilliant orange-red fall color. Native-adjacent, cold hardy, and highly adapted to alkaline Front Range soils. Berries attract birds and pollinators in great numbers — outstanding ecological value. Located on the south side of the back yard in full afternoon sun — the most stressful sun exposure on the property. Serviceberry generally performs better in east or north-facing exposures in Colorado; this tree will require more attention during establishment than it would in a more sheltered spot. Second-season establishment plant (planted 2024).
+#plant-header("Autumn Brilliance Serviceberry", "Amelanchier x grandiflora 'Autumn Brilliance'", "serviceberry", establishment: plant-established("serviceberry"), lifespan: plant-lifespan("serviceberry"), tier: plant-tier("serviceberry"), failure: plant-failure("serviceberry"))[
+ One of Colorado's finest four-season plants: pure white flowers in April, edible blue-purple berries in June, and brilliant orange-red fall color. Native-adjacent, cold hardy, and highly adapted to alkaline Front Range soils. Berries attract birds and pollinators in great numbers — outstanding ecological value. Located on the south side of the back yard in full afternoon sun — the most stressful sun exposure on the property. Serviceberry generally performs better in east or north-facing exposures in Colorado; this tree will require more attention during establishment than it would in a more sheltered spot.
 ]
 
 === Watering
 
-On drip irrigation with 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). The south-facing full-sun exposure is the most stressful on the property and drives the higher emitter count relative to other shrubs. Distribute emitters around the drip line, not at the trunk. See the Irrigation & Watering section for the shared drip schedule.
-
+Use 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). The south-facing full-sun exposure is the most stressful on the property and drives the higher emitter count relative to other shrubs. Distribute emitters around the drip line, not at the trunk. 
 As a second-season plant in the most stressful location on the property, water demand is at its peak this season. Leaf scorch (brown margins, starting at leaf tips) is likely in hot summers — ensure the emitter is delivering fully and mulch is maintained before scorch appears, not after. Consistent moisture during fruit set (May–June) improves berry crop size and quality. Drip delivery keeps water off foliage, which is ideal for reducing fungal risk.
 
 === Fertilization
@@ -38,5 +38,5 @@ TRUNK WRAP: As a young smooth-barked tree on a south-facing exposure, this servi
 Decide early whether you want a tree form (remove suckers) or a large multi-stem shrub (allow). Either is attractive, but consistency of vision matters as the plant ages. Berries attract heavy bird activity in June — this is a feature, not a problem.
 
 #info-callout("Long-Term Outlook")[
-  Serviceberry is more adaptable than Japanese Maple, but south-facing full afternoon sun in Commerce City is genuinely challenging for this species. With consistent watering, mulch maintained deep and wide, and supplemental water during heat waves, this tree should establish successfully. If after 3–4 years of appropriate care the tree shows chronic summer stress despite adequate watering, the south-facing exposure may be the fundamental limiting factor — at that point, transplanting to a more favorable east or north-facing spot in autumn would be worth considering.
+ Serviceberry is more adaptable than Japanese Maple, but south-facing full afternoon sun in Commerce City is genuinely challenging for this species. With consistent watering, mulch maintained deep and wide, and supplemental water during heat waves, this tree should establish successfully. If after 3–4 years of appropriate care the tree shows chronic summer stress despite adequate watering, the south-facing exposure may be the fundamental limiting factor — at that point, transplanting to a more favorable east or north-facing spot in autumn would be worth considering.
 ]

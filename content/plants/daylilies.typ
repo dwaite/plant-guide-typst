@@ -2,14 +2,15 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Daylilies (Mixed)", "Hemerocallis spp.", "daylily")[
-  Daylilies are one of the most adaptable, low-maintenance perennials available. Each flower lasts one day, but a single plant produces dozens of blooms over a 3–6 week period depending on variety. Extremely tough: tolerates clay, drought, heat, and neglect once established. Located on the east side of the house with morning sun only — afternoon shade begins around midday. Bloom count will be somewhat lower than catalog photos suggest, which are typically shot in full sun; this is expected and normal, not a sign of plant stress. Fully established since 2022 — on drip irrigation.
+#plant-header("Daylilies (Mixed)", "Hemerocallis spp.", "daylily", establishment: plant-established("daylilies"), lifespan: plant-lifespan("daylilies"), tier: plant-tier("daylilies"), failure: plant-failure("daylilies"))[
+ Daylilies are one of the most adaptable, low-maintenance perennials available. Each flower lasts one day, but a single plant produces dozens of blooms over a 3–6 week period depending on variety. Extremely tough: tolerates clay, drought, heat, and neglect once established. Located on the east side of the house with morning sun only — afternoon shade begins around midday. Bloom count will be somewhat lower than catalog photos suggest, which are typically shot in full sun; this is expected and normal, not a sign of plant stress.
 ]
 
 === Watering
 
-On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle) — audit the existing emitter before the 2026 season; if a smaller emitter is installed, swap to 2 gph before reducing overall run time. See the Irrigation & Watering section for the shared drip schedule. As fully established clumps (since 2022) in afternoon shade, water demand is lower than full-sun daylilies. Daylilies are very drought tolerant after establishment; consistent moisture during the blooming period (June–July) improves flower production, but the shared schedule is sufficient. Stop drip support in September as temperatures drop.
+Use 1 × 2 gph emitter (0.67 gal/cycle) — audit the existing emitter before the 2026 season; if a smaller emitter is installed, swap to 2 gph before reducing overall run time. As fully established clumps (since 2022) in afternoon shade, water demand is lower than full-sun daylilies. Daylilies are very drought tolerant after establishment; consistent moisture during the blooming period (June–July) improves flower production, but the shared schedule is sufficient. Stop drip support in September as temperatures drop.
 
 === Fertilization
 

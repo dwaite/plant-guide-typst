@@ -3,9 +3,10 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("White Bacopa (Snowstorm Giant Snowflake)", "Sutera cordata 'Snowstorm Giant Snowflake'", "bacopa")[
-  White Bacopa is an annual trailing plant selected as a companion for the Knock Out Rose containers. The Snowstorm Giant Snowflake variety was chosen specifically for heat tolerance and continuous bloom — it produces masses of small white flowers from late May through first frost with only a brief slowdown in peak July heat. Its trailing habit spills softly over pot edges and weaves between rose canes without competing for visual attention. Annual in Zone 5b, so no overwintering concern. Performs particularly well in the east-facing morning-sun-only exposure — blooms more continuously in partial shade than in full all-day sun in hot climates, making this a natural match for these containers.
+#plant-header("White Bacopa (Potted)", "Sutera cordata 'Snowstorm Giant Snowflake'", "bacopa", establishment: plant-established("bacopa"), lifespan: plant-lifespan("bacopa"), tier: plant-tier("bacopa"), failure: plant-failure("bacopa"))[
+ White Bacopa is an annual trailing plant selected as a companion for the Knock Out Rose containers. The Snowstorm Giant Snowflake variety was chosen specifically for heat tolerance and continuous bloom — it produces masses of small white flowers from late May through first frost with only a brief slowdown in peak July heat. Its trailing habit spills softly over pot edges and weaves between rose canes without competing for visual attention. Annual in Zone 5b, so no overwintering concern. Performs particularly well in the east-facing morning-sun-only exposure — blooms more continuously in partial shade than in full all-day sun in hot climates, making this a natural match for these containers.
 ]
 
 === Watering

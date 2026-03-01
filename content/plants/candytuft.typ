@@ -2,9 +2,10 @@
 // Edit this file to update plant-specific content.
 
 #import "../../template.typ": *
+#import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
-#plant-header("Candytuft (Potted)", "Iberis sempervirens", "candytuft")[
-  Candytuft is a low, spreading, semi-evergreen perennial with spectacular bright white spring flowers in April–May and glossy dark green foliage through the seasons. Excellent for container displays, rock gardens, and edging. Hardy to Zone 3. In containers, management differs from in-ground plants. Note: Potted plant soil conditions differ entirely from your tested garden soil.
+#plant-header("Candytuft (Potted)", "Iberis sempervirens", "candytuft", establishment: plant-established("candytuft"), lifespan: plant-lifespan("candytuft"), tier: plant-tier("candytuft"), failure: plant-failure("candytuft"))[
+ Candytuft is a low, spreading, semi-evergreen perennial with spectacular bright white spring flowers in April–May and glossy dark green foliage through the seasons. Excellent for container displays, rock gardens, and edging. Hardy to Zone 3. In containers, management differs from in-ground plants. Note: Potted plant soil conditions differ entirely from your tested garden soil.
 ]
 
 === Watering
