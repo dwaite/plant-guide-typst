@@ -5,6 +5,7 @@
 // Product details and sourcing live in content/products.typ.
 // ============================================================
 #import "../template.typ": *
+#import "generated/plant_data.typ": fertilizer-program-table
 
 #pagebreak(weak: true)
 = Fertilizer & Nutrient Application
@@ -15,6 +16,15 @@ this landscape's primary limitation. For timing and sequence of all tasks, see t
 _Month-by-Month Checklist_. For product names and sourcing, see _Recommended Products_.
 
 #v(0.5em)
+
+== Plant Program Matrix
+
+This table is generated from the canonical plant dataset and is intended as a
+quick-reference matrix. Narrative guidance and exceptions by plant group follow.
+
+#fertilizer-program-table
+
+#v(0.6em)
 
 #danger-callout("Never Fertilize — Lean Soil Required")[
   These plants must receive *no nitrogen fertilizer* under any circumstances.
@@ -110,7 +120,8 @@ the _Recommended Products_ section for product details. Key principle: the Septe
 liquid nitrogen passes are the most important of the year — fall N drives deep root
 development and is more impactful on long-term lawn health than spring applications.
 The late-September pass also combines liquid potassium, eliminating a separate K
-broadcast for the lawn.
+broadcast for the lawn. Keep annual N as a managed range (not a rigid fixed spring
+number every year) and tune spring intensity based on actual turf vigor.
 
 == Potted Plants
 

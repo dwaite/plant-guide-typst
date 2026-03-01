@@ -3,6 +3,10 @@
 This file records the soil test results and the reasoning behind how they drive
 recommendations across the document. Update when a new soil test is performed.
 
+Audit note (March 2026): High-impact soil chemistry claims in this file were
+cross-checked with extension sources; see `notes/research/2026_audit_ledger.md`
+and `notes/research/2026_sources.md`.
+
 ---
 
 ## CSU Soil Test Results (most recent)

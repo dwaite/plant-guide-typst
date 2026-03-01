@@ -1,0 +1,14 @@
+# Canonical inventory constraints that affect recommendations
+# Last updated: 2026-03-01
+
+[[items]]
+id = "preen_bed_preemergent"
+name = "Preen Garden Weed Preventer"
+active = "trifluralin"
+quantity = 45
+unit = "lb"
+status = "Constrained Approved (Inventory/Sunk Cost)"
+season_lock = "spring 2026"
+scope = "mulched beds and rock beds only"
+reason = "Existing on-hand inventory"
+transition_after = "Move to ingredient-first prodiamine-led bed program after inventory is depleted"

@@ -3,6 +3,7 @@
 // Edit nutrient rows and product descriptions below.
 // ============================================================
 #import "../template.typ": *
+#import "generated/reference_data.typ": soil-profile-table, soil-ph
 
 #pagebreak(weak: true)
 = Soil Profile & Nutrition
@@ -17,41 +18,7 @@ in 2 years to confirm P levels are declining.
 
 // ── Nutrient table ───────────────────────────────────────────
 // Columns: Parameter | Status | Management
-#table(
-  columns: (1.7fr, 1fr, 3.6fr),
-  fill: tbl-fill,
-  stroke: tbl-stroke,
-  align: (left, left, left),
-
-  // Header
-  tbl-header-text[Parameter],
-  tbl-header-text[Status],
-  tbl-header-text[Management],
-
-  // Rows
-  [Soil Texture],   [],               [Clay-dominant with some sand],
-  [pH],             [Mildly alkaline],[7.27 — better than typical Commerce City 7.5–8.5; monitor annually],
-  [Nitrogen (N)],   text(fill: status-warn, weight: "bold")[⚠ LOW],
-                    [Supplement with N-K fertilizers as specified per plant],
-  [Phosphorus (P)], text(fill: status-high, weight: "bold")[⚠ HIGH],
-                    [*Do NOT add any P fertilizers, bloom boosters, or bone meal.*],
-  [Potassium (K)],  text(fill: status-warn, weight: "bold")[⚠ LOW],
-                    [Supplement with potassium sulfate (0-0-50) as specified per plant],
-  [Sulfur (S)],     text(fill: status-ok)[✓ Optimal],  [No action needed],
-  [Calcium (Ca)],   text(fill: status-high)[HIGH],     [Contributes to alkaline pH and micronutrient lockout; no additions needed],
-  [Magnesium (Mg)], text(fill: status-ok)[✓ Optimal],  [No action needed],
-  [Sodium (Na)],    text(fill: status-ok)[✓ Optimal],  [No action needed],
-  [Iron (Fe)],      text(fill: status-warn, weight: "bold")[⚠ VERY LOW],
-                    [Annual EDDHA-chelated iron soil drench required for most plants],
-  [Zinc (Zn)],      text(fill: status-warn, weight: "bold")[⚠ VERY LOW],
-                    [Include in chelated micronutrient blend annually],
-  [Copper (Cu)],    text(fill: status-warn, weight: "bold")[⚠ VERY LOW],
-                    [Include in chelated micronutrient blend annually],
-  [Boron (B)],      text(fill: status-warn, weight: "bold")[⚠ VERY LOW],
-                    [Include in chelated micronutrient blend; critical for Serviceberry fruit set],
-  [Manganese (Mn)], text(fill: status-warn)[⚠ Low],
-                    [Include in chelated micronutrient blend annually],
-)
+#soil-profile-table
 
 #danger-callout("⚠ Critical Soil Rule")[
   Do NOT apply any product containing phosphorus to any in-ground plant in this
@@ -63,8 +30,8 @@ in 2 years to confirm P levels are declining.
 
 #info-callout("Annual Priority Action")[
   Apply a chelated micronutrient blend (Fe, Zn, Cu, B, Mn) to all trees, shrubs,
-  and most perennials each May. Use EDDHA chelated iron specifically — it remains
-  plant-available at pH 7.27 where other iron forms do not. This is the single
+  and most perennials each May. Use EDDHA chelated iron specifically for targeted
+  in-ground correction where needed — it remains plant-available at pH #soil-ph
+  where other iron forms do not. This is the single
   highest-impact annual task for your entire landscape.
 ]
-

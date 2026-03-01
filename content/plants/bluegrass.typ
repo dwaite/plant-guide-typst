@@ -13,7 +13,7 @@ On a sprinkler system. Target 1.0–1.5 inches of water per week in June–Augus
 
 === Fertilization
 
-Per soil profile, use zero-phosphorus N-K fertilizers — your N is LOW and K is LOW, both critical for turf. Five applications per year targeting 2.75–3.25 lbs N/1,000 sq ft, fall-weighted: early May (granular ammonium sulfate 21-0-0, ~1.0 lb N/1,000 sq ft via broadcast spreader); mid-June (21-0-0, 0.5 lb N); early September (liquid urea-ammonium nitrate 28-0-0 via hose-end sprayer, ~0.5 lb N — ideally before or just after core aeration); late September (liquid 28-0-0 + liquid potassium 0-0-25 combined in hose-end sprayer, ~0.5 lb N — the most impactful application of the year, with potassium for root hardening built in); late October (lawn winterizer 32-0-10 via broadcast spreader, ~0.5 lb N). Fallback if either September liquid pass is missed: apply slow-release granular urea at 1.0–1.25 lb N via broadcast spreader instead. Also apply the chelated micronutrient blend (Fe, Zn, Mn, Cu) in spring. See the _Recommended Products_ section for specific product names and sourcing.
+Per soil profile, use zero-phosphorus fertilizers and run a fall-weighted five-pass program in the audited annual range (~2.5–3.25 lb N/1,000 sq ft): early May granular ammonium sulfate (0.75–1.0 lb N), mid-June ammonium sulfate (0.5 lb N), early September liquid 28-0-0 (~0.5 lb N), late September liquid 28-0-0 + liquid 0-0-25 K (~0.5 lb N), and late October winterizer (~0.5 lb N). If either September liquid pass is missed, switch immediately to slow-release granular urea fallback at 1.0–1.25 lb N. Apply the spring chelated micronutrient blend as the annual micronutrient correction.
 
 === Pruning & Maintenance
 

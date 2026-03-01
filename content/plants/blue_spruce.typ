@@ -15,6 +15,16 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 Per soil profile, use N-K formula only. Apply granular ammonium sulfate (21-0-0) lightly in early spring — it provides mild acidification as a side benefit, improving micronutrient availability at your pH 7.27. A chelated micronutrient blend (especially Fe and Zn) in spring is more important than fertilizer for this plant — very low Fe and Zn cause needle yellowing and browning in spruce. Light annual spring feeding only; over-fertilizing disrupts the compact form.
 
+=== Blue Spruce Monitoring
+
+Use this quick seasonal check pattern so changes are caught early:
+
+- *May (post flush):* Confirm expected pale-blue/silver new growth and look for uniform color. If new needles are noticeably pale yellow-green across the outer canopy, treat that as chlorosis warning.
+- *July (heat stress window):* Check weekly for color washout, thinning, or progressive paling on newer needles. Also inspect for mite stippling/webbing — mite damage can mimic nutrient stress.
+- *September (cool-down check):* Re-check canopy color and needle retention. Healthy plants should still look dense and evenly colored heading into fall.
+
+Escalate if any of these persist for multiple checks: (1) new-growth yellowing that does not recover, (2) visibly reduced density year-over-year, or (3) near-zero annual extension growth for 2+ seasons with color decline. In that case, confirm irrigation function first, then review spring micronutrient/acidifying schedule before adding new inputs.
+
 === Pruning & Maintenance
 
 Minimal pruning needed — the globe form is maintained naturally. Trim out any vigorous upright shoots that break from the mounded form in spring if desired. Remove dead or brown interior needles by hand annually. Avoid cutting back into bare wood.

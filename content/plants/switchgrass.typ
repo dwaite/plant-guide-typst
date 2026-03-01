@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Per soil profile, use N-K formula only. Apply a light zero-phosphorus N-K fertilizer in mid-spring as growth resumes. Potassium sulfate (0-0-50) at low rate in fall improves cold hardiness and stem stiffness. Avoid high-nitrogen fertilizers — they cause the upright stems to flop and reduce fall color intensity.
+Apply a light spring liquid N-K pass, then September potassium sulfate for stem stiffness and winter hardiness. Avoid heavy N, which increases flopping risk.
 
 === Pruning & Maintenance
 

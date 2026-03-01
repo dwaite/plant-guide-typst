@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Per soil profile, use N-K formula only. Apply a very light amount in early spring as new growth emerges — a single light feeding is sufficient. Avoid excess nitrogen, which causes rank leafy growth and reduces the flower display.
+Use a very light April liquid N-K pass, then May chelated micronutrient blend and September potassium sulfate. Keep N minimal — excess fertility drives leafy growth and weakens bloom performance.
 
 === Pruning & Maintenance
 

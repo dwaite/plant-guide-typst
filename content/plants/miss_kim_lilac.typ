@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle) — audit the existi
 
 === Fertilization
 
-Per soil profile, use N-K formula only. As a fully established shrub, light fertilization in spring is fine but not critical year to year — do not over-feed. Potassium sulfate (0-0-50) in fall and chelated micronutrient blend in spring are the more important annual tasks: K supports strong flower bud formation and cold hardiness (yours is LOW), and micronutrients address the very low iron and zinc in your soil. Do not fertilize after bloom.
+Follow the shared lilac sequence: April liquid N-K, May chelated micronutrient blend, and September potassium sulfate. Keep rates light; potassium and micronutrients are the most important annual inputs for bloom quality and winter bud resilience.
 
 === Pruning & Maintenance
 

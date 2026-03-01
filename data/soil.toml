@@ -1,0 +1,92 @@
+# Canonical soil profile data for generated Typst content
+# Last updated: 2026-03-01
+
+[soil]
+ph = 7.27
+texture = "Clay-dominant with some sand"
+commerce_city_ph_typical = "7.5–8.5"
+retest_year = 2027
+
+[[rows]]
+parameter = "Soil Texture"
+status_text = ""
+severity = "plain"
+management = "Clay-dominant with some sand"
+
+[[rows]]
+parameter = "pH"
+status_text = "Mildly alkaline"
+severity = "plain"
+management = "7.27 — better than typical Commerce City 7.5–8.5; monitor annually"
+
+[[rows]]
+parameter = "Nitrogen (N)"
+status_text = "⚠ LOW"
+severity = "warn"
+management = "Supplement with N-K fertilizers as specified per plant"
+
+[[rows]]
+parameter = "Phosphorus (P)"
+status_text = "⚠ HIGH"
+severity = "high"
+management = "Do NOT add any P fertilizers, bloom boosters, or bone meal."
+
+[[rows]]
+parameter = "Potassium (K)"
+status_text = "⚠ LOW"
+severity = "warn"
+management = "Supplement with potassium sulfate (0-0-50) as specified per plant"
+
+[[rows]]
+parameter = "Sulfur (S)"
+status_text = "✓ Optimal"
+severity = "ok"
+management = "No action needed"
+
+[[rows]]
+parameter = "Calcium (Ca)"
+status_text = "HIGH"
+severity = "high"
+management = "Contributes to alkaline pH and micronutrient lockout; no additions needed"
+
+[[rows]]
+parameter = "Magnesium (Mg)"
+status_text = "✓ Optimal"
+severity = "ok"
+management = "No action needed"
+
+[[rows]]
+parameter = "Sodium (Na)"
+status_text = "✓ Optimal"
+severity = "ok"
+management = "No action needed"
+
+[[rows]]
+parameter = "Iron (Fe)"
+status_text = "⚠ VERY LOW"
+severity = "warn"
+management = "Targeted EDDHA iron drenches for highest-risk trees; chelated micronutrient blend for broad annual correction"
+
+[[rows]]
+parameter = "Zinc (Zn)"
+status_text = "⚠ VERY LOW"
+severity = "warn"
+management = "Include in chelated micronutrient blend annually"
+
+[[rows]]
+parameter = "Copper (Cu)"
+status_text = "⚠ VERY LOW"
+severity = "warn"
+management = "Include in chelated micronutrient blend annually"
+
+[[rows]]
+parameter = "Boron (B)"
+status_text = "⚠ VERY LOW"
+severity = "warn"
+management = "Include in chelated micronutrient blend; critical for Serviceberry fruit set"
+
+[[rows]]
+parameter = "Manganese (Mn)"
+status_text = "⚠ Low"
+severity = "warn"
+management = "Include in chelated micronutrient blend annually"

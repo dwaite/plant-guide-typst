@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-No fertilizer. Agastache prefers lean soil — drainage matters far more than nutrition. If anything, a very light application of granular potassium sulfate in early spring is acceptable, but many growers apply nothing.
+No fertilizer. Agastache performs best in lean soil; drainage management matters far more than nutrition.
 
 === Pruning & Maintenance
 

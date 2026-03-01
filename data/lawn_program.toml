@@ -1,0 +1,47 @@
+# Canonical lawn nutrient program data
+# Last updated: 2026-03-01
+
+[lawn_program]
+lawn_sqft = 3000
+annual_n_min = 2.5
+annual_n_max = 3.25
+fall_weighted = true
+
+[[passes]]
+name = "Spring 1"
+window = "May"
+rate = "~0.75–1.0 lb N/1,000 sq ft"
+product = "Granular ammonium sulfate 21-0-0"
+method = "Broadcast spreader"
+
+[[passes]]
+name = "Spring 2"
+window = "June"
+rate = "0.5 lb N/1,000 sq ft"
+product = "Granular ammonium sulfate 21-0-0"
+method = "Broadcast spreader"
+
+[[passes]]
+name = "Fall pass 1"
+window = "Early September"
+rate = "~0.5 lb N/1,000 sq ft"
+product = "Liquid 28-0-0"
+method = "Hose-end sprayer"
+
+[[passes]]
+name = "Fall pass 2"
+window = "Late September"
+rate = "~0.5 lb N/1,000 sq ft + K"
+product = "Liquid 28-0-0 + liquid 0-0-25 K"
+method = "Hose-end sprayer"
+
+[[passes]]
+name = "Late fall"
+window = "October"
+rate = "0.5 lb N/1,000 sq ft"
+product = "Granular winterizer (K-containing)"
+method = "Broadcast spreader"
+
+[fallback]
+trigger = "If either September liquid pass is missed"
+action = "Apply slow-release granular urea at 1.0–1.25 lb N/1,000 sq ft"

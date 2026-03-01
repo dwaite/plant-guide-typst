@@ -3,6 +3,7 @@
 // Edit schedule, emitter table, and system descriptions below.
 // ============================================================
 #import "../template.typ": *
+#import "generated/plant_data.typ": emitter-config-table
 
 #pagebreak(weak: true)
 = Irrigation & Watering
@@ -56,34 +57,7 @@ For trees, distribute emitters around the drip line (outer canopy edge), not at 
 trunk — feeder roots are at the drip line, and spacing emitters encourages lateral
 root spread. Aim for 18–24 inches from the trunk for young trees.
 
-#table(
-  columns: (2.2fr, 1fr, 3fr),
-  fill: tbl-fill,
-  stroke: tbl-stroke,
-  align: (left, left, left),
-
-  tbl-header-text[Plant],
-  tbl-header-text[Emitters],
-  tbl-header-text[Notes],
-
-  [Emperor Japanese Maple],         [3 × 2 gph], [Highest demand; full afternoon sun; shallow roots. ~2.0 gal/cycle.],
-  [Spring Snow Crabapple],          [2–3 × 2 gph], [Establishing tree; 2 minimum, 3 preferred. 1.33–2.0 gal/cycle.],
-  [Autumn Brilliance Serviceberry], [2–3 × 2 gph], [South-facing full sun adds demand. 1.33–2.0 gal/cycle.],
-  [Yankee Doodle Lilac],            [2 × 2 gph], [Larger establishing shrub. 1.33 gal/cycle.],
-  [Wichita Blue Juniper],           [1 × 2 gph], [Drought tolerant; overwatering is the greater risk. 0.67 gal/cycle.],
-  [Dwarf Globe Blue Spruce],        [1 × 2 gph], [Moderate-low demand; clay crown drainage critical. 0.67 gal/cycle.],
-  [Mops Mugo Pine],                 [1 × 2 gph], [Drought tolerant; sensitive to overwatering. 0.67 gal/cycle.],
-  [Miss Kim Lilac],                 [1 × 2 gph], [Established (2022); afternoon shade. #emph[Audit existing emitter before reducing run time — swap to 2 gph if smaller.]],
-  [Peking Cotoneaster],             [1 × 2 gph], [Very drought tolerant. 0.67 gal/cycle.],
-  [Dark Knight Bluebeard],          [1 × 2 gph], [Prefers dry; cap emitter in September. 0.67 gal/cycle.],
-  [Northwind Switchgrass],          [1 × 2 gph], [Native grass; moderate-low demand. 0.67 gal/cycle.],
-  [Daylilies],                      [1 × 2 gph], [Established (2022); afternoon shade. #emph[Audit existing emitter — swap to 2 gph if smaller.]],
-  [Agastache Sunset Hyssop],        [1 × 2 gph], [Drought tolerant; cap emitter in September. 0.67 gal/cycle.],
-  [Rocky Mountain Penstemon],       [1 × 2 gph], [Native; drought tolerant; cap emitter in September. 0.67 gal/cycle.],
-  [White Yarrow],                   [1 × 2 gph], [Very drought tolerant; cap emitter in September. 0.67 gal/cycle.],
-  [Blonde Ambition Blue Grama],     [1 × 2 gph], [Native prairie grass; very drought tolerant. 0.67 gal/cycle.],
-  [Autumn Joy Sedum],               [1 × 2 gph], [Drought tolerant; cap emitter in September. 0.67 gal/cycle.],
-)
+#emitter-config-table
 
 #warning-callout("Japanese Maple — Supplemental Watering Exception")[
   During extended heat waves in July and August (3 or more consecutive days above

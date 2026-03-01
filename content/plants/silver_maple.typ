@@ -15,9 +15,9 @@ As fully established trees (since 2022), Silver Maples are largely self-sufficie
 
 === Fertilization
 
-Established Silver Maples in a regularly fertilized lawn are already receiving nitrogen through turf applications — additional N feeding is typically unnecessary and can promote excessive soft growth. Focus the fertilization program on micronutrients rather than macronutrients.
+Established Silver Maples should receive no direct nitrogen program; lawn fertilization already provides background N. The primary annual task is the May chelated micronutrient blend.
 
-Apply the chelated micronutrient blend (Fe, Zn, Cu, B, Mn) in May — this is the primary annual task for established maples given your very low micronutrient readings. Apply supplemental nitrogen (granular ammonium sulfate 21-0-0) only if deficiency symptoms appear: pale, yellowing foliage with otherwise healthy form, or noticeably reduced annual growth.
+If clear deficiency symptoms appear despite that baseline (persistent chlorosis or unusual growth slowdown), diagnose first, then add targeted correction rather than routine extra N.
 
 Per soil profile, no phosphorus additions. Do not fertilize after July.
 

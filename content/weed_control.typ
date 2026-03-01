@@ -45,6 +45,10 @@ is required.
 
 == Mulched Planting Bed Weed Control
 
+For spring 2026, Preen use is a constrained inventory decision (existing on-hand
+stock), not a blank-slate product selection. Follow all current label directions,
+site restrictions, and watering-in requirements.
+
 *Pre-emergent in beds:* Apply a granular pre-emergent labeled for landscape beds
 (#link("https://www.google.com/search?q=snapshot+herbicide+landscape+beds")[Snapshot],
 #link("https://www.google.com/search?q=preen+garden+weed+preventer")[Preen], or
@@ -61,8 +65,8 @@ Avoid piling mulch against plant crowns.
 before they set seed. A
 #link("https://www.google.com/search?q=stirrup+hoe+weeding+tool")[stirrup hoe]
 makes quick work of seedlings. For perennial weeds (bindweed, dandelion, thistle):
-spot-treat with glyphosate applied carefully to weed foliage only, or use a
-foam-tip applicator to protect adjacent plants.
+start with physical removal and repeated suppression, then spot-treat only where
+needed (foam-tip applicator or targeted spray) to protect adjacent plants.
 
 *Bindweed in beds:* Pull vines weekly for an entire season — preventing the leaves
 from photosynthesizing progressively starves the root. Spot-treat with glyphosate
@@ -81,7 +85,8 @@ material accumulates on top of rock over time and supports weed germination rega
 of fabric — this surface layer must be managed.
 
 *Pre-emergent in rock:* Apply the same products (Preen, Snapshot) to crushed rock
-areas in spring. Broadcast on the rock surface and water in.
+areas in spring. Broadcast on the rock surface and water in according to label.
+For late-season extension, use prodiamine-labeled refresh only where needed.
 
 *Post-emergent in rock:* Non-selective herbicides including
 #link("https://www.google.com/search?q=glyphosate+herbicide+use")[glyphosate]

@@ -17,7 +17,7 @@ Full sun exposure increases water demand relative to partially shaded trees. Dur
 
 === Fertilization
 
-Per soil profile, use N-K formula only. Apply liquid N-K fertilizer (15-0-15) or granular ammonium sulfate (21-0-0) in early spring. More critically given your soil test: apply a full chelated micronutrient blend (Fe, Zn, Cu, B, Mn) in May when the tree is leafed out. Honeylocust is the most chlorosis-prone tree in your landscape — your very low iron and zinc readings make interveinal yellowing highly likely in alkaline soil. A second EDDHA chelated iron drench in June is strongly recommended for this tree specifically. As a second-season plant, appropriate nitrogen supplementation is still relevant — moderate feeding, not heavy.
+Follow the audited program: April liquid N-K (15-0-15), May chelated micronutrient blend, and EDDHA chelated iron drenches in May and June. Honeylocust is the highest chlorosis-risk tree in this landscape, so the EDDHA sequence is a core correction, not an optional add-on. Keep spring N moderate and avoid late-season N.
 
 === Pruning & Maintenance
 

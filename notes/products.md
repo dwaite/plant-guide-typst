@@ -3,6 +3,10 @@
 Consolidated product reference for all scheduled applications. Update when products
 are discontinued, substituted, or when new soil test data changes priorities.
 
+Audit note (March 2026): High-impact claims and 2026 buy decisions were re-vetted
+against primary labels and extension guidance. See `notes/research/2026_audit_ledger.md`
+and `notes/research/2026_sources.md`.
+
 ---
 
 ## Delivery System Summary
@@ -19,22 +23,27 @@ are discontinued, substituted, or when new soil test data changes priorities.
 
 ## Lawn Nitrogen Program
 
-**Annual lawn N target:** 2.75–3.25 lb N/1,000 sq ft total, fall-weighted.
+**Annual lawn N target:** 2.5–3.25 lb N/1,000 sq ft total, fall-weighted.
 Lawn size: **~3,000 sq ft.**
 
 | Application | Rate | Product | Method |
 |-------------|------|---------|--------|
-| Spring 1 (May) | ~1.0 lb N/1,000 sq ft | Granular ammonium sulfate 21-0-0 | Broadcast spreader |
+| Spring 1 (May) | ~0.75–1.0 lb N/1,000 sq ft | Granular ammonium sulfate 21-0-0 | Broadcast spreader |
 | Spring 2 (June) | 0.5 lb N/1,000 sq ft | Granular ammonium sulfate 21-0-0 | Broadcast spreader |
 | Fall pass 1 (early Sept) | ~0.5 lb N/1,000 sq ft | Liquid 28-0-0 | Hose-end sprayer |
 | Fall pass 2 (late Sept) | ~0.5 lb N/1,000 sq ft + K | Liquid 28-0-0 + liquid 0-0-25 K | Hose-end sprayer |
 | Late fall (October) | 0.5 lb N/1,000 sq ft | Granular K-heavy winterizer | Broadcast spreader |
-| **Total** | **2.75–3.25 lb N** | | |
+| **Total** | **2.5–3.25 lb N** | | |
 
 **Why 15-0-15 is not used for the lawn:** Consumer liquid fertilizers like Simple Lawn
 Solutions 15-0-15 are supplement-rate products delivering ~0.05–0.12 lb N/1,000 sq ft
 per application — 5–10× below the agronomic target. Appropriate for trees/shrubs
 (small bucket volumes) but impractical at lawn scale.
+
+**Rate framing update (CSU alignment):** Colorado lawn programs are typically managed
+as annual N ranges with fall emphasis rather than fixed identical spring rates every
+year. Keep the September passes as non-negotiable; tune spring intensity within the
+table range based on actual turf vigor and clipping response.
 
 **Why liquid 28-0-0 is used for fall (not spring):** Concentrated liquid nitrogen
 (UAN-28 or equivalent) delivers full agronomic rates at lawn scale via hose-end
@@ -79,7 +88,7 @@ drops — forgiving of scheduling gaps, which is its main advantage over liquid.
 ### Apply Solo — Never Mix These
 | Product | Why |
 |---------|-----|
-| **EDDHA iron** (Ferrilene/Sequestrene 138) | Unstable in mixed solution; dedicated bucket drench only |
+| **EDDHA iron** (Ferrilene/Sequestrene 138) | Apply as dedicated bucket drench for dose control and compatibility risk avoidance |
 | **Herbicides** (triclopyr, glyphosate for bindweed) | Never mix with fertilizers; always solo |
 | **Compost tea** (EcoCycle Microbe Brew) | Chemical fertilizers kill the living microbes |
 | **Anti-desiccant** (Wilt-Pruf/Bonide Wilt-Stop) | Solo foliar application, November only |
@@ -179,31 +188,83 @@ agent (e.g., Aqua-Aid, Hydra Hume, or similar) may deliver equivalent wetting
 benefit at lower per-application cost for 6,000 sq ft. Research before reordering
 in Year 2 to determine if a more economical alternative makes sense.
 
+#### Wetting Agent Decision Matrix (6,000 sq ft footprint)
+
+| Option | Label rate basis | Reapply interval | Concentrate per application (6,000 sq ft) | Example seasonal total | Rough unit price basis | Rough price per season | Notes |
+|--------|------------------|------------------|-------------------------------------------|------------------------|------------------------|------------------------|-------|
+| **Revive Liquid** | 1 gal / 4,000 sq ft | ~every 4–6 weeks in active season | ~1.5 gal | ~6.0–7.5 gal for 4–5 apps | ~$22–33 / gal | **~$130–250** | Highest volume demand; locally available. |
+| **Hydretain Liquid** | 9 oz / 1,000 sq ft | ~every 3 months | ~54 oz (~0.42 gal) | ~0.84 gal for 2 apps | ~$50–88 / gal | **~$42–74** | Much lower seasonal concentrate volume than Revive. |
+| **Aqua-Aid AQM** | 3 oz / 1,000 sq ft | every 30–45 days | ~18 oz (~0.14 gal) | ~54–72 oz (0.42–0.56 gal) for 3–4 apps | ~$85 / gal equivalent (from 5-gal pricing) | **~$36–48** | Very low concentrate volume; reapplication cadence matters. |
+| **SoakORR** (Ryan Knorr) | 3–6 oz / 1,000 sq ft | roughly monthly in season | ~18–36 oz (~0.14–0.28 gal) | ~72–144 oz (0.56–1.13 gal) for 4 apps | Shipped pricing provided: 32 oz $59 (~$236/gal), 1 gal $92, 2.5 gal $215 (~$86/gal) | **~$49–104** (bulk sizes) / **~$132–266** (32 oz only) | Candidate lower-cost/volume alternative; economics are much better in 1+ gallon sizes. |
+
+**Decision approach for 2026–27:** Compare alternatives using *total seasonal
+concentrate needed at your 6,000 sq ft footprint* and local delivered price, not
+price-per-jug alone.
+
+#### Water-Test Selection Rule (2026)
+
+Use one irrigation-water test to choose chemistry track, then optimize on cost.
+
+1. Test irrigation water once (spring) for at least: pH, alkalinity/bicarbonate
+   (HCO3), carbonate (CO3), calcium, magnesium, sodium, EC, and SAR or RSC.
+2. If the lab flags bicarbonate/carbonate or RSC as high for turf irrigation:
+   treat this as a **carbonate-pressure scenario**. Prefer a carbonate-focused
+   product track (SoakORR trial zone first), then re-check infiltration and plant
+   chlorosis response after 6–8 weeks.
+3. If bicarbonate/carbonate pressure is not flagged high: treat this as a
+   **hydrophobicity/infiltration scenario**. Choose primarily on seasonal delivered
+   cost and reapplication cadence (Hydretain/AQM/Revive).
+4. Regardless of wetting-agent choice, keep alkaline-soil nutrient strategy
+   unchanged: no phosphorus additions, maintain EDDHA iron for at-risk plants, and
+   keep annual chelated micronutrient pass.
+
+Important constraint: wetting agents can improve infiltration/water distribution,
+but they are not a substitute for free-lime/high-calcium soil management.
+
+Primary references used for this matrix:
+- Revive application guidance: revive.com/how-revive-works/application-settings
+- Revive rough retail checks: acehardware.com item 7201775; denvertruevalue.com `REV10001`; walmart.com item `17128863`
+- Hydretain labels/instructions: hydretain.com/labels-sds
+- Hydretain rough retail checks: gertens.com hydretain 1 gallon; golfcourselawn.store hydretain 1 gallon; amleo.com HESP1/HESPH1
+- Aqua-Aid AQM label: aquaaidsolutions.com/pdfs/Labels/AML.pdf
+- Aqua-Aid AQM rough pricing signal: precisionusa.com item `108AML2.5G` (2 × 2.5 gal pack)
+- SoakORR use-rate listing: ryanknorrlawncare.com/products/soakorr
+- SoakORR shipped pricing (March 2026): user-provided current checkout totals (32 oz $59; 1 gal $92; 2.5 gal $215)
+- Irrigation water quality interpretation context: extension.psu.edu irrigation-water-quality-guidelines-for-turfgrass-sites; extension.oregonstate.edu catalog `PNW 597`
+
 ### Pre-Emergent — Lawn (keep granular)
 **Scotts Halts** (pendimethalin) or prodiamine granular
-- Granular is more practical for 2,500 sq ft lawn: even coverage, longer residual
+- Granular is more practical for ~3,000 sq ft lawn: even coverage, longer residual
 - Apply via broadcast spreader at forsythia bloom (~late March, soil at 50°F) and again in August
 - Where: Home Depot, Ace Hardware
 
 ### Pre-Emergent — Beds and Rock Areas
 
-**2026 plan:** Preen Garden Weed Preventer (granular trifluralin) for spring pass
+**2026 constrained plan:** Preen Garden Weed Preventer (granular trifluralin) for spring pass
 across all beds (mulch and rock); liquid prodiamine concentrate via M12 for the
 late July/August refresh pass on rock beds.
+
+Status: **Constrained Approved (Inventory/Sunk Cost)** for spring 2026 because
+~45 lbs of Preen is already on hand. This is not treated as a blank-slate best-value
+selection. After inventory is depleted, re-evaluate toward an ingredient-first
+prodiamine-led bed program.
 
 - **Spring (forsythia bloom, soil at 50°F):** Broadcast Preen granules across all
   beds. Mulch beds: water in with normal garden watering. Rock beds: follow with
   thorough hose flush-through to push product past rocks to soil surface.
   Mulch beds: add fresh mulch first if refreshing, then apply Preen on top, then
   water in. Do not apply Preen then bury under new mulch.
+- Follow all current label site restrictions and watering-in/incorporation timing;
+  do not apply in lawn zones.
 - **Late July/August refresh:** Liquid prodiamine concentrate via M12 on rock beds
   only. Preen's shorter residual (8–12 weeks) requires this second pass; prodiamine's
   longer residual (~3–5 months) from August carries through fall and into winter.
-- **Preen price note (2026):** $16 / 22 lbs — good deal; adjust plan next year
-  based on whether deal repeats. If Preen is not available cheaply, revert to
-  prodiamine liquid for both passes.
-- Preen (trifluralin) and prodiamine are the same chemical family — do not apply
-  both to the same area in the same pass; pick one per application.
+- **Inventory note (2026):** Existing on-hand Preen inventory (~45 lbs) is the
+  reason spring trifluralin is retained this season. After inventory is exhausted,
+  evaluate a prodiamine-led bed program as the default ingredient-first path.
+- Preen (trifluralin) and prodiamine are both dinitroaniline root-inhibitor
+  pre-emergents (Group 3 mode-of-action context) — do not apply both to the same
+  area in the same pass; pick one per application.
 
 ### Potassium Supplement — Fall (split delivery by zone)
 
@@ -294,10 +355,11 @@ Order online items in January — some have lead time or limited availability:
 | Jack's Classic Rose FeED | 1 small container | Amazon | 3 pots × 6–7 applications; very small per-use volume. |
 | Bonide Liquid Iron — EDTA (roses only) | 1 bottle | Ace / Home Depot / Amazon | Monthly May–Aug, rose containers only. |
 | Revive liquid (1-gal jug, $25/4,000 sq ft) | Year 1: ~7–8 jugs; subsequent years: ~4–5 jugs | Ace / Home Depot | Liquid only — granular contains P (incompatible with high-P soil). Research generic wetting agent alternative before Year 2 reorder. |
-| Granular ammonium sulfate 21-0-0 | ~21 lbs | Home Depot / Ace | May (~14 lbs) + June (~7 lbs) lawn N. A 40-lb bag covers ~2 seasons. |
+| Granular ammonium sulfate 21-0-0 | ~16–25 lbs | Home Depot / Ace | Spring lawn N varies by turf response (range-based program). A 40-lb bag typically covers 1.5–2+ seasons. |
 | Water-soluble ammonium sulfate 21-0-0 | ~1–2 lbs (every 1–2 yrs) | ryanknorrlawncare.com or equivalent | Acid-preferring plants (JM, Blue Spruce, Mugo Pine) bucket drench only. |
 | Granular 0-0-50 potassium sulfate | ~5–6 lbs | Home Depot / Ace | Trees and shrubs September only. Lawn K now covered by liquid K pass. |
 | Scotts Turf Builder WinterGuard | ~5 lbs (~⅓ standard bag) | Home Depot / Ace | Late October lawn winterizer. |
 | Scotts Halts pre-emergent (granular) | ~⅔ of 10,000 sq ft bag | Home Depot / Ace | 2 passes on 3,000 sq ft lawn; buy before forsythia blooms. |
+| Preen Garden Weed Preventer (trifluralin) | 0 lbs to buy for spring 2026 (inventory on hand) | On hand | Constrained Approved for spring 2026 due to ~45 lbs existing inventory; reassess after depletion. |
 | Slow-release granular urea (fallback) | 1 bag — keep on hand | Home Depot / Ace | September fallback if liquid N pass is missed. Buy one bag; may not be used. |
 | Bonide Wilt-Stop or Wilt-Pruf | 1 bottle concentrate | Ace / Home Depot | Late November; can buy in fall. |

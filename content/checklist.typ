@@ -80,7 +80,7 @@ Tasks are listed in priority order within each month.
   // ── March ───────────────────────────────────────────────────
   "March",
   ("Apply pre-emergent to lawn — granular pendimethalin (Scotts Halts) at forsythia bloom / soil 50°F",N),
-  ("Apply pre-emergent to mulched beds and rock areas — broadcast Preen granules; water in (mulch beds) or hose flush-through (rock beds)",N),
+  ("Apply pre-emergent to mulched beds and rock areas — broadcast Preen granules from existing inventory (Constrained Approved for 2026), then water in / flush-through per label",N),
   ("Start drip system if freeze risk has passed",N),
   ("Pull mulch back from plant crowns (prevent crown rot)",N),
   ("Check perennials for winter heave — press crowns back down if lifted",N),
@@ -99,7 +99,7 @@ Tasks are listed in priority order within each month.
   ("Refresh Japanese Maple mulch to 4-inch depth, extended to full drip line",N),
   ("Begin mowing lawn at 2.5–3 inches when bluegrass resumes active growth",N),
   ("Rake and clean debris from crushed rock areas",N),
-  ("Second application of pre-emergent in beds if needed",N),
+  ("Second application of bed pre-emergent only if needed and label allows timing interval",N),
 
   // ── May ─────────────────────────────────────────────────────
   "May",

@@ -23,12 +23,17 @@ cargo install typst-cli
 
 **Compile the document:**
 ```bash
-typst compile main.typ plant_care_guide.pdf
+make build
 ```
 
 **Watch mode** (auto-recompiles on save — great for editing):
 ```bash
-typst watch main.typ plant_care_guide.pdf
+make watch
+```
+
+**Validate all guardrails before finishing work:**
+```bash
+make verify
 ```
 
 Open `plant_care_guide.pdf` in any PDF viewer. Most PDF viewers auto-refresh
@@ -43,18 +48,31 @@ main.typ              ← Entry point: document ordering only, edit to reorder s
 template.typ          ← All styling (colours, fonts, heading styles, helper functions)
                         Edit this to change how things look
 content/
-  soil.typ            ← Soil profile, nutrient table, recommended products
+  soil.typ            ← Soil profile and nutrient status table
+  products.typ        ← Recommended products, compatibility, and sourcing
   wildlife.typ        ← Wildlife species table
   fertilizer.typ      ← Per-plant fertilizer application table
   weed_control.typ    ← Three-zone weed control guide
   task_grid.typ       ← 12-month visual task grid
-  calendar.typ        ← Seasonal calendar + monthly checklist
+  checklist.typ       ← Seasonal monthly checkbox checklist
+  generated/
+    plant_data.typ    ← Auto-generated emitter + fertilizer tables
   plants/
     silver_maple.typ  ← One file per plant — mostly readable prose
     honeylocust.typ
-    ... (22 total)
+    ... (23 total)
+scripts/
+  generate_plant_data_typ.py  ← Generates content/generated/plant_data.typ from data/plants.toml
+  generate_reference_data_typ.py ← Generates content/generated/reference_data.typ from data/soil.toml, data/lawn_program.toml, and data/inventory.toml
+.githooks/
+  pre-commit          ← Runs make verify on commit
+data/
+  plants.toml         ← Canonical per-plant facts and generated fertilizer/emitter matrix inputs
+  soil.toml           ← Canonical soil profile/status rows
+  lawn_program.toml   ← Canonical lawn annual N range and pass schedule
+  inventory.toml      ← Canonical constrained inventory decisions (e.g., on-hand Preen)
 images/
-  maple.jpg, ...      ← 22 plant photos
+  maple.jpg, ...      ← 23 plant photos
 ```
 
 ---
@@ -107,8 +125,23 @@ Edit `content/task_grid.typ` — find the `grid-data` array. Each task row is:
 ```
 Use `Y` for active months and `N` for inactive.
 
+### Validate before finishing edits:
+```bash
+make verify
+```
+
+### Regenerate data-derived tables after data/mapping edits:
+```bash
+make generate
+```
+
 ### To change colours, fonts, or heading styles:
 Edit `template.typ`. The colour palette is defined at the top.
+
+### Enable the tracked pre-commit hook (one-time per clone):
+```bash
+make install-hooks
+```
 
 ---
 
@@ -119,5 +152,5 @@ Edit `template.typ`. The colour palette is defined at the top.
   VERY LOW micronutrients (Fe, Zn, Cu, B, Mn)
 - **Critical rule:** Never add phosphorus to any in-ground plant. Ever.
 - **Last frost:** ~May 10 · **First fall frost:** ~October 5
-- **22 plants** across 7 groups (Trees, Evergreens, Shrubs, Lawn, Perennials,
+- **23 plants** across 7 groups (Trees, Evergreens, Shrubs, Lawn, Perennials,
   Ornamental Grasses, Potted Plants)

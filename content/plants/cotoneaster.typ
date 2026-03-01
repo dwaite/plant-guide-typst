@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle). See the Irrigation 
 
 === Fertilization
 
-Per soil profile, use N-K formula only — very low needs. Compost top-dressing every 1–2 years is preferable to synthetic fertilizer. The chelated micronutrient blend applied in spring addresses very low Fe and Zn without adding unwanted phosphorus.
+Skip synthetic nitrogen for this plant. Use compost top-dressing every 1–2 years as needed, and keep the May chelated micronutrient blend as the primary correction for alkaline-soil micronutrient lockout.
 
 === Pruning & Maintenance
 

@@ -13,7 +13,7 @@ On drip irrigation with 2 × 2 gph emitters (1.33 gal/cycle) — the higher coun
 
 === Fertilization
 
-Per soil profile, use N-K formula only (liquid N-K fertilizer, 15-0-15). Apply once in early spring before leaf-out. Supplement with granular potassium sulfate (0-0-50) in late summer or fall — potassium, not phosphorus, is what supports strong flower bud set and cold hardiness, and your K is LOW. Apply the chelated micronutrient blend in spring. Never fertilize after mid-July.
+Follow the audited lilac sequence: April liquid N-K, May chelated micronutrient blend, and September potassium sulfate. Potassium is the key bloom-support input; avoid phosphorus products and avoid late-season N.
 
 === Pruning & Maintenance
 

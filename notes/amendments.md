@@ -6,6 +6,10 @@ the root cause (depleted organic baseline of fill soil) rather than masking
 symptoms with mineral inputs. Update when new products, practices, or
 observations change the logic.
 
+Audit note (March 2026): This file was reviewed during the 2026 guidance audit.
+Some amendment decisions remain operational preferences where high-quality primary
+evidence is limited; see `notes/research/2026_audit_ledger.md` for current status.
+
 ---
 
 ## Why These Matter for This Property

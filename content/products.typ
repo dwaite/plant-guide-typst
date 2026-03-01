@@ -4,6 +4,7 @@
 // Source of truth for product decisions: notes/products.md
 // ============================================================
 #import "../template.typ": *
+#import "generated/reference_data.typ": lawn-n-range-display, lawn-size-sqft, preen-inventory-qty, preen-inventory-unit, preen-status, preen-season-lock, preen-scope
 
 // ── Product entry helper ──────────────────────────────────────
 // All field arguments are optional — omit any that don't apply.
@@ -48,6 +49,9 @@ All products are chosen to satisfy the high-phosphorus soil constraint: zero or
 minimal P additions to any in-ground plant. See the _Soil Profile & Nutrition_
 section for the nutrient context driving these choices.
 
+Lawn reference baseline for this guide: #lawn-size-sqft sq ft with an annual
+fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
+
 #v(0.8em)
 
 == Fertilizers & Nutrients
@@ -56,7 +60,7 @@ section for the nutrient context driving these choices.
   role:    [Spring and Early Summer Lawn Nitrogen],
   npk:     [21-0-0],
   apply:   [Lawn — broadcast spreader; water in after application.],
-  timing:  [May (\~1.0 lb N/1,000 sq ft); June (0.5 lb N/1,000 sq ft).],
+  timing:  [May (\~0.75–1.0 lb N/1,000 sq ft); June (0.5 lb N/1,000 sq ft).],
   note:    [Also available in water-soluble powder form for bucket-drench use on acid-preferring plants — see *Ammonium Sulfate Powder* below.],
   sources: [Generic granular ammonium sulfate 21-0-0. Home Depot and Ace Hardware.])
 
@@ -165,7 +169,7 @@ section for the nutrient context driving these choices.
   role:    [Summer Irrigation Efficiency — Reduces Clay Hydrophobia],
   apply:   [Lawn and all beds (\~6,000 sq ft) — Revive liquid concentrate in Chapin G362D hose-end sprayer. Follow immediately with irrigation.],
   timing:  [Late June to mid-July; second application in early August in hot, dry years.],
-  note:    [Use liquid concentrate only — not granular Revive, which is a 5-1-1 fertilizer containing phosphorus (incompatible with this property's high-P soil).],
+  note:    [Use liquid concentrate only — not granular Revive, which is a 5-1-1 fertilizer containing phosphorus (incompatible with this property's high-P soil). Selection rule: use irrigation-water chemistry first (bicarbonate/carbonate/RSC risk) to decide whether a carbonate-focused track is warranted; otherwise optimize wetting-agent choice by seasonal cost and reapplication cadence. Wetting agents do not replace the no-P + EDDHA + micronutrient soil strategy.],
   sources: [Revive liquid concentrate (1-gal jug, \~\$25, covers 4,000 sq ft — approximately 1.5 jugs per application). Colorado Ace Hardware and Home Depot (Colorado-specific retail — confirm spring stock).])
 
 #pe("Anti-Desiccant",
@@ -184,11 +188,11 @@ section for the nutrient context driving these choices.
   note:    [Do not apply within 8–12 weeks of overseeding.],
   sources: [Scotts Halts (pendimethalin) or prodiamine granular. Home Depot and Ace Hardware.])
 
-#pe("Bed Pre-Emergent (2026 Plan)",
+#pe("Bed Pre-Emergent (2026 Constrained Plan)",
   role:    [Weed Seed Prevention in Mulched Beds and Rock Areas],
   apply:   [*Spring:* Preen Garden Weed Preventer granules broadcast across all beds. Mulch beds — water in normally. Rock beds — follow with thorough hose flush-through to push product past rocks to soil surface. If refreshing mulch, add mulch first, then apply Preen on top, then water in. *Late July/August refresh:* Liquid prodiamine concentrate via M12 sprayer on rock beds only — prodiamine's longer residual (\~3–5 months) carries through fall and into winter.],
   timing:  [Spring at forsythia bloom (soil at 50°F); late July/August refresh on rock beds only.],
-  note:    [Preen (trifluralin) and prodiamine are the same chemical family — do not apply both to the same area in the same pass.],
+  note:    [Status: #preen-status for #preen-season-lock because ~#preen-inventory-qty #preen-inventory-unit is already on hand for #preen-scope. Preen (trifluralin) and prodiamine are both dinitroaniline root-inhibitor pre-emergents (Group 3 mode-of-action context) — do not apply both to the same area in the same pass. Follow current label site restrictions and watering-in directions.],
   sources: [Spring: Preen Garden Weed Preventer (granular trifluralin). Home Depot and Ace Hardware. August refresh: Prodiamine liquid concentrate. Garden centers and online.])
 
 #pe("Broadleaf Herbicide",
@@ -323,8 +327,8 @@ Broadcast granular products over the rock surface and water in — no need to mo
 ]
 
 #danger-callout("Apply solo — never mix these")[
-  - *EDDHA iron* (Ferrilene/Sequestrene 138) — unstable in mixed solution; dedicated
-    bucket drench only
+  - *EDDHA iron* (Ferrilene/Sequestrene 138) — dedicated bucket drench only for
+    dose control and compatibility risk avoidance
   - *Herbicides* (triclopyr, glyphosate, 2,4-D products) — never mix with fertilizers;
     always solo
   - *Compost tea* (EcoCycle Microbe Brew) — chemical fertilizers kill the living microbes

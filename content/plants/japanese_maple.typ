@@ -17,11 +17,9 @@ During extended heat waves in July and August (3+ consecutive days above 95°F),
 
 === Fertilization
 
-Emperor I prefers slightly acidic soil (pH 5.5–6.5) — your soil at pH 7.27 is alkaline for this plant, which compounds heat and sun stress. Per soil profile, no phosphorus additions.
+Emperor I prefers slightly acidic soil (pH 5.5–6.5), so this location has meaningful pH mismatch and heat compounding risk. Keep the no-phosphorus rule strict.
 
-Apply granular ammonium sulfate (21-0-0) in early spring as the preferred acidifying nitrogen source — it provides zero phosphorus and mildly acidifies the root zone over time. Broadcast granules at the drip line and water in thoroughly. Espoma Holly-tone (4-3-4) is a convenient one-product alternative; it contains a small amount of phosphorus (middle number 3), which at typical application rates binds rapidly into insoluble calcium phosphate at pH 7.27 — an acceptable tradeoff if preferred, but granular ammonium sulfate is the better choice given this soil's high-P constraint.
-
-Apply EDDHA chelated iron as a soil drench in May. Add a second, lighter EDDHA iron application in early July before peak heat — heat and intense sun stress compound micronutrient deficiency symptoms and reduce the tree's metabolic capacity to work around iron limitations. Annual acidic organic mulch (shredded pine bark or pine needle mulch) will gradually lower local pH over years. Do not fertilize after mid-July.
+Use spring ammonium sulfate (21-0-0) as the acidifying N source, then apply the May chelated micronutrient blend plus EDDHA iron in May and again in early July. Keep annual acidic mulch in place and avoid late-season fertilization.
 
 === Pruning & Maintenance
 

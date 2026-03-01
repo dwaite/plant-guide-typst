@@ -13,7 +13,7 @@ On drip irrigation with 1 × 2 gph emitter (0.67 gal/cycle) — audit the existi
 
 === Fertilization
 
-Per soil profile, use N-K formula only — no bloom boosters. As fully established clumps, light fertilization is appropriate, not heavy. In early spring, apply a light liquid N-K fertilizer (15-0-15) or granular ammonium sulfate paired with granular potassium sulfate to address your low nitrogen and low potassium. Potassium supports flower production. Apply a chelated micronutrient blend in spring — very low iron and zinc will reduce vigor and bloom quality if not addressed. Avoid excess nitrogen, which promotes foliage over flowers.
+Use a light spring liquid N-K pass, then September potassium sulfate to support bloom quality and winter hardiness. Keep fertility light and avoid bloom-booster products or high-N loading, which push foliage over flowers.
 
 === Pruning & Maintenance
 

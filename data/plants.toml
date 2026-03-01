@@ -1,5 +1,5 @@
 # Canonical plant data — Commerce City, CO landscape
-# Last updated: 2026-02-24
+# Last updated: 2026-03-01
 #
 # This is the DATA layer. It records facts about each plant and the irrigation
 # system, separate from the document (presentation) and notes/ (reasoning).
@@ -7,7 +7,8 @@
 # Fields:
 #   group         — trees | evergreens | shrubs | lawn | perennials | grasses | potted
 #   irrigation    — drip | sprinkler | manual
-#   emitter_gph   — drip emitter output rate (drip plants only)
+#   emitter_gph   — drip emitter flow rate; standardized at 2.0 gph for this property
+#                   (total output is controlled by emitter count in emitter_display)
 #   drip_stop     — when to end drip support for this plant:
 #                   "october"   = runs with normal system fall taper (off in November)
 #                   "september" = cap emitter in September; dry fall critical
@@ -16,6 +17,9 @@
 #   ph_preferred  — preferred pH range, only listed when significantly below our 7.27
 #   annual        — true for annuals (no overwintering expected)
 #   notes         — brief operational flags; full reasoning is in notes/
+#   emitter_display — display string for emitter table (drip plants only)
+#   emitter_note  — emitter table notes (drip plants only)
+#   fertilizer_program — one-line fertilizer program summary for generated matrix
 
 
 # ── TREES ─────────────────────────────────────────────────────────────────────
@@ -28,6 +32,7 @@ group        = "trees"
 irrigation   = "sprinkler"
 established  = 2022
 sun          = "east front — morning sun, afternoon shade"
+fertilizer_program = "No direct N; receives lawn N indirectly. Priority: May micronutrient blend."
 
 [[plants]]
 name         = "Skyline Honeylocust"
@@ -38,6 +43,7 @@ irrigation   = "sprinkler"
 established  = 2024
 sun          = "full sun"
 notes        = "Second-season; supplemental hand watering at drip line during heat waves — sprinkler calibrated for turf may underserve a young tree."
+fertilizer_program = "April liquid N-K, May micronutrient blend, EDDHA iron in May and June."
 
 [[plants]]
 name         = "Spring Snow Crabapple"
@@ -45,10 +51,13 @@ latin        = "Malus 'Spring Snow'"
 file         = "crabapple"
 group        = "trees"
 irrigation   = "drip"
-emitter_gph  = 1.0
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "full sun"
+emitter_display = "2-3 x 2 gph"
+emitter_note = "Establishing tree; 2 minimum, 3 preferred. 1.33-2.0 gal/cycle."
+fertilizer_program = "Spring ammonium sulfate + May micronutrient blend."
 
 [[plants]]
 name         = "Autumn Brilliance Serviceberry"
@@ -56,10 +65,13 @@ latin        = "Amelanchier x grandiflora 'Autumn Brilliance'"
 file         = "serviceberry"
 group        = "trees"
 irrigation   = "drip"
-emitter_gph  = 1.0
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "south back yard — full afternoon sun (most stressful exposure)"
+emitter_display = "2-3 x 2 gph"
+emitter_note = "South-facing full sun adds demand. 1.33-2.0 gal/cycle."
+fertilizer_program = "Spring ammonium sulfate + May micronutrient blend; include boron support."
 
 [[plants]]
 name         = "Emperor Japanese Maple"
@@ -73,6 +85,9 @@ established  = 2024
 sun          = "west back yard — mid-morning through full afternoon sun"
 ph_preferred = "5.5–6.5"
 notes        = "Largest pH mismatch after Mugo Pine. Supplemental hand watering during 3+ consecutive days above 95°F is a documented system constraint (not a general recommendation)."
+emitter_display = "3 x 2 gph"
+emitter_note = "Highest demand; full afternoon sun; shallow roots. ~2.0 gal/cycle."
+fertilizer_program = "Spring ammonium sulfate, EDDHA iron in May and July, May micronutrient blend."
 
 
 # ── EVERGREENS ────────────────────────────────────────────────────────────────
@@ -83,10 +98,13 @@ latin        = "Juniperus scopulorum 'Wichita Blue'"
 file         = "juniper"
 group        = "evergreens"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Drought tolerant; overwatering is the greater risk. 0.67 gal/cycle."
+fertilizer_program = "May micronutrient blend; optional light spring liquid N-K."
 
 [[plants]]
 name         = "Dwarf Globe Blue Spruce"
@@ -94,11 +112,14 @@ latin        = "Picea pungens 'Globosa'"
 file         = "blue_spruce"
 group        = "evergreens"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "west back yard — mid-morning through full afternoon sun"
 ph_preferred = "5.0–6.0"
+emitter_display = "1 x 2 gph"
+emitter_note = "Moderate-low demand; clay crown drainage critical. 0.67 gal/cycle."
+fertilizer_program = "Light ammonium sulfate every 1-2 years + May micronutrient blend."
 
 [[plants]]
 name         = "Mops Mugo Pine"
@@ -106,12 +127,15 @@ latin        = "Pinus mugo 'Mops'"
 file         = "mugo_pine"
 group        = "evergreens"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "full sun"
 ph_preferred = "4.5–6.5"
 notes        = "Largest pH mismatch on the property. Drought tolerant; most sensitive to overwatering of all evergreens."
+emitter_display = "1 x 2 gph"
+emitter_note = "Drought tolerant; sensitive to overwatering. 0.67 gal/cycle."
+fertilizer_program = "Light ammonium sulfate every 1-2 years + May micronutrient blend."
 
 
 # ── SHRUBS ────────────────────────────────────────────────────────────────────
@@ -122,10 +146,13 @@ latin        = "Cotoneaster acutifolius"
 file         = "cotoneaster"
 group        = "shrubs"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Very drought tolerant. 0.67 gal/cycle."
+fertilizer_program = "Skip synthetic N; compost topdress as needed + May micronutrient blend."
 
 [[plants]]
 name         = "Yankee Doodle Lilac"
@@ -133,10 +160,13 @@ latin        = "Syringa vulgaris 'Yankee Doodle'"
 file         = "yankee_doodle_lilac"
 group        = "shrubs"
 irrigation   = "drip"
-emitter_gph  = 1.0
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "full sun"
+emitter_display = "2 x 2 gph"
+emitter_note = "Larger establishing shrub. 1.33 gal/cycle."
+fertilizer_program = "April liquid N-K, May micronutrient blend, September potassium sulfate."
 
 [[plants]]
 name         = "Miss Kim Lilac"
@@ -144,11 +174,14 @@ latin        = "Syringa pubescens subsp. patula 'Miss Kim'"
 file         = "miss_kim_lilac"
 group        = "shrubs"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2022
 sun          = "east front — morning sun, afternoon shade"
 notes        = "Not growing as expected. Five candidate causes being investigated: foundation pH, planting depth, construction fill, shade hours, Silver Maple root competition. See notes/establishment.md."
+emitter_display = "1 x 2 gph"
+emitter_note = "Established (2022); afternoon shade. Audit existing emitter before reducing run time."
+fertilizer_program = "April liquid N-K, May micronutrient blend, September potassium sulfate."
 
 [[plants]]
 name         = "Dark Knight Bluebeard"
@@ -156,11 +189,14 @@ latin        = "Caryopteris x clandonensis 'Dark Knight'"
 file         = "bluebeard"
 group        = "shrubs"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2024
 sun          = "full sun"
 notes        = "Most drainage-sensitive plant on the property. Must be planted on raised mound with 40-50% coarse grit amendment. Single waterlogging event in fall/winter can kill."
+emitter_display = "1 x 2 gph"
+emitter_note = "Prefers dry; cap emitter in September. 0.67 gal/cycle."
+fertilizer_program = "Very light April liquid N-K, May micronutrient blend, September potassium sulfate."
 
 
 # ── LAWN ──────────────────────────────────────────────────────────────────────
@@ -173,6 +209,7 @@ group        = "lawn"
 irrigation   = "sprinkler"
 established  = 2022
 sun          = "east front — mixed sun"
+fertilizer_program = "Five-pass lawn program (spring granular N, September liquid N, fall winterizer)."
 
 
 # ── PERENNIALS ────────────────────────────────────────────────────────────────
@@ -183,10 +220,13 @@ latin        = "Hemerocallis spp."
 file         = "daylilies"
 group        = "perennials"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2022
 sun          = "east front — morning sun, afternoon shade"
+emitter_display = "1 x 2 gph"
+emitter_note = "Established (2022); afternoon shade. Audit existing emitter before reducing run time."
+fertilizer_program = "Light spring liquid N-K + September potassium sulfate."
 
 [[plants]]
 name         = "White Yarrow"
@@ -194,10 +234,13 @@ latin        = "Achillea millefolium"
 file         = "yarrow"
 group        = "perennials"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Very drought tolerant; cap emitter in September. 0.67 gal/cycle."
+fertilizer_program = "No fertilizer."
 
 [[plants]]
 name         = "Agastache Sunset Hyssop"
@@ -205,10 +248,13 @@ latin        = "Agastache 'Sunset'"
 file         = "agastache"
 group        = "perennials"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Drought tolerant; cap emitter in September. 0.67 gal/cycle."
+fertilizer_program = "No fertilizer."
 
 [[plants]]
 name         = "Rocky Mountain Penstemon"
@@ -216,11 +262,14 @@ latin        = "Penstemon strictus"
 file         = "penstemon"
 group        = "perennials"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2024
 sun          = "full sun"
 notes        = "Dry fall is essential for clay survival — do not extend drip support past September under any circumstances."
+emitter_display = "1 x 2 gph"
+emitter_note = "Native; drought tolerant; cap emitter in September. 0.67 gal/cycle."
+fertilizer_program = "No fertilizer."
 
 [[plants]]
 name         = "Autumn Joy Sedum"
@@ -228,10 +277,13 @@ latin        = "Hylotelephium 'Herbstfreude'"
 file         = "sedum"
 group        = "perennials"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Drought tolerant; cap emitter in September. 0.67 gal/cycle."
+fertilizer_program = "No fertilizer."
 
 
 # ── GRASSES ───────────────────────────────────────────────────────────────────
@@ -242,10 +294,13 @@ latin        = "Bouteloua gracilis 'Blonde Ambition'"
 file         = "blue_grama"
 group        = "grasses"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "september"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Native prairie grass; very drought tolerant. 0.67 gal/cycle."
+fertilizer_program = "No fertilizer (optional light potassium only)."
 
 [[plants]]
 name         = "Northwind Switchgrass"
@@ -253,10 +308,13 @@ latin        = "Panicum virgatum 'Northwind'"
 file         = "switchgrass"
 group        = "grasses"
 irrigation   = "drip"
-emitter_gph  = 0.5
+emitter_gph  = 2.0
 drip_stop    = "october"
 established  = 2024
 sun          = "full sun"
+emitter_display = "1 x 2 gph"
+emitter_note = "Native grass; moderate-low demand. 0.67 gal/cycle."
+fertilizer_program = "Light spring liquid N-K + September potassium sulfate."
 
 
 # ── POTTED ────────────────────────────────────────────────────────────────────
@@ -270,6 +328,7 @@ irrigation   = "manual"
 established  = 2025
 sun          = "east front — morning sun, afternoon shade"
 notes        = "Replace pea gravel drainage layer with 1.5-inch coarse grit + landscape fabric barrier before 2026 season. Potting mix refresh (top third) each April."
+fertilizer_program = "Rose fertilizer every 3-4 weeks (Apr-mid Aug) + monthly EDTA iron (May-Aug)."
 
 [[plants]]
 name         = "White Bacopa"
@@ -281,6 +340,7 @@ established  = 2025
 annual       = true
 sun          = "east front — morning sun, afternoon shade"
 notes        = "Annual companion in Knock Out Rose containers. No overwintering."
+fertilizer_program = "No separate fertilizer; shares reduced-rate rose container feed."
 
 [[plants]]
 name         = "Candytuft"
@@ -291,3 +351,4 @@ irrigation   = "manual"
 established  = 2025
 sun          = "east front — morning sun, afternoon shade"
 notes        = "DEFERRED — survival through winter 2025-26 uncertain. Do not edit candytuft.typ until spring 2026 confirms outcome. See that file for both-outcome instructions."
+fertilizer_program = "Deferred pending spring survival confirmation."

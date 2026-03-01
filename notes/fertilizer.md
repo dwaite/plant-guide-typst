@@ -3,6 +3,10 @@
 This file captures the reasoning behind fertilizer recommendations in the document.
 Update it when soil retests, new products, or observed deficiencies change the logic.
 
+Audit note (March 2026): Key claims were re-vetted against primary labels and
+extension guidance. See `notes/research/2026_audit_ledger.md` and
+`notes/research/2026_sources.md`.
+
 ---
 
 ## Overriding Constraint: High Phosphorus
@@ -145,6 +149,11 @@ fall program uses two liquid nitrogen passes:
 a single September pass rather than two separate granular applications, and avoids
 the broadcast spreader/hose-end split workflow. Liquid K also percolates through
 thatch more uniformly than granular K broadcast.
+
+**Range-based management note:** CSU guidance frames lawn nitrogen as an annual range
+with fall emphasis in Colorado, not a rigid fixed spring number each year. Keep both
+September passes as the anchor and tune spring N load within range based on observed
+turf vigor and clipping response.
 
 **Trade-off vs. slow-release:** Slow-release granular feeds itself out over 6–8
 weeks and is tolerant of missed scheduling windows. The liquid program is more
