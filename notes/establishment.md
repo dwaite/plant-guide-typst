@@ -129,14 +129,11 @@ property. During June–August heat waves, this plant should be visually checked
 more frequently than others. Signs of heat stress (wilting, leaf curl, scorched
 margins) warrant a supplemental deep watering at the drip line.
 
-### Candytuft — Survival Uncertain
+### Candytuft — Winter Loss Confirmed
 
-Candytuft (Iberis sempervirens) was a new 2025 potted plant. Survival through
-winter 2025–26 in Zone 5b is uncertain depending on how it was overwintered.
-
-See candytuft.typ — that file contains specific instructions for both outcomes
-(survived: what to do in spring; lost: what to do instead). Do not edit
-candytuft.typ until spring 2026 confirms the outcome.
+Candytuft (Iberis sempervirens) did not survive winter 2025–26 in the front pots.
+Remove it from active planning and treat the front accent pots as open for a 2026
+redo rather than as an overwintered perennial management case.
 
 ---
 
@@ -201,7 +198,6 @@ LESCO Chelated Micro Mix) first — they have the longest lead times.
 *(To be filled in after spring green-up inspection)*
 
 Key items to assess:
-- Candytuft survival
 - Miss Kim foundation pH test result
 - All 2024 cohort winter survival — note any plants that show significant stress
   or die-back attributable to the limited 2025 nutrition program

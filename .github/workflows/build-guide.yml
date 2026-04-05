@@ -1,0 +1,59 @@
+name: Build Plant Guide
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install Typst
+        uses: taiki-e/install-action@v2
+        with:
+          tool: typst-cli
+
+      - name: Verify source
+        run: make verify
+
+      - name: Build PDF
+        run: make build
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: plant-care-guide-pdf
+          path: plant_care_guide.pdf
+          if-no-files-found: error
+
+      - name: Publish rolling latest release
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git tag -f latest
+          git push origin refs/tags/latest --force
+
+          gh release delete latest --yes || true
+
+          gh release create latest plant_care_guide.pdf \
+            --title "Latest Build" \
+            --notes "Rolling build from commit ${GITHUB_SHA}."

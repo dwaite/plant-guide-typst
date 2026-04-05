@@ -47,7 +47,7 @@ Use this as a priority index. Use the month-by-month checklist for full details.
   "KENTUCKY BLUEGRASS LAWN",
   ("1. Pre-emergent passes",                       (N,N,Y,N,N,N,N,Y,N,N,N,N)),
   ("2. Spring N passes",                           (N,N,N,N,Y,Y,N,N,N,N,N,N)),
-  ("3. Aerate + overseed",                         (N,N,N,N,N,N,N,Y,Y,N,N,N)),
+  ("3. Surface check / aerate + overseed",        (N,N,N,N,N,N,N,Y,Y,N,N,N)),
   ("4. Fall liquid N/K passes",                    (N,N,N,N,N,N,N,N,Y,N,N,N)),
   ("5. Late-October winterizer",                   (N,N,N,N,N,N,N,N,N,Y,N,N)),
   ("6. Mow at 2.5–3 inches",                       (N,N,N,Y,Y,Y,Y,Y,Y,Y,N,N)),

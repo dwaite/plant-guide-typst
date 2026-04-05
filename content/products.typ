@@ -63,21 +63,38 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 == Fertilizers & Nutrients
 
+=== Core Lawn Nutrition
+
 #pe("Granular Ammonium Sulfate",
   role:    [Spring and Early Summer Lawn Nitrogen],
   npk:     [21-0-0],
   apply:   [Lawn — broadcast spreader; water in after application.],
   timing:  [May (\~0.75–1.0 lb N/1,000 sq ft); June (0.5 lb N/1,000 sq ft).],
   note:    [Also available in water-soluble powder form for bucket-drench use on acid-preferring plants — see *Ammonium Sulfate Powder* below.],
-  sources: [Generic granular ammonium sulfate 21-0-0. Home Depot and Ace Hardware.])
+  sources: [2026 season: use existing Yard Mastery Flagship 24-0-6 and Scotts Green Max 27-0-2 inventory for the spring lawn N passes instead of buying a new granular ammonium sulfate product.])
 
 #pe("Liquid Urea-Ammonium Nitrate",
   role:    [Fall Lawn Nitrogen — Two-Pass Spoon-Feeding],
   npk:     [28-0-0],
   apply:   [Lawn — hose-end sprayer; water in after each pass.],
   timing:  [*Early September:* \~0.5 lb N/1,000 sq ft — before or just after core aeration. *Late September:* \~0.5 lb N/1,000 sq ft combined with liquid potassium (0-0-25) — replaces the separate granular K broadcast for the lawn.],
-  note:    [*Fallback:* If either pass is missed, apply slow-release granular urea at 1.0–1.25 lb N/1,000 sq ft via broadcast spreader instead. Keep one bag on hand each fall.],
-  sources: [Liquid N: Simple Lawn Solutions 28-0-0 or equivalent zero-P liquid N concentrate. Amazon or simplelawnsolutions.com. Liquid K: Simple Lawn Solutions 0-0-25. Amazon. Fallback slow-release granular: sulfur- or polymer-coated urea, Home Depot and Ace Hardware.])
+  note:    [*Fallback:* If either September liquid pass is missed, use the *Slow-Release Granular Urea* entry below instead.],
+  sources: [2026 season: use existing Simple Lawn Solutions 27-0-0 clearance inventory for the fall liquid N role.])
+
+#pe("Liquid Potassium",
+  role:    [Late-September Lawn Potassium — Paired with Fall Liquid N],
+  npk:     [0-0-25],
+  apply:   [Lawn — mix with the late-September liquid N pass in the hose-end sprayer.],
+  timing:  [Late September only.],
+  note:    [This replaces a separate granular K broadcast for the lawn. Trees and shrubs still use granular potassium sulfate instead.],
+  sources: [Deferred purchase: use a 0-0-25 class liquid potassium product when the late-September pass approaches.])
+
+#pe("Slow-Release Granular Urea",
+  role:    [Fallback Lawn Nitrogen if a September Liquid Pass Is Missed],
+  apply:   [Lawn — broadcast spreader; water in after application.],
+  timing:  [September fallback only, at 1.0–1.25 lb N/1,000 sq ft.],
+  note:    [Use only if the planned liquid fall N sequence is disrupted. Keep one bag on hand each fall rather than treating it as a routine program product.],
+  sources: [Deferred fallback product: sulfur- or polymer-coated granular urea.])
 
 #pe("Lawn Winterizer",
   role:    [Late-Season Nitrogen and Potassium for Winter Hardening],
@@ -85,50 +102,23 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   apply:   [Lawn — broadcast spreader; water in after application.],
   timing:  [Late October; \~0.5 lb N/1,000 sq ft.],
   note:    [Winterizer already contains potassium — no separate October K₂SO₄ pass needed for the lawn. The September potassium sulfate pass (trees and shrubs) covers the main in-ground K supplementation for the season.],
-  sources: [Scotts Turf Builder WinterGuard or equivalent K-heavy granular winterizer. Home Depot and Ace Hardware.])
+  sources: [Deferred fall purchase: choose a K-containing winterizer when fall inventory appears.])
 
 #pe("Growth Regulator",
   role:    [Reduces Mowing Frequency 30–50% Without Harming Turf],
   apply:   [Lawn — hose-end or pump sprayer at label rate. Slight temporary darkening of turf colour is normal.],
   timing:  [Early June, after turf has been mowed 2–3 times and is actively growing. Reapply every 4–6 weeks through August as needed.],
   note:    [Do not apply during drought stress or within 6 weeks of fall overseeding.],
-  sources: [Primo Maxx (professional concentrate) or PGR-IV Trinexapac 11.3% SC. SiteOne Landscape Supply (call ahead) or online at pestrong.com / intermountainturf.com. Not at Home Depot or Ace.])
+  sources: [Deferred optional product: trinexapac-ethyl class growth regulator only if the mowing-reduction program is worth running this season.])
+
+=== Core In-Ground Nutrition
 
 #pe("Liquid N-K Fertilizer",
   role:    [Spring Nitrogen and Potassium for Trees and Shrubs],
   npk:     [15-0-15],
-  apply:   [All in-ground trees and shrubs — bucket drench at drip line. Can be combined with the chelated micronutrient blend for the May pass.],
-  timing:  [Early spring; combined with LESCO Chelated Micro Mix in May.],
-  sources: [Simple Lawn Solutions 15-0-15 (liquid concentrate; also contains humic acid and kelp). Amazon or simplelawnsolutions.com.])
-
-#pe("Granular Potassium Sulfate",
-  role:    [Fall Potassium Hardening for Trees and Shrubs],
-  npk:     [0-0-50],
-  apply:   [All in-ground trees and shrubs — pull mulch back, hand broadcast to drip line, water in, replace mulch.],
-  timing:  [September — trees and shrubs only. Lawn potassium is provided by liquid 0-0-25 combined with the late-September N pass; no separate granular lawn K pass needed.],
-  note:    [Use potassium sulfate (K₂SO₄) specifically — not muriate of potash (KCl), which can harm plants if over-applied.],
-  sources: [Generic granular 0-0-50 potassium sulfate. Home Depot and Ace Hardware.])
-
-#pe("EDDHA Chelated Iron",
-  role:    [pH-Stable Iron Correction at pH 7.27],
-  apply:   [Honeylocust and Japanese Maple — bucket drench only.],
-  timing:  [May (both plants); June (Honeylocust only); early July (Japanese Maple only).],
-  note:    [EDDHA is the only chelated iron form that remains plant-available above pH 7.0. EDTA and other chelates precipitate out above pH 6.5 and are ineffective in this soil. Applied *in addition to* the chelated micronutrient blend — the blend covers all plants, while EDDHA iron provides targeted supplemental iron for the two most chlorosis-prone plants.],
-  sources: [Ferrilene 6% EDDHA or Sequestrene 138 (equivalent products). Amazon, pestrong.com, or intermountainturf.com. Also at SiteOne Landscape Supply (call ahead). Not at Home Depot or Ace.])
-
-#pe("EDTA Chelated Iron",
-  role:    [Monthly Iron for Knock Out Rose Containers],
-  apply:   [Knock Out Rose containers only — watering can drench into container soil.],
-  timing:  [Monthly May–August.],
-  note:    [EDTA iron is effective only at lower pH. Not suitable for in-ground soil at pH 7.27 — use EDDHA iron for all in-ground plants.],
-  sources: [Bonide Liquid Iron or Southern Ag Chelated Liquid Iron. Ace Hardware, Home Depot, or garden centers.])
-
-#pe("Chelated Micronutrient Blend",
-  role:    [Annual Fe, Mn, Zn, Cu, Mg, S, Mo Correction — Highest-Priority Annual Task],
-  apply:   [All in-ground trees, shrubs, and perennials — bucket drench; combine with liquid N-K for the May pass.],
-  timing:  [May only.],
-  note:    [The iron in this blend is not EDDHA-form and may not be fully available at pH 7.27 for the most chlorosis-sensitive plants. Honeylocust and Japanese Maple receive a separate *EDDHA Chelated Iron* drench in addition to this blend — not instead of it.],
-  sources: [LESCO Chelated Micro Mix (liquid). SiteOne Landscape Supply (open to public; Denver/Aurora metro — call ahead to confirm stock). Mail-order alternative: Golf Course Lawn Micronutrient Blend (golfcourselawn.store).])
+  apply:   [Skyline Honeylocust, both lilacs, and Dark Knight Bluebeard — bucket drench at the drip line. Wichita Blue Juniper is optional at low rate only. Do not use this product for Crabapple, Serviceberry, Japanese Maple, Blue Spruce, Mugo Pine, or Cotoneaster.],
+  timing:  [April spring pass; can be combined with LESCO Chelated Micro Mix during the May micronutrient pass where the plant program calls for both.],
+  sources: [2026 product: Superior 15-0-15 liquid concentrate.])
 
 #pe("Ammonium Sulfate Powder",
   role:    [Acidifying Nitrogen for Japanese Maple, Blue Spruce, and Mugo Pine],
@@ -136,13 +126,46 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   apply:   [Japanese Maple, Dwarf Globe Blue Spruce, and Mops Mugo Pine — bucket drench at drip line.],
   timing:  [Early spring (April), every 1–2 years.],
   note:    [Must be water-soluble powder — granular ammonium sulfate does not dissolve adequately for bucket use. Holly-tone 4-3-4 is a convenience alternative but contains P; acceptable for these three plants only where no zero-P acidifying option exists.],
-  sources: [Water-soluble ammonium sulfate 21-0-0 powder. Shop for best price — any horticultural or food-grade soluble formulation is equivalent. Ryan Knorr Lawn Care (ryanknorrlawncare.com) at \~\$2.20/lb is one source.])
+  sources: [2026 product: Greenway Biotech water-soluble ammonium sulfate 21-0-0 powder.])
+
+#pe("Granular Potassium Sulfate",
+  role:    [Fall Potassium Hardening for Trees and Shrubs],
+  npk:     [0-0-50],
+  apply:   [All in-ground trees and shrubs — pull mulch back, hand broadcast to drip line, water in, replace mulch.],
+  timing:  [September — trees and shrubs only. Lawn potassium is provided by liquid 0-0-25 combined with the late-September N pass; no separate granular lawn K pass needed.],
+  note:    [Use potassium sulfate (K₂SO₄) specifically — not muriate of potash (KCl), which can harm plants if over-applied.],
+  sources: [Deferred fall purchase: generic granular 0-0-50 potassium sulfate.])
+
+=== Micronutrient and pH Correction
+
+#pe("Chelated Micronutrient Blend",
+  role:    [Annual Fe, Mn, Zn, Cu, Mg, S, Mo Correction — Highest-Priority Annual Task],
+  apply:   [All in-ground trees, shrubs, and perennials — bucket drench; combine with liquid N-K for the May pass.],
+  timing:  [May only.],
+  note:    [The iron in this blend is not EDDHA-form and may not be fully available at pH 7.27 for the most chlorosis-sensitive plants. Honeylocust and Japanese Maple receive a separate *EDDHA Chelated Iron* drench in addition to this blend — not instead of it.],
+  sources: [2026 product: LESCO Chelated Micro Mix.])
+
+#pe("EDDHA Chelated Iron",
+  role:    [pH-Stable Iron Correction at pH 7.27],
+  apply:   [Honeylocust and Japanese Maple — bucket drench only.],
+  timing:  [May (both plants); June (Honeylocust only); early July (Japanese Maple only).],
+  note:    [EDDHA is the only chelated iron form that remains plant-available above pH 7.0. EDTA and other chelates precipitate out above pH 6.5 and are ineffective in this soil. Applied *in addition to* the chelated micronutrient blend — the blend covers all plants, while EDDHA iron provides targeted supplemental iron for the two most chlorosis-prone plants.],
+  sources: [2026 online fallback: Monterey Sequestar Iron 6% 3-0-0 (EDDHA-based). Ferrilene or Sequestrene 138 remain equivalent alternatives if sourced cleanly.])
+
+#pe("EDTA Chelated Iron",
+  role:    [Monthly Iron for Knock Out Rose Containers],
+  apply:   [Knock Out Rose containers only — watering can drench into container soil.],
+  timing:  [Monthly May–August.],
+  note:    [EDTA iron is effective only at lower pH. Not suitable for in-ground soil at pH 7.27 — use EDDHA iron for all in-ground plants.],
+  sources: [2026 season: use existing Liquid Ironite provisionally for container iron support; defer buying a separate container iron bottle unless the pots actually need more support.])
 
 #pe("Elemental Sulfur",
   role:    [Gradual pH Reduction for Acid-Preferring Plants and Containers],
   apply:   [Japanese Maple and Mugo Pine — broadcast at drip line, water in. Knock Out Roses — work into top layer of potting mix at spring container refresh.],
   timing:  [Spring.],
-  sources: [Generic granular elemental sulfur. Home Depot, Ace Hardware, and garden centers.])
+  sources: [2026 season: use existing Earth Science elemental sulfur inventory.])
+
+=== Container Refresh & Nutrition
 
 #pe("Rose Container Fertilizer",
   role:    [Balanced Feed for Repeat-Blooming Potted Roses],
@@ -151,12 +174,21 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   timing:  [Every 3–4 weeks from April through mid-August (6–7 applications total). Stop 6 weeks before expected first frost.],
   sources: [Jack's Classic Rose FeED 12-4-16 (water-soluble powder). Amazon and specialty garden centers.])
 
+#pe("Mycorrhizal Inoculant",
+  role:    [Root-Colonizing Fungi for Spring Container Refresh],
+  apply:   [Knock Out Rose containers and shared Bacopa container — blend granular inoculant into refreshed potting mix at spring refresh.],
+  timing:  [Spring container refresh only.],
+  note:    [For this guide, use this as a container-refresh input. Existing in-ground plants are not a target use case in current operations.],
+  sources: [2026 product: DYNOMYCO mycorrhizal inoculant, 100 g pouch.])
+
+=== Soil Conditioners & Biology (Non-Fertilizer Support)
+
 #pe("Humic Acid",
   role:    [Spring Soil Biology and Nutrient Uptake Primer],
   apply:   [All beds and lawn — hose-end sprayer broadcast.],
   timing:  [April.],
   note:    [Not a pH amendment — does not lower soil pH.],
-  sources: [Simple Lawn Solutions Humic Acid or BioAg TM-7 (liquid concentrate). Amazon.])
+  sources: [2026 season: use existing MicrGreen 0-0-2 and RGS 0-0-1 inventory first for the humic / kelp support role.])
 
 #pe("Compost Tea",
   role:    [Living Soil Microbial Inoculant],
@@ -164,13 +196,6 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   timing:  [Spring (April/May); fall (September, after aeration and compost topdressing).],
   note:    [Do not apply in summer — clay surface temperatures kill microbes before establishment. Never mix with chemical fertilizers.],
   sources: [EcoCycle Microbe Brew — local Boulder, CO product. ecocycle.org.])
-
-#pe("Mycorrhizal Inoculant",
-  role:    [Root-Colonizing Fungi for New Plantings and Container Refresh],
-  apply:   [New in-ground plantings — apply granular directly to bare roots or into the planting hole. Containers — mix into fresh potting mix at spring refresh.],
-  timing:  [At planting only for new in-ground additions; spring container refresh for Knock Out Roses.],
-  note:    [High soil phosphorus limits effectiveness for established in-ground plants — mycorrhizal associations weaken when P is abundant. Most beneficial for future new plantings and containers.],
-  sources: [MycoApply Endo/Ecto granular or Rootgrow granular. Garden centers and online (Amazon).])
 
 #pe("Wetting Agent",
   role:    [Summer Irrigation Efficiency — Reduces Clay Hydrophobia],
@@ -188,6 +213,10 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 #v(0.8em)
 == Weed Control
 
+#info-callout("2026 Reduced-Product Plan + Winter Survey Gate")[
+  Use the consolidated post-emergent stack below for 2026 to minimize SKUs. After your winter weed survey, adjust only if a specific pressure pattern justifies an extra active ingredient (for example, persistent bindweed patches that do not respond to the default track).
+]
+
 #pe("Granular Pre-Emergent",
   role:    [Crabgrass and Annual Weed Prevention — Lawn],
   apply:   [Lawn — broadcast spreader; water in after application.],
@@ -202,22 +231,18 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   note:    [Status: #preen-status for #preen-season-lock because ~#preen-inventory-qty #preen-inventory-unit is already on hand for #preen-scope. Preen (trifluralin) and prodiamine are both dinitroaniline root-inhibitor pre-emergents (Group 3 mode-of-action context) — do not apply both to the same area in the same pass. Follow current label site restrictions and watering-in directions.],
   sources: [Spring: Preen Garden Weed Preventer (granular trifluralin). Home Depot and Ace Hardware. August refresh: Prodiamine liquid concentrate. Garden centers and online.])
 
-#pe("Broadleaf Herbicide",
-  role:    [Post-Emergent Broadleaf Weed Kill in Lawn],
+#pe("Lawn Post-Emergent Combo Herbicide",
+  role:    [Single-SKU Lawn Broadleaf + Crabgrass Post-Emergent Control],
   apply:   [Lawn — hose-end or pump sprayer per label. Do not mow 2 days before or after application.],
-  timing:  [May or September when weeds are actively growing. Do not apply above 85°F or when wind exceeds 10 mph.],
-  sources: [Products containing 2,4-D + dicamba + MCPP: Ortho Weed-B-Gon, Spectracide Weed Stop, or Bayer BioAdvanced. Home Depot and Ace Hardware.])
+  timing:  [May or September when weeds are actively growing. For crabgrass, target young plants (2–4 tillers). Do not apply above 85°F or when wind exceeds 10 mph.],
+  note:    [Use a lawn-labeled combo with 2,4-D + dicamba + quinclorac (with or without sulfentrazone) to replace separate broadleaf and crabgrass post-emergent products.],
+  sources: [Examples: Spectracide Weed Stop for Lawns + Crabgrass Killer or equivalent combo products. Home Depot and Ace Hardware.])
 
-#pe("Crabgrass Killer",
-  role:    [Post-Emergent Kill When Pre-Emergent Was Missed],
-  apply:   [Lawn — spot treatment per label.],
-  timing:  [When plants are at 2–4 tillers. Large established patches are better managed through aeration and overseeding.],
-  sources: [Quinclorac (Drive XLR8 or similar). Garden centers and online.])
-
-#pe("Bindweed Herbicide",
-  role:    [Systemic Control of Field Bindweed],
+#pe("Bindweed Escalation Herbicide",
+  role:    [Optional Add-On for Persistent Bindweed After Survey],
   apply:   [Bindweed foliage only — M12 targeted spot spray.],
-  timing:  [Late August — roots are most vulnerable before fall dormancy; optimal kill rate vs. earlier timing.],
+  timing:  [Late August preferred — roots are most vulnerable before fall dormancy.],
+  note:    [Default reduced stack uses glyphosate spot treatment first. Add this product only if winter survey plus 2026 response shows persistent bindweed requiring a second mode of action.],
   sources: [Triclopyr concentrate: Ortho Brush-B-Gon or similar. Home Depot and Ace Hardware.])
 
 #pe("Grass-in-Beds Herbicide",
@@ -230,7 +255,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   role:    [Total Vegetation Kill in Crushed Rock Areas Only],
   apply:   [Crushed rock areas only — targeted spot spray. Never use in planting beds or near desirable plants.],
   timing:  [As needed for active weeds.],
-  note:    [Glyphosate is systemic (slower, more thorough root kill); horticultural vinegar is contact-only (faster knockdown, may need repeat applications).],
+  note:    [Glyphosate is the default reduced-stack non-selective tool and first-line bindweed spot treatment outside lawn areas. Horticultural vinegar is contact-only (faster knockdown, may need repeat applications).],
   sources: [Glyphosate: Roundup or generic. Horticultural vinegar: 20–30% acetic acid (not household vinegar). Home Depot and Ace Hardware.])
 
 #v(0.8em)
@@ -244,23 +269,33 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   handheld sprayer unless otherwise noted.
 ]
 
+=== Common / Keep On Hand
+
 #pe("Insecticidal Soap",
   role:    [Contact Kill of Soft-Bodied Pests — Aphids, Mites, Whitefly],
   apply:   [Affected foliage — M12 spray at dawn/dusk; repeat every 5–7 days as needed.],
   timing:  [As needed during growing season.],
   sources: [Garden Safe or Bonide Insecticidal Soap. Ace Hardware, Home Depot, and garden centers.])
 
-#pe("Neem Oil",
-  role:    [Multi-Action Fungicide, Miticide, and Insecticide],
-  apply:   [Affected foliage — M12 spray at dawn/dusk. Do not apply above 90°F.],
-  timing:  [As needed; preventive rotation for roses starting in May.],
-  sources: [Bonide Neem Oil. Ace Hardware, Home Depot, and garden centers.])
-
 #pe("Horticultural Oil",
   role:    [Smothers Overwintering Insects, Mite Eggs, and Scale on Woody Plants],
   apply:   [Woody plants — M12 spray. Do not mix with sulfur products or apply above 85°F.],
   timing:  [Primary: early spring before bud break (dormant application). Secondary: growing season as needed.],
   sources: [Bonide All Seasons Oil or similar horticultural oil. Ace Hardware and garden centers.])
+
+#pe("Potassium Bicarbonate",
+  role:    [Low-Toxicity Contact Fungicide for Powdery Mildew],
+  apply:   [Affected foliage — M12 sprayer. Primarily lilacs in late spring and early summer.],
+  timing:  [At first sign of white powdery coating.],
+  sources: [Milstop or GreenCure. Garden centers and online.])
+
+=== As-Needed
+
+#pe("Neem Oil",
+  role:    [Multi-Action Fungicide, Miticide, and Insecticide],
+  apply:   [Affected foliage — M12 spray at dawn/dusk. Do not apply above 90°F.],
+  timing:  [As needed; optional preventive rotation for roses starting in May.],
+  sources: [Bonide Neem Oil. Ace Hardware, Home Depot, and garden centers.])
 
 #pe("Bt — Bacillus thuringiensis",
   role:    [Biological Caterpillar and Larva Control — Safe for Pollinators],
@@ -279,12 +314,6 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   apply:   [Affected plants — M12 spray.],
   timing:  [Preventively in early spring or at first symptom.],
   sources: [Bonide Copper Fungicide or Liqui-Cop. Ace Hardware and garden centers.])
-
-#pe("Potassium Bicarbonate",
-  role:    [Low-Toxicity Contact Fungicide for Powdery Mildew],
-  apply:   [Affected foliage — M12 sprayer. Primarily lilacs in late spring and early summer.],
-  timing:  [At first sign of white powdery coating.],
-  sources: [Milstop or GreenCure. Garden centers and online.])
 
 #pe("Rose Fungicide",
   role:    [Systemic Black Spot Prevention and Control for Knock Out Roses],
@@ -319,7 +348,7 @@ Use these default methods:
 
 #danger-callout("Apply solo — never mix these")[
   - *EDDHA iron* (Ferrilene/Sequestrene 138)
-  - *Herbicides* (triclopyr, glyphosate, 2,4-D products)
+  - *Herbicides* (2,4-D/dicamba/quinclorac combos, glyphosate, optional triclopyr)
   - *Compost tea* (EcoCycle Microbe Brew) — chemical fertilizers kill the living microbes
   - *Anti-desiccant* (Wilt-Pruf/Bonide Wilt-Stop)
   - *Horticultural oil* — do not mix with sulfur-based products

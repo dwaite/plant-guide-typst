@@ -3,6 +3,12 @@
 A plant care guide for a specific residential property in Commerce City, Colorado (Zone 5b),
 built with [Typst](https://typst.app) — a modern typesetting system that compiles to PDF.
 
+[![Build Plant Guide](https://github.com/dwaite/plant-guide-typst/actions/workflows/build-guide.yml/badge.svg)](https://github.com/dwaite/plant-guide-typst/actions/workflows/build-guide.yml)
+
+Latest successful main-branch build:
+- [Download the current PDF release asset](https://github.com/dwaite/plant-guide-typst/releases/latest/download/plant_care_guide.pdf)
+- [Open the rolling latest release page](https://github.com/dwaite/plant-guide-typst/releases/latest)
+
 ## Project Intent
 
 - **Primary deliverable:** the guide source (`content/`, `main.typ`,

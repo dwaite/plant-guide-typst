@@ -6,7 +6,10 @@ from __future__ import annotations
 import argparse
 import pathlib
 import sys
-import tomllib
+try:
+    import tomllib
+except ModuleNotFoundError:  # Python < 3.11
+    from pip._vendor import tomli as tomllib
 
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -23,8 +26,7 @@ def c(text: str) -> str:
 
 
 def load_plants() -> list[dict]:
-    with SOURCE.open("rb") as f:
-        parsed = tomllib.load(f)
+    parsed = tomllib.loads(SOURCE.read_text(encoding="utf-8"))
     return parsed["plants"]
 
 

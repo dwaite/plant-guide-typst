@@ -140,7 +140,7 @@ the back yard, now sited in the most sun-exposed position on the property.
 |-------|------|-------|
 | Knock Out Roses (×3 pots, est.) | East porch / front | Morning sun, afternoon shade from house; manual watering |
 | White Bacopa (companions in rose pots) | East porch / front | Annual; replanted each spring after last frost |
-| Candytuft (×1 pot) | East porch / front | Survival through winter 2025–26 uncertain — do not update candytuft.typ until spring confirms |
+| Front accent pots | East porch / front | Candytuft did not overwinter; redo this container planting for the 2026 season |
 
 ---
 
@@ -217,7 +217,7 @@ stress. Per-plant detail is in the Plant Locations table above.
 
 | Exposure | Plants |
 |----------|--------|
-| **Morning sun only; afternoon shade from house** (east front yard) | Silver Maples, Miss Kim Lilacs, Daylilies, Knock Out Roses, White Bacopa, Candytuft |
+| **Morning sun only; afternoon shade from house** (east front yard) | Silver Maples, Miss Kim Lilacs, Daylilies, Knock Out Roses, White Bacopa |
 | **Mid-morning sun onward; full afternoon sun** (west back yard) | Emperor Japanese Maple, Dwarf Globe Blue Spruce |
 | **Full afternoon sun — most stressful exposure** (south back yard) | Autumn Brilliance Serviceberry |
 | **Full sun** (all other locations) | Skyline Honeylocust, Spring Snow Crabapple, Wichita Blue Juniper, Mops Mugo Pine, Yankee Doodle Lilac, Peking Cotoneaster, Dark Knight Bluebeard, White Yarrow, Agastache Sunset Hyssop, Rocky Mountain Penstemon, Autumn Joy Sedum, Blonde Ambition Blue Grama, Northwind Switchgrass |

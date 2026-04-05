@@ -6,7 +6,10 @@ from __future__ import annotations
 import argparse
 import pathlib
 import sys
-import tomllib
+try:
+    import tomllib
+except ModuleNotFoundError:  # Python < 3.11
+    from pip._vendor import tomli as tomllib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SOIL = ROOT / "data" / "soil.toml"
@@ -24,8 +27,7 @@ def c(text: str) -> str:
 
 
 def load_toml(path: pathlib.Path) -> dict:
-    with path.open("rb") as f:
-        return tomllib.load(f)
+    return tomllib.loads(path.read_text(encoding="utf-8"))
 
 
 def status_expr(severity: str, text: str) -> str:

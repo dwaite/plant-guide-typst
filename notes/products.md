@@ -14,7 +14,7 @@ and `notes/research/2026_sources.md`.
 | Tool | Best for | Notes |
 |------|----------|-------|
 | **Bucket + watering can / slow hose** | Soil drenches at individual plant drip lines: EDDHA iron, chelated micros, liquid N-K to trees/shrubs | Mix product in bucket, pour slowly around drip line, follow with slow hose soak. More water volume = better clay penetration. |
-| **Milwaukee M12 2-gal handheld sprayer** | Surface/foliar coverage tasks: liquid pre-emergent for beds, bindweed spot spray, anti-desiccant, insecticidal soap, neem oil, fungicide | Fine spray for coverage, not volume. Not the right tool for soil drenches. |
+| **Milwaukee M12 2-gal handheld sprayer** | Surface/foliar coverage tasks: liquid pre-emergent for beds, weed spot spray, anti-desiccant, insecticidal soap, neem oil, fungicide | Fine spray for coverage, not volume. Not the right tool for soil drenches. |
 | **Hose-end sprayer (Chapin G362D)** | Lawn-scale broadcast: humic acid, compost tea over lawn | Adjustable dilution ratios; brass head; anti-siphon. ~$30 at Home Depot or Amazon. |
 | **Revive concentrate + Chapin hose-end sprayer** | Wetting agent / summer irrigation efficiency | Concentrate diluted into Chapin for broadcast over lawn + all beds (~6,000 sq ft). Ready Spray hose-end bottle is too small for this area. |
 | **Broadcast spreader** | Lawn pre-emergent (granular), granular lawn fertilizer (N, N-K), granular 0-0-50 potassium sulfate, lawn winterizer | Granular is the correct format for primary lawn N delivery — see Lawn Nitrogen note below. |
@@ -89,7 +89,7 @@ drops — forgiving of scheduling gaps, which is its main advantage over liquid.
 | Product | Why |
 |---------|-----|
 | **EDDHA iron** (Ferrilene/Sequestrene 138) | Apply as dedicated bucket drench for dose control and compatibility risk avoidance |
-| **Herbicides** (triclopyr, glyphosate for bindweed) | Never mix with fertilizers; always solo |
+| **Herbicides** (2,4-D/dicamba/quinclorac combos, glyphosate, optional triclopyr) | Never mix with fertilizers; always solo |
 | **Compost tea** (EcoCycle Microbe Brew) | Chemical fertilizers kill the living microbes |
 | **Anti-desiccant** (Wilt-Pruf/Bonide Wilt-Stop) | Solo foliar application, November only |
 | **Insecticidal soap / neem oil / fungicide** | Solo; risk of phytotoxicity in combination |
@@ -98,60 +98,83 @@ drops — forgiving of scheduling gaps, which is its main advantage over liquid.
 
 ## Product List by Task
 
-### Iron — EDDHA form (pH-stable; works at pH 7.27)
-**Ferrilene 6% EDDHA** or **Sequestrene 138** (equivalent products)
-- Water-soluble granular powder — dissolve in 1–2 gallons of water per plant, pour
-  slowly at drip line, follow with slow hose soak. **Apply solo — do not mix.**
-- Used for: Honeylocust (May + June), Japanese Maple (May + July)
-- Where: Online — Amazon, pestrong.com, intermountainturf.com; or SiteOne Landscape Supply
-- Not at Home Depot or Ace
+### Core Lawn Nutrition
 
-### Iron — EDTA form (containers only — acceptable in container mix pH)
-**Bonide Liquid Iron** or **Southern Ag Chelated Liquid Iron**
-- Used for: Knock Out Rose containers only (monthly May–August)
-- Mix in watering can; apply as a drench to container soil
-- Where: Ace Hardware, Home Depot, garden centers
-
-### Chelated Micronutrient Blend — Full Suite (Fe, Mn, Zn, Cu, Mg, S, Mo)
-**LESCO Chelated Micro Mix** (liquid)
-- Applied to ALL in-ground trees, shrubs, and perennials in May — highest-priority
-  annual task. Mix into bucket with liquid N-K fertilizer for a combined per-plant
-  drench pass.
-- Application: measured amount per label into a bucket of water; pour at drip line
-  per plant, follow with slow hose soak.
-- Note: iron in this blend is not EDDHA-form. Honeylocust and Japanese Maple receive
-  a separate EDDHA iron drench *in addition to* this blend.
-- Where: SiteOne Landscape Supply (open to public; Denver/Aurora metro locations)
-- Alternative mail-order: Golf Course Lawn Micronutrient Blend (golfcourselawn.store)
-
-### N-K Fertilizer — Phosphorus-Free
-
-**For trees and shrubs:**
-**Simple Lawn Solutions 15-0-15** (liquid concentrate; also contains humic acid + kelp)
-- Mix measured amount per label into a bucket; pour as drip-line drench per plant
-- Can be combined in the same bucket as LESCO Chelated Micro Mix (May combined pass)
-- Where: Amazon, simplelawnsolutions.com
-
-**For lawn:**
-**Granular ammonium sulfate 21-0-0** (spring applications) or slow-release granular
-(fall September application)
+**Granular ammonium sulfate 21-0-0** (spring lawn nitrogen)
 - Apply via broadcast spreader at rate to achieve target lb N/1,000 sq ft (see table above)
 - Water in thoroughly after application
 - Where: Ace Hardware, Home Depot
 
-### Acidifying Nitrogen (Japanese Maple, Blue Spruce & Mugo Pine)
-**Water-soluble ammonium sulfate 21-0-0 powder** — mild acidification as a side effect of N
+**Liquid 28-0-0 + liquid 0-0-25** (September lawn spoon-feeding)
+- Early September and late September split-pass program
+- Apply via hose-end sprayer; water in after each pass
+- Where: Amazon, simplelawnsolutions.com
+
+**Lawn winterizer** (late October)
+- Use granular K-heavy winterizer (Scotts Turf Builder WinterGuard or equivalent)
+- Where: Home Depot, Ace Hardware
+- Detailed winterizer note remains in *Lawn Winterizer — Late October* below
+
+### Core In-Ground Nutrition
+
+**Simple Lawn Solutions 15-0-15** (liquid concentrate; trees/shrubs)
+- Mix measured amount per label into a bucket; pour as drip-line drench per plant
+- Can be combined in the same bucket as LESCO Chelated Micro Mix (May combined pass)
+- Where: Amazon, simplelawnsolutions.com
+
+**Water-soluble ammonium sulfate 21-0-0 powder** (acidifying in-ground N for targeted plants)
 - Dissolve in a bucket, pour as drip-line drench per plant; percolates through mulch
-- Apply in early spring (April), every 1–2 years
+- Apply in early spring (April), every 1–2 years for Japanese Maple, Blue Spruce, and Mugo Pine
 - Where: Ryan Knorr Lawn Care (ryanknorrlawncare.com) ~$2.20/lb; shop for best price
 - Note: Holly-tone is the single-product convenience alternative but contains some P
-- *Use water-soluble powder form — granular does not dissolve adequately for bucket application*
+- Use water-soluble powder form; granular does not dissolve adequately for bucket application
+
+**Granular potassium sulfate 0-0-50** (fall tree/shrub hardening)
+- Hand-broadcast at drip line in September, then water in
+- Where: Ace Hardware, Home Depot
+- Detailed split-zone note remains in *Potassium Supplement — Fall (split delivery by zone)* below
+
+### Micronutrient and pH Correction
+
+**LESCO Chelated Micro Mix** (liquid chelated micronutrient blend)
+- Applied to ALL in-ground trees, shrubs, and perennials in May — highest-priority annual task
+- Mix into bucket with liquid N-K fertilizer for a combined per-plant drench pass
+- Note: iron in this blend is not EDDHA-form. Honeylocust and Japanese Maple receive separate EDDHA iron drenches in addition to this blend
+- Where: SiteOne Landscape Supply (open to public; Denver/Aurora metro locations)
+- Alternative mail-order: Golf Course Lawn Micronutrient Blend (golfcourselawn.store)
+
+**Ferrilene 6% EDDHA** or **Sequestrene 138** (in-ground pH-stable iron)
+- Water-soluble granular powder — dissolve in 1–2 gallons of water per plant, pour slowly at drip line, follow with slow hose soak
+- Apply solo; do not mix
+- Used for: Honeylocust (May + June), Japanese Maple (May + July)
+- Where: Online — Amazon, pestrong.com, intermountainturf.com; or SiteOne Landscape Supply
+- Not at Home Depot or Ace
+
+**Elemental sulfur** (gradual pH reduction)
+- Japanese Maple and Mugo Pine: broadcast at drip line and water in (spring)
+- Knock Out Rose containers: blend into refreshed spring potting mix
+- Where: Home Depot, Ace Hardware, garden centers
+
+### Container Refresh & Nutrition
+
+**Bonide Liquid Iron** or **Southern Ag Chelated Liquid Iron** (EDTA iron)
+- Used for: Knock Out Rose containers only (monthly May–August)
+- Mix in watering can; apply as a drench to container soil
+- Where: Ace Hardware, Home Depot, garden centers
 
 ### Rose Container Fertilizer (every 3–4 weeks, April–mid-August)
 **Jack's Classic Rose FeED 12-4-16** (water-soluble powder, mix into solution)
 - Low-P relative to older rose fertilizer formulations; high K supports repeat bloom
 - Mix per label into a watering can; apply to container soil
 - Where: Amazon, specialty garden centers
+
+### Mycorrhizal Inoculant (spring container refresh)
+**MycoApply Endo/Ecto granular** or **Rootgrow granular**
+- Blend into fresh potting mix during spring container refresh (Knock Out Roses + Bacopa)
+- For this guide, treat this as a container-refresh input rather than an in-ground planting product
+- Where: Garden centers and online (Amazon)
+
+### Soil Conditioners & Biology (Non-Fertilizer Support)
 
 ### Humic/Fulvic Acid — Spring Broadcast
 **Simple Lawn Solutions Humic Acid** or **BioAg TM-7** (liquid concentrate)
@@ -266,6 +289,29 @@ prodiamine-led bed program.
   pre-emergents (Group 3 mode-of-action context) — do not apply both to the same
   area in the same pass; pick one per application.
 
+### Post-Emergent Consolidation (2026 reduced SKU plan)
+
+Use one lawn combo post-emergent product as the default and add other products only
+if survey/response data justifies it.
+
+**Default lawn post-emergent (single SKU):**
+Use a lawn-labeled combo containing **2,4-D + dicamba + quinclorac** (with or without
+sulfentrazone). This replaces separate broadleaf-only and crabgrass-only products.
+
+- Apply when weeds are actively growing (typically May or September).
+- For crabgrass, best results are at early growth stage (2–4 tillers).
+- Do not apply above label temperature limits.
+
+**Bindweed strategy (survey-gated):**
+- Default reduced stack: use glyphosate spot treatment in rock/non-bed areas and
+  lawn combo broadleaf suppression in turf.
+- After your winter weed survey, add a separate triclopyr product only if bindweed
+  pressure is persistent enough to warrant a second dedicated mode of action.
+
+**Keep separate product for grasses in ornamental beds:**
+Fluazifop (Ornamec/Grass-B-Gon) remains the selective option that controls grasses
+without injuring broadleaf ornamentals.
+
 ### Potassium Supplement — Fall (split delivery by zone)
 
 **Trees and shrubs — granular 0-0-50 potassium sulfate:**
@@ -282,22 +328,26 @@ Granular K-heavy winterizer — **Scotts Turf Builder WinterGuard** or equivalen
 - Granular slow-release K going into dormancy; more effective than liquid at this timing
 - Where: Home Depot, Ace Hardware
 
-### Bindweed Herbicide (late August — spot treatment)
-**Triclopyr concentrate** (Ortho Brush-B-Gon or similar) — selective broadleaf
-- Apply via M12 sprayer, targeted spot treatment only
-- Late August timing reaches roots before dormancy; optimal kill rate
-- Where: Home Depot, Ace Hardware
-
 ### Anti-Desiccant Spray (late November — Juniper + Blue Spruce only)
 **Bonide Wilt-Stop** or **Wilt-Pruf** concentrate
 - Mix per label, apply via M12 sprayer as foliar coat on foliage
 - Apply solo; do not mix with anything
 - Where: Ace Hardware, Home Depot, garden centers
 
-### Pest/Disease (as needed)
-- **Insecticidal soap**: Garden Safe or Bonide — M12 sprayer, apply solo
-- **Neem oil**: Bonide Neem Oil — M12 sprayer, apply solo
-- **Fungicide** (rose black spot): myclobutanil or tebuconazole — M12 sprayer, apply solo
+### Pest/Disease Purchase Strategy
+
+**Common / keep on hand (buy up front, small sizes):**
+- **Insecticidal soap** (Garden Safe/Bonide) — first-line for aphids and light soft-bodied pest pressure.
+- **Horticultural oil** (Bonide All Seasons or equivalent) — dormant-season and in-season support for scale and mites on woody plants.
+- **Potassium bicarbonate fungicide** (Milstop/GreenCure) — first-line low-toxicity option for expected lilac powdery mildew episodes.
+
+**As-needed (buy at symptom threshold):**
+- **Neem oil** (Bonide Neem Oil) — optional overlap tool for soft-bodied pests/fungal suppression.
+- **Rose fungicide** (myclobutanil or tebuconazole) — use if black spot pressure appears or if a preventive rose rotation is chosen.
+- **Copper fungicide** (Bonide Copper/Liqui-Cop) — reserve for confirmed fire blight/rust risk windows or symptom-driven use.
+- **Bt (Bacillus thuringiensis)** — caterpillars while larvae are small.
+- **Spinosad** — sawfly/leaf miner/thrips or heavier caterpillar pressure.
+- **Diplodia tip blight fungicide** (thiophanate-methyl) — Mugo Pine only, and only with confirmed history/symptoms.
 
 ---
 
@@ -346,7 +396,7 @@ Order online items in January — some have lead time or limited availability:
 |---------|---------------------|--------|-------|
 | Ferrilene 6% EDDHA or Sequestrene 138 | ~1.75 lbs (~28 oz) | Amazon / pestrong.com | Order January; not in stores. ~19 applications × ~1.5 oz each. |
 | Primo Maxx or PGR-IV Trinexapac (growth regulator) | Check label† — small bottle; likely lasts 2+ seasons | SiteOne Landscape Supply / pestrong.com / intermountainturf.com | Order January or call SiteOne ahead of June application. Not at Home Depot or Ace. Track oz/pass first season. |
-| LESCO Chelated Micro Mix | Check label† | SiteOne Landscape Supply | Call ahead; ~17 drench events. Track usage first season. |
+| LESCO Chelated Micro Mix | ~0.75–1.0 gal/year (~96–128 oz) | SiteOne Landscape Supply | Estimated from ~17 May drench events using the ornamental soil-application dilution on the LESCO label. One 2.5 gal jug should cover about 2–3 seasons. |
 | Simple Lawn Solutions 15-0-15 | Check label† | Amazon / simplelawnsolutions.com | ~11 tree/shrub drench events; very small volume per plant. 1 qt likely lasts 2+ years. |
 | Simple Lawn Solutions 28-0-0 (liquid N) | ~3 lb N total† | Amazon / simplelawnsolutions.com | Fall lawn spoon-feeding — 2 passes × 1.5 lb N. Volume in oz depends on label rate. |
 | Simple Lawn Solutions 0-0-25 (liquid K) | Check label† | Amazon / simplelawnsolutions.com | Late-September lawn pass only. ~1.5 lb K₂O needed; volume depends on label. |

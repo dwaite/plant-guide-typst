@@ -26,7 +26,7 @@ _Recommended Products & Application Methods_.
 #let task-checklist = (
   "January",
   ("Winter water trees/shrubs on warm days (>40°F)", N),
-  ("Check stored pots (rose/candytuft) for light moisture", N),
+  ("Check stored rose pots for light moisture", N),
   ("Inspect/repair tree wraps", N),
   ("Order spring supplies", N),
 
@@ -79,12 +79,13 @@ _Recommended Products & Application Methods_.
   ("Stop in-ground fertilizer by mid-July", N),
 
   "August",
+  ("Lawn surface check: debris vs thatch vs overseed prep", N),
   ("Core aerate lawn (late month)", N),
   ("Final rose feed + monthly container iron", N),
   ("Lawn pre-emergent second pass", N),
   ("Rock-bed prodiamine refresh", N),
   ("Plan/execute fall overseed areas", N),
-  ("Late-August bindweed treatment", N),
+  ("Late-August bindweed escalation (only if winter survey + season response justify)", N),
 
   "September",
   ("Early Sept lawn liquid N pass", N),

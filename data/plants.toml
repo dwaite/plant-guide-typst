@@ -410,17 +410,3 @@ annual       = true
 sun          = "east front — morning sun, afternoon shade"
 notes        = "Annual companion in Knock Out Rose containers. No overwintering."
 fertilizer_program = "No separate fertilizer; shares reduced-rate rose container feed."
-
-[[plants]]
-name         = "Candytuft"
-latin        = "Iberis sempervirens"
-file         = "candytuft"
-group        = "potted"
-irrigation   = "manual"
-established  = 2025
-lifespan     = "3–8 years (container)"
-maintenance_tier = "medium"
-primary_failure_mode = "Container winter kill in severe cold without insulation or storage."
-sun          = "east front — morning sun, afternoon shade"
-notes        = "DEFERRED — survival through winter 2025-26 uncertain. Do not edit candytuft.typ until spring 2026 confirms outcome. See that file for both-outcome instructions."
-fertilizer_program = "Deferred pending spring survival confirmation."

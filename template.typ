@@ -51,6 +51,9 @@
     lang: "en"
   )
 
+  // Keep the PDF clean even if source notes still use link markup.
+  show link: it => it.body
+
   set par(
     leading: 0.8em,
     spacing: 1.5em,

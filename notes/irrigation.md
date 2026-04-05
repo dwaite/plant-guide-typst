@@ -18,7 +18,7 @@ cross-controlled:
    drip emitters at these plants. Rachio ET/MAD is already enabled, handling
    automatic weather-based adjustment.
 
-3. **Manual** — potted plants (Knock Out Roses, Bacopa, Candytuft). No automatic
+3. **Manual** — potted plants (Knock Out Roses, Bacopa, and any 2026 front-pot replacements). No automatic
    system; watered by hand based on 2-inch soil check.
 
 ---

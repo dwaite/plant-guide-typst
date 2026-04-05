@@ -99,7 +99,7 @@ full summer sun.
 // ── Manual Watering ───────────────────────────────────────────
 == Manual Watering (Potted Plants)
 
-Knock Out Roses, White Bacopa, and Candytuft are in containers and are watered
+Knock Out Roses and White Bacopa are in containers and are watered
 manually. Check soil moisture by pressing a finger 2 inches into the mix — water
 when dry at that depth. The east-facing, afternoon-shaded exposure means daily
 watering is not always necessary. Water thoroughly until it runs freely from drainage
@@ -110,20 +110,22 @@ holes; do not allow pots to sit in standing water.
 == Winter Watering
 
 The drip system is off from approximately November through March. During this period,
-all drip-irrigated trees and shrubs need occasional deep watering by hand on any day
-when temperatures rise above 40°F and the soil is not frozen. December through
-February are typically Commerce City's driest months, and roots continue to lose
-moisture even when plants are fully dormant.
+all drip-irrigated trees, evergreens, and shrubs except Dark Knight Bluebeard need
+occasional deep watering by hand on any day when temperatures rise above 40°F and
+the soil is not frozen. December through February are typically Commerce City's
+driest months, and roots continue to lose moisture even when plants are fully dormant.
 
 Run a hose slowly at the drip line of each tree and shrub for 15–20 minutes. Under
 mulch the soil surface is not visible, so use time as the primary cue — 15 minutes
 of slow flow from a partially open hose delivers adequate penetration into clay. If
 water starts running off the outer edge of the mulch ring before 15 minutes, move
-the hose inward and continue. Focus first on the trees (Silver Maples, Honeylocust, Crabapple,
-Serviceberry, Japanese Maple), then the evergreens (Juniper, Blue Spruce, Mugo Pine),
-which are especially vulnerable to winter desiccation given Commerce City's prevailing
-north and northwest winds. Shrubs can go longer between winter waterings than trees
-and evergreens.
+the hose inward and continue. Focus first on the trees (Silver Maples, Honeylocust,
+Crabapple, Serviceberry, Japanese Maple), then the evergreens (Juniper, Blue Spruce,
+Mugo Pine), which are especially vulnerable to winter desiccation given Commerce
+City's prevailing north and northwest winds. Shrubs can go longer between winter
+waterings than trees and evergreens. Dark Knight Bluebeard is the exception: keep
+its crown on the dry side through fall and winter rather than adding routine warm-day
+deep watering.
 
 Potted plants in storage should be checked monthly — soil should feel barely damp,
 not dry and not wet.

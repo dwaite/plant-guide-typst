@@ -109,6 +109,3 @@
 #include "content/plants/knockout_roses.typ"
 #pagebreak()
 #include "content/plants/bacopa.typ"
-#pagebreak()
-#include "content/plants/candytuft.typ"
-

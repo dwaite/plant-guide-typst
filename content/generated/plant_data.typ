@@ -64,7 +64,6 @@
   [#text("Northwind Switchgrass")], [#text("Light spring liquid N-K + September potassium sulfate.")],
   [#text("Knock Out Roses")], [#text("Rose fertilizer every 3-4 weeks (Apr-mid Aug) + monthly EDTA iron (May-Aug).")],
   [#text("White Bacopa")], [#text("No separate fertilizer; shares reduced-rate rose container feed.")],
-  [#text("Candytuft")], [#text("Deferred pending spring survival confirmation.")],
 )
 
 #let plant-lifespan-table = table(
@@ -98,7 +97,6 @@
   [#text("Northwind Switchgrass")], [#text("15–25 years")],
   [#text("Knock Out Roses")], [#text("5–10 years (container)")],
   [#text("White Bacopa")], [#text("1 season (annual)")],
-  [#text("Candytuft")], [#text("3–8 years (container)")],
 )
 
 #let plant-risk-table = table(
@@ -133,7 +131,6 @@
   [#text("Northwind Switchgrass")], [#text("low")], [#text("Flopping and weak stems when overfertilized.")],
   [#text("Knock Out Roses")], [#text("high")], [#text("Container winter root freeze without protection.")],
   [#text("White Bacopa")], [#text("medium")], [#text("Heat or dry-down stress in midsummer if container moisture drops.")],
-  [#text("Candytuft")], [#text("medium")], [#text("Container winter kill in severe cold without insulation or storage.")],
 )
 
 #let plant-profile-map = (
@@ -159,7 +156,6 @@
   "switchgrass": ("2024", "15–25 years", "Low", "Flopping and weak stems when overfertilized."),
   "knockout_roses": ("2025", "5–10 years (container)", "High", "Container winter root freeze without protection."),
   "bacopa": ("2025", "1 season (annual)", "Medium", "Heat or dry-down stress in midsummer if container moisture drops."),
-  "candytuft": ("2025", "3–8 years (container)", "Medium", "Container winter kill in severe cold without insulation or storage."),
 )
 
 #let plant-established(file-key) = {

@@ -41,8 +41,9 @@ Use emitter configuration and placement for per-plant drip adjustments.
 Most 2024-installed plants are still in establishment through summer 2026 and need
 higher attention to watering and mulch. See `notes/establishment.md`.
 
-## Deferred Item
-Do not edit `content/plants/candytuft.typ` until spring 2026 survival is confirmed.
+## 2026 Pot Update
+Candytuft did not survive winter 2025–26. It has been removed from the active plant
+roster, and the front accent pots are being redone for the 2026 season.
 
 ## Core Model
 - **Data:** `data/plants.toml` (canonical facts)
