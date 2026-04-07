@@ -155,7 +155,7 @@
   "blue_grama": ("2024", "10–20 years", "Low", "Loss of form from excess water/fertility and poor drainage."),
   "switchgrass": ("2024", "15–25 years", "Low", "Flopping and weak stems when overfertilized."),
   "knockout_roses": ("2025", "5–10 years (container)", "High", "Container winter root freeze without protection."),
-  "bacopa": ("2025", "1 season (annual)", "Medium", "Heat or dry-down stress in midsummer if container moisture drops."),
+  "bacopa": ("2026", "1 season (annual)", "Medium", "Heat or dry-down stress in midsummer if container moisture drops."),
 )
 
 #let plant-established(file-key) = {

@@ -138,9 +138,20 @@ the back yard, now sited in the most sun-exposed position on the property.
 
 | Plant | Zone | Notes |
 |-------|------|-------|
-| Knock Out Roses (×3 pots, est.) | East porch / front | Morning sun, afternoon shade from house; manual watering |
-| White Bacopa (companions in rose pots) | East porch / front | Annual; replanted each spring after last frost |
-| Front accent pots | East porch / front | Candytuft did not overwinter; redo this container planting for the 2026 season |
+| Knock Out Roses (×3 pots) | Front garage accent pots | Manual watering. Three 57 qt lightweight concrete planters against the garage: two get morning sun, one at the south end gets most-day sun. Roses are being preserved for the 2026 redo; see `notes/rose_bacopa_planters.md`. |
+| White Bacopa (companions in rose pots) | Front garage accent pots | 2026 annual replacement for prior candytuft companion; replanted each spring after last frost |
+
+### Back Patio / Other Container Inventory
+
+These containers are operational inventory and should be tracked even when they are
+not yet tied to a finalized planting plan. See `notes/container_inventory.md` for
+spec details and source links.
+
+| Container | Zone | Notes |
+|-------|------|-------|
+| Veradek Block Long Box planters (×4, medium, gray) | Back patio south edge | Three on raised patio behind sectional couch; one on lower patio by walking path |
+| Half whiskey barrel planter (×1) | Container location tracked separately | 26 in diameter x 17.5 in tall; full sun exposure |
+| Elevated self-watering raised bed planter (×1) | South side of house | Vigoro 44 in x 18 in x 31 in planter with storage shelf; all-day direct sun |
 
 ---
 
@@ -217,7 +228,8 @@ stress. Per-plant detail is in the Plant Locations table above.
 
 | Exposure | Plants |
 |----------|--------|
-| **Morning sun only; afternoon shade from house** (east front yard) | Silver Maples, Miss Kim Lilacs, Daylilies, Knock Out Roses, White Bacopa |
+| **Morning sun only; afternoon shade from house** (east front yard) | Silver Maples, Miss Kim Lilacs, Daylilies |
+| **Front garage pots — mixed exposure** | Knock Out Roses, White Bacopa. Two pots get morning sun; the south-end pot gets most-day sun and will dry faster. |
 | **Mid-morning sun onward; full afternoon sun** (west back yard) | Emperor Japanese Maple, Dwarf Globe Blue Spruce |
 | **Full afternoon sun — most stressful exposure** (south back yard) | Autumn Brilliance Serviceberry |
 | **Full sun** (all other locations) | Skyline Honeylocust, Spring Snow Crabapple, Wichita Blue Juniper, Mops Mugo Pine, Yankee Doodle Lilac, Peking Cotoneaster, Dark Knight Bluebeard, White Yarrow, Agastache Sunset Hyssop, Rocky Mountain Penstemon, Autumn Joy Sedum, Blonde Ambition Blue Grama, Northwind Switchgrass |

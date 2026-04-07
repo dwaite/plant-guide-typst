@@ -18,8 +18,11 @@ cross-controlled:
    drip emitters at these plants. Rachio ET/MAD is already enabled, handling
    automatic weather-based adjustment.
 
-3. **Manual** — potted plants (Knock Out Roses, Bacopa, and any 2026 front-pot replacements). No automatic
-   system; watered by hand based on 2-inch soil check.
+3. **Manual** — container plantings, including the three front garage Knock Out
+   Rose planters, the four back-patio Veradek long boxes, the full-sun half whiskey
+   barrel, and any non-reservoir decorative planters. No automatic system; watered
+   by hand based on container-specific moisture checks. The self-watering raised bed
+   should be treated as a separate sub-case because reservoir status affects timing.
 
 ---
 

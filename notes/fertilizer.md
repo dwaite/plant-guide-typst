@@ -106,6 +106,26 @@ Light N application is correct for most plants. Some (yarrow, penstemon, agastac
 sedum, blue grama) should receive **no nitrogen** because lean soil is essential to
 their form, bloom quality, and longevity.
 
+### Lawn spring split adjustment (April 2026)
+
+Operational note for spring 2026: unusually warm late-March / early-April weather
+advanced weed pressure and brought the lawn to partial green-up before the regular
+sprinkler schedule resumed. In that case, it is acceptable to split the usual first
+lawn ammonium sulfate pass earlier rather than waiting to apply the full May amount
+at once.
+
+Use the lighter end of the split:
+- **Early April:** ~0.25 lb N/1,000 sq ft
+- **Late April / early May:** another ~0.25 lb N/1,000 sq ft if turf response and
+  moisture support it
+- **Late May / early June:** apply the balance needed to land the season's spring N
+  within the normal range without forcing excessive flush growth
+
+For ammonium sulfate 21-0-0, **0.25 lb N/1,000 sq ft = ~1.2 lb product/1,000 sq ft**.
+For this 3,000 sq ft lawn, that is **~3.6 lb of product total** for the early-April
+split pass. Water in after application. If the lawn remains patchy-dormant or dry,
+stay conservative rather than chasing colour with extra spring N.
+
 ---
 
 ## Potassium Strategy

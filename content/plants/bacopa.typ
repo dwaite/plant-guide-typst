@@ -6,12 +6,12 @@
 #import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
 #plant-header("White Bacopa (Potted)", "Sutera cordata 'Snowstorm Giant Snowflake'", "bacopa", establishment: plant-established("bacopa"), lifespan: plant-lifespan("bacopa"), tier: plant-tier("bacopa"), failure: plant-failure("bacopa"))[
- White Bacopa is an annual trailing plant selected as a companion for the Knock Out Rose containers. The Snowstorm Giant Snowflake variety was chosen specifically for heat tolerance and continuous bloom — it produces masses of small white flowers from late May through first frost with only a brief slowdown in peak July heat. Its trailing habit spills softly over pot edges and weaves between rose canes without competing for visual attention. Annual in Zone 5b, so no overwintering concern. Performs particularly well in the east-facing morning-sun-only exposure — blooms more continuously in partial shade than in full all-day sun in hot climates, making this a natural match for these containers.
+ White Bacopa is an annual trailing plant selected as the 2026 replacement for candytuft in the Knock Out Rose containers. The Snowstorm Giant Snowflake variety was chosen specifically for heat tolerance and continuous bloom — it produces masses of small white flowers from late May through first frost with only a brief slowdown in peak July heat. Its trailing habit spills softly over pot edges and weaves between rose canes without competing for visual attention. Annual in Zone 5b, so no overwintering concern. It is a strong fit for the two morning-sun pots and more heat-tolerant than standard bacopa in the hotter south-end pot.
 ]
 
 === Watering
 
-Similar preferences to the Knock Out Roses — consistent moisture, tolerant of brief dry periods. The east-facing afternoon shade blocks the hottest hours of the day and reduces watering demand compared to full-sun container placement. Check soil moisture at 2-inch depth rather than watering on a fixed schedule; daily watering is not always necessary.
+Similar preferences to the Knock Out Roses — consistent moisture, tolerant of brief dry periods. Check soil moisture at 2-inch depth rather than watering on a fixed schedule; daily watering is not always necessary in the two morning-sun pots, but the south-end pot may need water sooner during hot weather.
 
 === Fertilization
 
@@ -27,7 +27,7 @@ Attracts bees and small butterflies to its small white flowers. Continuous bloom
 
 === Pests & Disease
 
-Generally trouble-free. Watch for powdery mildew in humid conditions — the east-facing exposure with morning air movement reduces this risk. Whitefly occasionally appears in hot weather; treat with insecticidal soap if needed.
+Generally trouble-free. Watch for powdery mildew in humid conditions, especially in denser growth with reduced airflow. Whitefly occasionally appears in hot weather; treat with insecticidal soap if needed.
 
 === Other Care
 

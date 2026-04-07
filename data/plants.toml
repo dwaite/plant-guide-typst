@@ -392,8 +392,8 @@ established  = 2025
 lifespan     = "5–10 years (container)"
 maintenance_tier = "high"
 primary_failure_mode = "Container winter root freeze without protection."
-sun          = "east front — morning sun, afternoon shade"
-notes        = "Replace pea gravel drainage layer with 1.5-inch coarse grit + landscape fabric barrier before 2026 season. Potting mix refresh (top third) each April."
+sun          = "front garage pots — two morning-sun pots, one south-end pot with most-day sun"
+notes        = "Three 57-qt front garage accent pots. Replace existing pea gravel base with lightweight, non-decomposing filler plus landscape fabric barrier before 2026 season so pots are easier to move indoors for winter. Potting mix refresh (top third) each April unless a full rebuild is needed."
 fertilizer_program = "Rose fertilizer every 3-4 weeks (Apr-mid Aug) + monthly EDTA iron (May-Aug)."
 
 [[plants]]
@@ -402,11 +402,11 @@ latin        = "Sutera cordata 'Snowstorm Giant Snowflake'"
 file         = "bacopa"
 group        = "potted"
 irrigation   = "manual"
-established  = 2025
+established  = 2026
 lifespan     = "1 season (annual)"
 maintenance_tier = "medium"
 primary_failure_mode = "Heat or dry-down stress in midsummer if container moisture drops."
 annual       = true
-sun          = "east front — morning sun, afternoon shade"
-notes        = "Annual companion in Knock Out Rose containers. No overwintering."
+sun          = "front garage pots — two morning-sun pots, one south-end pot with most-day sun"
+notes        = "2026 annual replacement for prior candytuft companion in the three front garage Knock Out Rose pots. No overwintering."
 fertilizer_program = "No separate fertilizer; shares reduced-rate rose container feed."

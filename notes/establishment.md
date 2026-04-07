@@ -46,8 +46,10 @@ Plants in this cohort:
 
 ### New 2025 (potted)
 - Knock Out Roses — first season; standard potted-plant management
-- White Bacopa — annual; no overwintering expected
 - Candytuft — survival through winter 2025–26 uncertain (see below)
+
+### New 2026 (potted annual replacement)
+- White Bacopa — annual replacement for candytuft in the front garage rose pots; no overwintering expected
 
 ---
 
@@ -131,9 +133,13 @@ margins) warrant a supplemental deep watering at the drip line.
 
 ### Candytuft — Winter Loss Confirmed
 
-Candytuft (Iberis sempervirens) did not survive winter 2025–26 in the front pots.
-Remove it from active planning and treat the front accent pots as open for a 2026
-redo rather than as an overwintered perennial management case.
+Candytuft (Iberis sempervirens) did not survive winter 2025–26 in the three front
+garage rose pots. Those planters were not able to be moved into the garage before
+hard freezes, and the planting did not overwinter successfully.
+
+For 2026, preserve the Knock Out Roses that remain viable, remove candytuft from
+active planning, replace the heavy pea-gravel base with a lighter filler approach,
+and use White Bacopa 'Snowstorm Giant Snowflake' as the annual companion.
 
 ---
 

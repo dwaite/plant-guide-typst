@@ -70,8 +70,8 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
   npk:     [21-0-0],
   apply:   [Lawn — broadcast spreader; water in after application.],
   timing:  [May (\~0.75–1.0 lb N/1,000 sq ft); June (0.5 lb N/1,000 sq ft).],
-  note:    [Also available in water-soluble powder form for bucket-drench use on acid-preferring plants — see *Ammonium Sulfate Powder* below.],
-  sources: [2026 season: use existing Yard Mastery Flagship 24-0-6 and Scotts Green Max 27-0-2 inventory for the spring lawn N passes instead of buying a new granular ammonium sulfate product.])
+  note:    [Also available in water-soluble powder form for bucket-drench use on acid-preferring plants — see *Ammonium Sulfate Powder* below. If new lawn granular must be purchased locally, Sta-Green 20-0-0 ammonium sulfate is an acceptable zero-P fallback; apply slightly more product than a 21-0-0 material to hit the same N target.],
+  sources: [2026 season: use existing Yard Mastery Flagship 24-0-6 and Scotts Green Max 27-0-2 inventory for the spring lawn N passes instead of buying a new granular ammonium sulfate product. Local fallback if restocking becomes necessary: Sta-Green 20-0-0 ammonium sulfate at Lowe's.])
 
 #pe("Liquid Urea-Ammonium Nitrate",
   role:    [Fall Lawn Nitrogen — Two-Pass Spoon-Feeding],

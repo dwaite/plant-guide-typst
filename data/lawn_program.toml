@@ -1,5 +1,10 @@
 # Canonical lawn nutrient program data
-# Last updated: 2026-03-01
+# Last updated: 2026-04-05
+#
+# 2026 operational note: warm late-March / early-April weather advanced lawn wake-up
+# and weed pressure. If turf is already greening and dry from a low-moisture spring,
+# the first spring N pass may be split earlier into lighter spoon-fed granular
+# applications rather than waiting to deliver the full Spring 1 amount at once.
 
 [lawn_program]
 lawn_sqft = 3000

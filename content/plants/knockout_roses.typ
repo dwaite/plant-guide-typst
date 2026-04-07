@@ -5,13 +5,13 @@
 #import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
 #plant-header("Knock Out Roses (Potted)", "Rosa 'Radrazz' (Double Knock Out)", "knockout_rose", establishment: plant-established("knockout_roses"), lifespan: plant-lifespan("knockout_roses"), tier: plant-tier("knockout_roses"), failure: plant-failure("knockout_roses"))[
- Knock Out Roses are exceptionally disease-resistant, repeat-blooming landscape roses producing waves of bright red blooms from June through frost. In containers, they are more versatile and moveable but require more attentive irrigation and fertilization than in-ground plants. Located on the east side of the house — morning sun only, with afternoon shade from the house beginning around midday. This is a favorable exposure: afternoon shade blocks the hottest, most desiccating hours (1–5pm), reducing watering demand and stress on container roots. Potted plants use bagged potting mix managed separately from in-ground soil conditions.
+ Knock Out Roses are exceptionally disease-resistant, repeat-blooming landscape roses producing waves of bright red blooms from June through frost. In containers, they are more versatile and moveable but require more attentive irrigation and fertilization than in-ground plants. The three front garage pots do not all have the same exposure: two receive morning sun with afternoon protection, while the south-end pot receives most-day sun and will dry faster in summer. Potted plants use bagged potting mix managed separately from in-ground soil conditions.
 ]
 
 === Container Setup
 
 #warning-callout("Pea Gravel Replacement Recommended")[
- If the bottom third of the pots is currently filled with pea gravel, replace it. *Recommended replacement:* polystyrene foam packing peanuts (not cornstarch/biodegradable type — these decompose). Fill the bottom third with peanuts, cover with a layer of fine mesh or landscape fabric to prevent potting mix from filtering down, then add potting mix on top. Near-weightless and non-decomposing. Potential weight reduction: 15–20 lbs or more per large pot.
+ If the bottom third of the pots is currently filled with pea gravel, replace it. A heavy gravel layer adds a great deal of weight without meaningfully improving drainage in a container. Use a lightweight, non-decomposing filler in the bottom zone instead, then cover it with fine mesh or landscape fabric before adding potting mix. The lighter setup makes fall moves into winter shelter much more realistic.
 ]
 
 *Potting mix:* Miracle-Gro Moisture Control (peat/coir base, initial pH 5.5–6.5). The slow-release fertilizer charge depletes after one season. Refresh the top third of the mix each spring with fresh Miracle-Gro Moisture Control.
@@ -25,7 +25,7 @@
 
 === Watering
 
-Check soil moisture by pressing a finger 2 inches into the soil — water when it feels dry at that depth. The east-facing, afternoon-shaded exposure means daily watering is not always necessary, unlike full-sun container roses. Water thoroughly until it runs freely from drainage holes. Do NOT allow pots to sit in standing water. Reduce watering in September–October as temperatures drop. Continue watering until pots are moved to winter storage or until just before a hard freeze.
+Check soil moisture by pressing a finger 2 inches into the soil — water when it feels dry at that depth. The two morning-sun pots will usually hold moisture longer than the south-end pot, which gets most-day sun and may need water sooner in midsummer. Water thoroughly until it runs freely from drainage holes. Do NOT allow pots to sit in standing water. Reduce watering in September–October as temperatures drop. Continue watering until pots are moved to winter storage or until just before a hard freeze.
 
 === Fertilization
 
