@@ -37,10 +37,11 @@ Journal rules:
 ## Known Open Items
 
 - May micronutrient pass: status not yet recorded in this journal.
-- EDDHA iron pass for Honeylocust and Japanese Maple/replacement decision: status
-  not yet recorded in this journal.
-- Remaining spring lawn nitrogen: back yard half-pass logged June 3; front yard
-  remains pending until owner reports completion.
+- Honeylocust EDDHA iron pass: June status not yet recorded in this journal.
+- Japanese Maple replacement selection: Japanese Maple confirmed dead June 18;
+  replacement tree selection remains pending.
+- Spring lawn nitrogen: both spring halves reported complete June 18; front-yard
+  application date/rate not recorded.
 - Container refresh: owner reported June 18 that all containers are done. The
   rose/bacopa planters and non-rose patio/barrel/raised-bed roster were documented
   June 18. No fertilizer, iron, inoculant, sulfur, or other amendments have been
@@ -52,7 +53,10 @@ Journal rules:
 - Weed control in rock beds and lawn edges: owner reported June 18 that the first
   pre-emergent application is done, no post-emergent has been applied yet, and
   substantial active weeds remain in rocky areas.
-- Japanese Maple replacement evaluation: pending after likely loss observation.
+- Lawn irrigation/coverage follow-up: rear corners are darkening about two days
+  after watering; sprinkler runtime was increased 20% as a temporary response.
+- Wetting-agent pass: SoakORR selected from current inventory for the first
+  lawn-only wetting-agent pass; not yet recorded as applied.
 
 ## Chronological Log
 
@@ -385,10 +389,69 @@ Journal rules:
   unknown missed applications; scratch-check Japanese Maple viability before any
   further maple inputs; inventory completed containers; complete June rose feed
   and monthly container iron; begin rocky-area weed cleanup; prune Miss Kim and
-  Yankee Doodle lilacs after bloom without shearing; schedule liquid Revive
-  wetting-agent pass for Saturday June 20 evening or Wednesday June 24 before the
-  scheduled irrigation cycle; begin weekly Dwarf Globe Blue Spruce mite checks;
+  Yankee Doodle lilacs after bloom without shearing; schedule a lawn-only SoakORR
+  wetting-agent pass for a legal after-6pm watering window and water it in
+  immediately; begin weekly Dwarf Globe Blue Spruce mite checks;
   and book Slow the Flow or run a catch-can audit during a legal watering window
   using short diagnostic runs rather than unnecessary full cycles.
 - **Confidence:** exact date for catch-up review; task list derived from current
   journal status and guide checklist.
+
+### June 18, 2026 - Spring Lawn Nitrogen Status and Lawn Observations
+
+- **Category:** lawn, observation
+- **Action/product:** Owner reported that both halves of the spring lawn nitrogen
+  application have now been applied.
+- **Amount/rate/dilution:** Back yard half-pass was logged June 3 at the planned
+  conservative rate. Front-yard application date, product amount, and exact rate
+  not recorded in this journal.
+- **Target:** Front and back lawn.
+- **Water-in/weather context:** SACWSD Stage 1 restrictions remain active:
+  assigned irrigation days are Wednesday and Saturday, with no irrigation from
+  10am-6pm and no Monday irrigation.
+- **Observed response/follow-up:** Front lawn looks good overall, with a few light
+  areas where weeds are moving in at the top of the south lawn and one bare spot
+  in the south tree lawn where seed did not establish. Rear lawn has stressed
+  corners that turn visibly darker about two days after watering, plus darker
+  patches likely from small-dog urine. Do not schedule summer N now; review any
+  stress-blend product only in late July after irrigation distribution is better
+  understood.
+- **Confidence:** exact date for owner status report; front-yard application
+  details not recorded.
+
+### June 18, 2026 - Japanese Maple Confirmed Dead
+
+- **Category:** observation, trees/shrubs
+- **Action/product:** Owner confirmed the Emperor Japanese Maple is dead.
+- **Amount/rate/dilution:** Not applicable.
+- **Target:** Emperor Japanese Maple.
+- **Water-in/weather context:** Tree had previously been observed as likely dead
+  on May 12 after winter and early-spring stress, with no buds by mid-May and a
+  large/deep trunk crack noted previously.
+- **Observed response/follow-up:** Do not apply Japanese Maple EDDHA or other
+  maple inputs. Select a replacement tree soon and decide whether the dead maple
+  drip output should be capped or redirected until replacement.
+- **Confidence:** exact date for owner status report; replacement not yet chosen.
+
+### June 18, 2026 - SoakORR Selected and Sprinkler Runtime Increased
+
+- **Category:** irrigation, lawn, soil conditioner
+- **Action/product:** Owner selected SoakORR from current inventory for the
+  wetting-agent pass instead of buying/applying Revive. Owner also reported
+  reaching out to Slow the Flow to show interest and will book if they respond.
+- **Amount/rate/dilution:** SoakORR not yet applied. Planned first pass is
+  lawn-only at the low label rate: 3 fl oz/1,000 sq ft, or about 9 fl oz for the
+  approximately 3,000 sq ft lawn. Sprinkler runtime was increased 20% as a
+  temporary response to rear dry/stressed corners.
+- **Target:** Lawn first; beds, trees, and containers remain separate future
+  workflows because they can be handled with hose-end or bucket applications.
+- **Water-in/weather context:** SoakORR label requires immediate irrigation with
+  about 1/2 inch of water. Under current SACWSD Stage 1 restrictions, pair the
+  lawn pass with a legal after-6pm Wednesday/Saturday sprinkler run and inspect
+  zone performance while watering in.
+- **Observed response/follow-up:** During the SoakORR water-in run, inspect for
+  overspray, misting, runoff, pooling, blocked or tilted heads, dry corners, and
+  uneven coverage. Use observations to decide whether the 20% runtime increase is
+  solving coverage stress or wasting water.
+- **Confidence:** exact date for owner status report; SoakORR application still
+  pending.

@@ -88,7 +88,7 @@ establishment window when mycorrhizal connections form most readily.
 
 ---
 
-## Soil Wetting Agent / Revive (summer irrigation efficiency)
+## Soil Wetting Agent / SoakORR (summer irrigation efficiency)
 
 **Problem:** Hot clay soil develops hydrophobic surface crusts in summer. Water
 beads and runs sideways along the surface rather than penetrating vertically to the
@@ -100,21 +100,29 @@ on clay lots in the Front Range.
 penetration. Applied before irrigation, they make each cycle meaningfully more
 effective at no cost to the irrigation schedule.
 
-**Revive** is specifically formulated for Colorado Front Range alkaline clay in
-summer. It combines a wetting agent with humic acid and chelated iron — addressing
-hydrophobicity, organic fraction, and iron availability in one product. Available
-at most Colorado garden centers. Apply via hose-end sprayer across lawn and beds,
-then run the scheduled assigned-day irrigation cycle to carry the wetting agent
-into the soil.
+**2026 active product:** SoakORR is the current operational wetting-agent choice
+because it is already on hand, has lower volume/cost friction than Revive for this
+season, and explicitly targets surface-tension reduction plus carbonate/bicarbonate
+pressure. Apply via hose-end sprayer and irrigate in immediately per label.
 
-**Timing:** Late June to mid-July, when summer hydrophobicity is developing. One
-application per season is typically sufficient; a second in early August is an
-option in hot, dry years.
+For the first 2026 pass, treat the lawn as the priority target rather than forcing
+the full lawn-plus-bed footprint into one application. The lawn has the strictest
+legal timing constraint because it depends on the sprinkler system, and the rear
+corners are the current visible dry-down problem. Beds, trees, and containers can
+be handled separately with hose-end or bucket workflows.
+
+**Timing:** Late June to mid-July, when summer hydrophobicity is developing. The
+SoakORR label allows monthly use; repeat only if field response, sustained heat,
+or dry weather justifies it.
 
 **2026 drought-program note:** Treat the wetting-agent pass as a water-efficiency
 priority, not an excuse to add irrigation. It improves penetration on the assigned
 watering days, which matters more when legal watering opportunities are limited and
 monthly use above 11,999 gallons carries a surcharge.
+
+**Revive status:** Revive liquid remains a valid alternative wetting-agent track,
+but it is not the active 2026 recommendation while SoakORR inventory is available.
+Avoid granular Revive for this property because it contains phosphorus.
 
 **Not a substitute for compost:** Wetting agents improve penetration of existing
 water but do not build the organic matter that provides long-term water-holding

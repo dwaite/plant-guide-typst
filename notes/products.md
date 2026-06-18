@@ -16,7 +16,7 @@ and `notes/research/2026_sources.md`.
 | **Bucket + watering can / slow hose** | Soil drenches at individual plant drip lines: EDDHA iron, chelated micros, liquid N-K to trees/shrubs | Mix product in bucket, pour slowly around drip line, follow with slow hose soak. More water volume = better clay penetration. |
 | **Milwaukee M12 2-gal handheld sprayer** | Surface/foliar coverage tasks: liquid pre-emergent for beds, weed spot spray, anti-desiccant, insecticidal soap, neem oil, fungicide | Fine spray for coverage, not volume. Not the right tool for soil drenches. |
 | **Hose-end sprayer (Chapin G362D)** | Lawn-scale broadcast: humic acid, compost tea over lawn | Adjustable dilution ratios; brass head; anti-siphon. ~$30 at Home Depot or Amazon. |
-| **Revive concentrate + Chapin hose-end sprayer** | Wetting agent / summer irrigation efficiency | Concentrate diluted into Chapin for broadcast over lawn + all beds (~6,000 sq ft). Ready Spray hose-end bottle is too small for this area. |
+| **SoakORR + hose-end sprayer** | Wetting agent / summer irrigation efficiency | 2026 active product. First pass is lawn-only (~3,000 sq ft), then immediately watered in with sprinklers during a legal assigned-day window. Beds/trees/containers can be handled separately. |
 | **Broadcast spreader** | Lawn pre-emergent (granular), granular lawn fertilizer (N, N-K), granular 0-0-50 potassium sulfate, lawn winterizer | Granular is the correct format for primary lawn N delivery — see Lawn Nitrogen note below. |
 
 ---
@@ -191,25 +191,24 @@ drops — forgiving of scheduling gaps, which is its main advantage over liquid.
 - Do NOT apply in summer (clay surface temps kill microbes before establishment)
 
 ### Wetting Agent / Summer Irrigation Efficiency
-**Revive liquid** (1-gal jug, $25, covers 4,000 sq ft — no sprayer head, attach
-directly to hose)
+**SoakORR** (wetting agent / water conditioner; current 2026 product on hand)
 
-Use liquid, not granular. The granular (5-1-1 with dehydrated poultry waste)
-contains phosphorus — incompatible with this property's HIGH-P soil constraint.
+SoakORR is the active 2026 product because it is already in inventory, has a much
+lower concentrate volume than Revive, and fits the carbonate/hydrophobicity
+wetting-agent track. Its label rate is 3-6 fl oz per 1,000 sq ft, applied monthly
+as conditions warrant.
 
-- Apply to lawn AND all beds (~6,000 sq ft total = ~1.5 jugs per application)
-- Not needed for containers — potted mix does not develop clay surface crust
-- Application schedule: 3 passes in the first month of use (July Year 1), then
-  1 application every 4–6 weeks through August in subsequent seasons
-- Follow each application immediately with irrigation run
-- Year 1 quantity: ~7–8 jugs (~$175–200). Subsequent years: ~4–5 jugs (~$100–125)
-- Where: Ace Hardware, Home Depot — Colorado retail
+- First 2026 target: lawn only (~3,000 sq ft), not beds/trees/containers.
+- First 2026 rate: low label rate, 3 fl oz per 1,000 sq ft = ~9 fl oz total.
+- Water-in requirement: irrigate immediately with about 1/2 inch of water.
+- Apply after 6pm on a Wednesday or Saturday so the sprinkler water-in can happen
+  legally and while it is still light enough to inspect sprinkler performance.
+- Beds, trees, and containers can be treated later as separate hose-end or bucket
+  workflows; they should not drive the first lawn sprinkler timing.
 
-**Cost note / research item:** Revive's primary value here is the wetting agent —
-chelated iron and humic acid are already applied separately. A generic turf wetting
-agent (e.g., Aqua-Aid, Hydra Hume, or similar) may deliver equivalent wetting
-benefit at lower per-application cost for 6,000 sq ft. Research before reordering
-in Year 2 to determine if a more economical alternative makes sense.
+**Revive status:** Revive liquid remains a valid alternative product, but it is no
+longer the active 2026 recommendation while SoakORR is on hand. Avoid granular
+Revive for this property because it contains phosphorus.
 
 #### Wetting Agent Decision Matrix (6,000 sq ft footprint)
 
@@ -220,9 +219,9 @@ in Year 2 to determine if a more economical alternative makes sense.
 | **Aqua-Aid AQM** | 3 oz / 1,000 sq ft | every 30–45 days | ~18 oz (~0.14 gal) | ~54–72 oz (0.42–0.56 gal) for 3–4 apps | ~$85 / gal equivalent (from 5-gal pricing) | **~$36–48** | Very low concentrate volume; reapplication cadence matters. |
 | **SoakORR** (Ryan Knorr) | 3–6 oz / 1,000 sq ft | roughly monthly in season | ~18–36 oz (~0.14–0.28 gal) | ~72–144 oz (0.56–1.13 gal) for 4 apps | Shipped pricing provided: 32 oz $59 (~$236/gal), 1 gal $92, 2.5 gal $215 (~$86/gal) | **~$49–104** (bulk sizes) / **~$132–266** (32 oz only) | Candidate lower-cost/volume alternative; economics are much better in 1+ gallon sizes. |
 
-**Decision approach for 2026–27:** Compare alternatives using *total seasonal
-concentrate needed at your 6,000 sq ft footprint* and local delivered price, not
-price-per-jug alone.
+**Decision approach for 2026–27:** Use SoakORR first for 2026. If switching later,
+compare alternatives using *total seasonal concentrate needed at your footprint*
+and local delivered price, not price-per-jug alone.
 
 #### Water-Test Selection Rule (2026)
 
@@ -260,6 +259,12 @@ Primary references used for this matrix:
 - Granular is more practical for ~3,000 sq ft lawn: even coverage, longer residual
 - Apply via broadcast spreader at forsythia bloom (~late March, soil at 50°F) and again in August
 - Where: Home Depot, Ace Hardware
+- Future purchase review note: if the lawn pre-emergent program shifts back toward
+  liquid prodiamine, compare small-pack `Barricade 4FL` against `Quali-Pro
+  Prodiamine 65 WDG` 5 lb. `Quali-Pro 65 WDG` is the same general 65%
+  prodiamine-WDG class as `Barricade 65WG`; the appeal is much lower cost per
+  treated area, while the main downside for this property is bulk size and likely
+  shelf-life overrun rather than efficacy.
 
 ### Pre-Emergent — Beds and Rock Areas
 
@@ -372,7 +377,7 @@ slow-release urea fallback — no shelf life concern, buy in bulk freely.
 | Simple Lawn Solutions liquids (15-0-15, 28-0-0, 0-0-25) | 2–3 yr | Multi-season quantities fine |
 | Humic acid (liquid) | 1–2 yr | 32 oz bottle is the right size — don't overbuy |
 | Primo Maxx / growth regulator | 2 yr unopened / 1 yr opened | Small bottle; likely lasts 2+ seasons |
-| Revive liquid | 2–3 yr | Buy liquid, not granular (granular contains P). ~7–8 jugs Year 1, ~4–5 jugs subsequent years |
+| SoakORR / wetting agents | Check current label | Use existing SoakORR first; do not buy Revive while SoakORR inventory covers the season. |
 | Bonide Wilt-Stop / Wilt-Pruf (concentrate) | 3+ yr unopened / 1–2 yr opened | Reseal well after November application |
 | Jack's Classic Rose FeED (dry powder) | 2–3 yr sealed | Small container fine multi-season |
 | Bonide Liquid Iron EDTA (roses) | 2–3 yr | Standard bottle fine |
@@ -404,7 +409,7 @@ Order online items in January — some have lead time or limited availability:
 | EcoCycle Microbe Brew (compost tea) | Buy day-of — not a stock item | EcoCycle, Boulder CO (ecocycle.org) | Viable microbial counts drop within 24–48 hrs — purchase and apply same day. 2 applications/year: April/May (lawn hose-end + tree/shrub bucket drench) and September (after core aeration). Estimate 2–3 gal per lawn pass; confirm label rate. |
 | Jack's Classic Rose FeED | 1 small container | Amazon | 3 pots × 6–7 applications; very small per-use volume. |
 | Bonide Liquid Iron — EDTA (roses only) | 1 bottle | Ace / Home Depot / Amazon | Monthly May–Aug, rose containers only. |
-| Revive liquid (1-gal jug, $25/4,000 sq ft) | Year 1: ~7–8 jugs; subsequent years: ~4–5 jugs | Ace / Home Depot | Liquid only — granular contains P (incompatible with high-P soil). Research generic wetting agent alternative before Year 2 reorder. |
+| SoakORR | Existing 1 gal inventory first | On hand / Ryan Knorr Lawn Care | Low-rate lawn pass is ~9 fl oz for ~3,000 sq ft; full ~6,000 sq ft low-rate footprint would be ~18 fl oz. Revisit alternatives only if inventory runs short or field response is poor. |
 | Granular ammonium sulfate 21-0-0 | ~16–25 lbs | Home Depot / Ace | Spring lawn N varies by turf response (range-based program). A 40-lb bag typically covers 1.5–2+ seasons. |
 | Water-soluble ammonium sulfate 21-0-0 | ~1–2 lbs (every 1–2 yrs) | ryanknorrlawncare.com or equivalent | Acid-preferring plants (JM, Blue Spruce, Mugo Pine) bucket drench only. |
 | Granular 0-0-50 potassium sulfate | ~5–6 lbs | Home Depot / Ace | Trees and shrubs September only. Lawn K now covered by liquid K pass. |

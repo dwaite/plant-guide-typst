@@ -138,7 +138,7 @@ Stock status changes quickly; treat these as current price anchors and verify Br
 | Container Refresh & Nutrition | [DYNOMYCO Mycorrhizal Inoculant, 100 g](https://www.amazon.com/Mycorrhizal-Inoculant-DYNOMYCO-Performing-Concentrated/dp/B081QF9ZW6/ref=sr_1_8) | 1 small pouch | Amazon / online | Small-pack size appropriate for this property; price varies by seller | 100 g is enough for the current container-refresh use case without becoming a large bulk buy. |
 | Soil Conditioners & Biology | Humic / kelp support input | Inventory-covered for 2026 | Existing inventory first | MicrGreen + RGS on hand | Use existing inventory first; only buy a dedicated humic product later if the inventory proves insufficient. |
 | Soil Conditioners & Biology | Wetting agent track | No current purchase needed | Existing inventory first | SoakORR user-provided shipped pricing: 32 oz `$59`, 1 gal `$92`, 2.5 gal `$215` | Use the 1 gal you already own before buying anything else. |
-| Weed Control | Scotts Halts Crabgrass & Grassy Weed Preventer, 20 lb | Spring lawn pre-emergent | Amazon | About `$31.49` | Covers 10,000 sq ft; enough for this lawn with room to spare while keeping pre-emergent separate from spring fertilizer. |
+| Weed Control | Scotts Halts Crabgrass & Grassy Weed Preventer, 20 lb | Spring lawn pre-emergent | Amazon | About `$31.49` | Covers 10,000 sq ft; enough for this lawn with room to spare while keeping pre-emergent separate from spring fertilizer. Next purchase review item: compare small-pack `Barricade 4FL` versus `Quali-Pro Prodiamine 65 WDG` 5 lb (`Barricade 65WG`-type equivalent). Bulk `65 WDG` is much cheaper per treated area, but likely exceeds this property's comfortable shelf-life window. |
 | Weed Control | Glyphosate concentrate | 1 bottle | Bomgaars first; Ace fallback | Bomgaars Farm General 41% glyphosate quart `$14.99`; 1 gal `$39.99`. Ace Roundup concentrate 36.8 oz `$27.99` | Buy the Bomgaars quart if possible. It is the cleanest, cheapest fit. |
 | Weed Control | Prodiamine bed refresh | 1 season rock-bed refresh | Home Depot (granular) or Amazon (WDG/liquid) | HD 40 lb prodiamine references remain around `$52.87` | Fall-only purchase. Keep format aligned with how you actually want to apply it. |
 | Weed Control | Fluazifop (grass-in-beds selective) | 1 bottle | Amazon if available; otherwise outside preferred channels | No stable preferred-channel price found. Specialty references remain about `$24.76` for Ortho Grass B Gon 24 oz RTU and `$54.80` for Ornamec 170 quart concentrate | This is still the main product likely to force an outside-channel purchase. |
@@ -247,6 +247,7 @@ These are the products where small-pack discipline matters most.
 ## Deferred
 
 - [ ] [Scotts Halts Crabgrass & Grassy Weed Preventer, 20 lb](https://www.amazon.com/Scotts-49915-Crabgrass-Emergent-Preventer/dp/B08L6T3B4H)
+- [ ] Evaluate next prodiamine purchase path: small-pack `Barricade 4FL` vs `Quali-Pro Prodiamine 65 WDG` 5 lb (`Barricade 65WG`-type equivalent)
 
 ## Double-check
 

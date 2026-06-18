@@ -199,10 +199,10 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Wetting Agent",
   role:    [Summer Irrigation Efficiency — Reduces Clay Hydrophobia],
-  apply:   [Lawn and all beds (\~6,000 sq ft) — Revive liquid concentrate in Chapin G362D hose-end sprayer. Apply on an assigned watering day and follow with the scheduled irrigation cycle.],
-  timing:  [Late June to mid-July; second application in early August in hot, dry years.],
-  note:    [Use liquid concentrate only — not granular Revive, which is a 5-1-1 fertilizer containing phosphorus (incompatible with this property's high-P soil). Selection rule: use irrigation-water chemistry first (bicarbonate/carbonate/RSC risk) to decide whether a carbonate-focused track is warranted; otherwise optimize wetting-agent choice by seasonal cost and reapplication cadence. Wetting agents do not replace the no-P + EDDHA + micronutrient soil strategy.],
-  sources: [Revive liquid concentrate (1-gal jug, \~\$25, covers 4,000 sq ft — approximately 1.5 jugs per application). Colorado Ace Hardware and Home Depot (Colorado-specific retail — confirm spring stock).])
+  apply:   [Lawn first (\~3,000 sq ft) — SoakORR through a hose-end sprayer. Use 3–6 fl oz per 1,000 sq ft; for the first 2026 lawn pass, use the low label rate: \~9 fl oz total. Apply only on an assigned watering day after 6pm, then immediately run the sprinkler zones to water in with about 1/2 inch.],
+  timing:  [Late June to mid-July; repeat about monthly during sustained heat or dry weather if field response justifies it.],
+  note:    [SoakORR is the active 2026 product because it is already on hand and fits the carbonate/hydrophobicity wetting-agent track. Treat beds, trees, and containers as separate follow-up workflows rather than forcing them into the lawn sprinkler timing. Wetting agents do not replace the no-P + EDDHA + micronutrient soil strategy.],
+  sources: [2026 season: use existing SoakORR inventory. Alternatives such as Revive liquid, Hydretain, or Aqua-Aid AQM remain comparison options if future pricing, label requirements, or irrigation-water testing justify a switch.])
 
 #pe("Anti-Desiccant",
   role:    [Winter Moisture Protection for Evergreen Foliage],

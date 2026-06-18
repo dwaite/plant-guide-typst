@@ -49,6 +49,7 @@
 
 ## Deferred
 - [ ] [Scotts Halts Crabgrass & Grassy Weed Preventer, 20 lb](https://www.amazon.com/Scotts-49915-Crabgrass-Emergent-Preventer/dp/B08L6T3B4H)
+- [ ] Evaluate next prodiamine purchase path: small-pack `Barricade 4FL` vs `Quali-Pro Prodiamine 65 WDG` 5 lb (`Barricade 65WG`-type equivalent)
 
 ## Double-check
 - [ ] `Standard Roundup Weed & Grass Killer` active ingredient panel
