@@ -15,8 +15,21 @@ dry-down in the manual-watered pots.
 Current fill context:
 
 - the four long patio planters use Miracle-Gro potting mix
-- the whiskey barrel and self-watering raised bed currently use a heavier 50/50
-  soil-compost blend from the lawn project
+- the whiskey barrel and self-watering raised bed currently use leftover
+  compost/dirt mix from the 2025 lawn nutrition, leveling, and overseeding
+  coverage project
+
+Current planted status as of June 18, 2026:
+
+- Three Veradek long boxes each hold two ornamental grasses. Grass ID is pending;
+  current best guess is Karl Foerster feather reed grass or Pink Muhly Grass.
+- The lower-patio Veradek long box, after the 2 ft step-down, was put out June 18
+  with two English lavender plants and one Salvia 'May Night'. It may receive less
+  afternoon shade than the raised-patio planters.
+- The whiskey barrel currently holds a lily that was in a small container in 2025.
+  It appears to have survived winter but is slow to start in 2026.
+- The raised garden bed currently holds a strawberry plant, tomato plant, bell
+  pepper, Coolapeno jalapeno-type pepper, purple basil, and oregano.
 
 ## Three Long Planters Behind The Sectional
 
@@ -150,8 +163,10 @@ Why choose it:
 
 ## Raised Self-Watering Edible Bed
 
-This planter sits against the south side of the house and gets all-day direct sun,
-so fruiting crops are a realistic default here.
+This planter sits against the south side of the house, which points slightly
+southeast. It gets morning and afternoon sun, then late-afternoon shade from the
+house, so fruiting crops are still realistic but total heat and production may be
+lower than in an unobstructed full-sun site.
 
 ### Default Recommendation: Kitchen Staples Bed
 

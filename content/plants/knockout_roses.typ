@@ -5,7 +5,7 @@
 #import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
 #plant-header("Knock Out Roses (Potted)", "Rosa 'Radrazz' (Double Knock Out)", "knockout_rose", establishment: plant-established("knockout_roses"), lifespan: plant-lifespan("knockout_roses"), tier: plant-tier("knockout_roses"), failure: plant-failure("knockout_roses"))[
- Knock Out Roses are exceptionally disease-resistant, repeat-blooming landscape roses producing waves of bright red blooms from June through frost. In containers, they are more versatile and moveable but require more attentive irrigation and fertilization than in-ground plants. The three front garage pots do not all have the same exposure: two receive morning sun with afternoon protection, while the south-end pot receives most-day sun and will dry faster in summer. Potted plants use bagged potting mix managed separately from in-ground soil conditions.
+ Knock Out Roses are exceptionally disease-resistant, repeat-blooming landscape roses producing waves of bright red blooms from June through frost. In containers, they are more versatile and moveable but require more attentive irrigation and fertilization than in-ground plants. The 2026 setup has three front garage pots plus one south-side experimental pot. The front garage pots do not all have the same exposure: two receive morning sun with afternoon protection, while the south-end pot receives most-day sun and will dry faster in summer. The south-side experiment uses a slightly different cement composite planter with a self-watering insert and added wicks, so track its moisture separately. Potted plants use bagged potting mix managed separately from in-ground soil conditions.
 ]
 
 === Container Setup
@@ -23,9 +23,11 @@
 - Add a 1–2 inch layer of fine mulch (cocoa hull or finely shredded bark) on the soil surface — reduces surface evaporation and moderates soil temperature. *Note: cocoa hull is toxic to dogs if ingested in quantity.*
 - White Bacopa planted in the same container shades the soil surface, further reducing evaporation
 
+*South-side experiment:* The fourth rose/bacopa planter uses a Proven Winners AquaPots Lite round self-watering insert with two added wick pieces. Treat it as its own test case: the reservoir may extend watering intervals, but the rose root zone still needs top-side moisture checks and occasional top watering or flushing.
+
 === Watering
 
-Check soil moisture by pressing a finger 2 inches into the soil — water when it feels dry at that depth. The two morning-sun pots will usually hold moisture longer than the south-end pot, which gets most-day sun and may need water sooner in midsummer. Water thoroughly until it runs freely from drainage holes. Do NOT allow pots to sit in standing water. Reduce watering in September–October as temperatures drop. Continue watering until pots are moved to winter storage or until just before a hard freeze.
+Check soil moisture by pressing a finger 2 inches into the soil — water when it feels dry at that depth. The two morning-sun front pots will usually hold moisture longer than the south-end front pot, which gets most-day sun and may need water sooner in midsummer. Check the south-side self-watering experiment separately rather than assuming it matches either front pattern. Water standard pots thoroughly until water runs freely from drainage holes; do NOT allow pots to sit in standing water. For the self-watering experiment, keep the reservoir functioning but still top-water periodically so salts do not concentrate in the upper mix. Reduce watering in September–October as temperatures drop. Continue watering until pots are moved to winter storage or until just before a hard freeze.
 
 === Fertilization
 

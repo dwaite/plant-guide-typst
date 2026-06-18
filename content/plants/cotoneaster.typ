@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Peking Cotoneaster is very drought tolerant; clay moisture retention between cycles is more than adequate. The 0.67 gal/cycle delivery is somewhat generous for this plant — cap the emitter in September.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Peking Cotoneaster is very drought tolerant; clay moisture retention between cycles is more than adequate. The ~0.93 gal/cycle delivery is generous for this plant — cap the emitter in September.
 
 === Fertilization
 

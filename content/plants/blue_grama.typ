@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant — 0.67 gal/cycle is more than strictly needed for this plant. Once fully established, drip support may not be necessary at all; cap the emitter when the plant shows no stress signs.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Blonde Ambition Blue Grama is a native prairie grass and extremely drought tolerant — ~0.93 gal/cycle is more than strictly needed for this plant. Once fully established, drip support may not be necessary at all; cap the emitter when the plant shows no stress signs.
 
 === Fertilization
 

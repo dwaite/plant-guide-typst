@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Cap the emitter and stop drip support in late August.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Rocky Mountain Penstemon is highly drought tolerant. A dry fall and winter is essential for survival in clay soil — wet crowns in cold weather are the primary cause of plant loss. Cap the emitter and stop drip support in late August.
 
 === Fertilization
 

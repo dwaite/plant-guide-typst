@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Mops Mugo Pine is drought tolerant and sensitive to overwatering — it needs the least water of any of the evergreens on the drip system. In clay, the 0.67 gal/cycle delivery and the soil's natural moisture retention are appropriate. Cap the emitter in September; skip cycles if the root zone is still moist going into a cycle.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Mops Mugo Pine is drought tolerant and sensitive to overwatering — it needs the least water of any of the evergreens on the drip system. In clay, the ~0.93 gal/cycle delivery and the soil's natural moisture retention are adequate, so avoid adding water beyond scheduled cycles. Cap the emitter in September; skip cycles if the root zone is still moist going into a cycle.
 
 === Fertilization
 

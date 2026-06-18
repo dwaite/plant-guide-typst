@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). The south-facing full-sun exposure is the most stressful on the property and drives the higher emitter count relative to other shrubs. Distribute emitters around the drip line, not at the trunk. 
+Use 2–3 × 2 gph emitters (~1.9–2.8 gal/cycle at the current 28 min/zone runtime). The south-facing full-sun exposure is the most stressful on the property and drives the higher emitter count relative to other shrubs. Distribute emitters around the drip line, not at the trunk. 
 As a second-season plant in the most stressful location on the property, water demand is at its peak this season. Leaf scorch (brown margins, starting at leaf tips) is likely in hot summers — ensure the emitter is delivering fully and mulch is maintained before scorch appears, not after. Consistent moisture during fruit set (May–June) improves berry crop size and quality. Drip delivery keeps water off foliage, which is ideal for reducing fungal risk.
 
 === Fertilization

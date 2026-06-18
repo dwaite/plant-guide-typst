@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Autumn Joy Sedum is drought tolerant — dry conditions improve plant quality and reduce stem flopping. In clay, the soil's natural moisture retention between cycles is significant; watch for stems flopping outward as the earliest overwatering signal and cap the emitter earlier if it appears. Reduce or stop drip support in early fall.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Autumn Joy Sedum is drought tolerant — dry conditions improve plant quality and reduce stem flopping. In clay, the soil's natural moisture retention between cycles is significant; watch for stems flopping outward as the earliest overwatering signal and cap the emitter earlier if it appears. Reduce or stop drip support in early fall.
 
 === Fertilization
 

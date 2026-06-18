@@ -59,7 +59,7 @@ _Recommended Products & Application Methods_.
   ("EDDHA iron pass (Honeylocust + Japanese Maple)", N),
   ("Container EDTA iron (monthly May–Aug)", N),
   ("First lawn N pass (granular ammonium sulfate)", N),
-  ("Start full sprinkler-season runtime", N),
+  ("Confirm SACWSD assigned days + Wind Skip off", N),
   ("Move potted plants outside after last frost", N),
   ("Begin daylily deadheading", N),
 
@@ -67,6 +67,7 @@ _Recommended Products & Application Methods_.
   ("Post-bloom lilac pruning (Miss Kim + Yankee Doodle)", N),
   ("Second EDDHA pass (Honeylocust)", N),
   ("Rose feed + monthly container iron", N),
+  ("Slow the Flow / catch-can irrigation audit", N),
   ("Wetting-agent pass (lawn + beds)", N),
   ("Second lawn N pass", N),
   ("Begin weekly spruce mite checks", N),
@@ -75,6 +76,7 @@ _Recommended Products & Application Methods_.
   ("Second EDDHA pass (Japanese Maple, early July)", N),
   ("Rose feed + monthly container iron", N),
   ("Heat-wave supplemental watering checks", N),
+  ("Check monthly water use against 11,999 gal first tier", N),
   ("Check/clean drip emitters", N),
   ("Stop in-ground fertilizer by mid-July", N),
 
@@ -84,14 +86,14 @@ _Recommended Products & Application Methods_.
   ("Final rose feed + monthly container iron", N),
   ("Lawn pre-emergent second pass", N),
   ("Rock-bed prodiamine refresh", N),
-  ("Plan/execute fall overseed areas", N),
+  ("Plan fall overseed only if establishment watering is allowed", N),
   ("Late-August bindweed escalation (only if winter survey + season response justify)", N),
 
   "September",
   ("Early Sept lawn liquid N pass", N),
   ("Late Sept lawn liquid N + K pass", N),
   ("Tree/shrub potassium sulfate pass", N),
-  ("Overseed thin lawn areas after aeration", N),
+  ("Overseed only if restrictions/water budget allow establishment", N),
   ("Compost tea fall pass", N),
   ("Reduce drip frequency", N),
 
@@ -118,6 +120,9 @@ _Recommended Products & Application Methods_.
 
   "Ongoing (Any Month)",
   ("Annual sprinkler catch-can calibration", N),
+  ("Inspect heads/leaks/overspray after mowing during restrictions", N),
+  ("Confirm controller has no off-day catch-up starts", N),
+  ("Monitor monthly water use against SACWSD drought tier", N),
   ("Monthly drip-emitter inspection in season", N),
   ("Sharpen mower blades at start + mid-season", N),
   ("Monitor rabbit/mice damage", N),

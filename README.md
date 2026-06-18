@@ -12,7 +12,7 @@ Latest successful main-branch build:
 ## Project Intent
 
 - **Primary deliverable:** the guide source (`content/`, `main.typ`,
-  `template.typ`) and compiled PDF (`plant_care_guide.pdf`).
+  `template.typ`) and compiled PDF (`dist/plant_care_guide.pdf`).
 - **Supporting rationale:** `notes/` captures decision rationale and maintenance
   context; it is an internal support layer, not an output artifact.
 - **Audit records:** audit/source-ledger files are temporary verification
@@ -52,7 +52,7 @@ make watch
 make verify
 ```
 
-Open `plant_care_guide.pdf` in any PDF viewer. Most PDF viewers auto-refresh
+Open `dist/plant_care_guide.pdf` in any PDF viewer. Most PDF viewers auto-refresh
 when the file changes, giving you a near-live preview while editing.
 
 ---
@@ -89,6 +89,7 @@ data/
   inventory.toml      ← Canonical constrained inventory decisions (e.g., on-hand Preen)
 notes/
   *.md                ← Internal rationale and planning notes
+  planters/           ← Container-specific setup, inventory, and follow-up notes
   research/           ← Temporary audit artifacts (not a permanent output layer)
 images/
   maple.jpg, ...      ← 23 plant photos

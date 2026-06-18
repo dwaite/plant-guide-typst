@@ -8,10 +8,12 @@ A Typst document project that compiles to a PDF plant care guide for a specific
 residential property in Commerce City, Colorado (Zone 5b).
 
 ## Product Boundary
-- **Project output:** the compiled guide (`plant_care_guide.pdf`) and its source
+- **Project output:** the compiled guide (`dist/plant_care_guide.pdf`) and its source
   document files in `content/`, `main.typ`, and `template.typ`.
 - **Internal support artifacts:** `notes/` and any audit records. These exist to
   justify or update guidance, but are not the end product.
+- **Operational journal:** `notes/2026_journal.md` records dated work actually
+  performed during the season.
 
 ## Core Commands
 - `make build` — compile PDF
@@ -27,6 +29,10 @@ residential property in Commerce City, Colorado (Zone 5b).
 - **Last frost:** ~May 10
 - **First fall frost:** ~October 5
 - **Wind:** Significant; prevailing winter winds from north and northwest
+- **2026 drought program:** South Adams County Water & Sanitation District declared
+  Stage 1 drought restrictions on May 13, 2026. This property's assigned outdoor
+  irrigation days are Wednesday and Saturday; no irrigation is allowed 10am–6pm or
+  on Mondays. Residential water above 11,999 gal/month carries a drought surcharge.
 
 ## Irrigation Reality (Non-Negotiable)
 There are three systems. Recommendations must match system constraints:
@@ -37,13 +43,24 @@ There are three systems. Recommendations must match system constraints:
 Do not write recommendations as if each plant has its own independent schedule.
 Use emitter configuration and placement for per-plant drip adjustments.
 
+During active drought restrictions, legal watering days and time windows override
+generic interval-based schedules. The controller is currently set for weather-based
+adaptive watering with rain/saturation skips, Wind Skip disabled, and a 50%
+soil-depletion trigger.
+Current operating constraints: front sprinkler program worst case ~287 min / ~4,000
+gal starting at midnight; back sprinkler program ~80 active watering min over an
+elapsed controller window ending at midnight; drip program ~84 min total across
+three zones (~28 min/zone) with saturation and rain skips.
+
 ## Establishment Context
 Most 2024-installed plants are still in establishment through summer 2026 and need
 higher attention to watering and mulch. See `notes/establishment.md`.
 
 ## 2026 Pot Update
 Candytuft did not survive winter 2025–26. It has been removed from the active plant
-roster, and the front accent pots are being redone for the 2026 season.
+roster, and the front accent pots were redone for the 2026 season with White
+Bacopa companions. The south-side rose/bacopa planter is being tracked as a
+self-watering experiment.
 
 ## Core Model
 - **Data:** `data/plants.toml` (canonical facts)
@@ -70,6 +87,10 @@ data layer first, then reconcile notes and document.
 - `content/checklist.typ` — month-by-month execution checklist
 - `content/plants/*.typ` — per-plant prose
 - `content/generated/plant_data.typ` — generated emitter + fertilizer tables (do not hand edit)
+- `notes/2026_journal.md` — dated operational log for actual applications,
+  inspections, irrigation/controller changes, pruning, planting, and field observations
+- `notes/*.md` — internal rationale, decision records, and seasonal context; do not
+  use topic notes as the primary place for day-by-day completed-work logs
 
 ## Data-Driven Generation
 Generated file:

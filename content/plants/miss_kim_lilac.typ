@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle) — audit the existing emitter before the 2026 season. As a fully established shrub in afternoon shade, water demand is lower than a full-sun plant of the same size. Clay soil retains moisture significantly between cycles; overwatering in clay creates crown rot risk. Never let water pool at the base. Continue drip support through October in dry autumns.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime) — audit the existing emitter before runtime changes. As a fully established shrub in afternoon shade, water demand is lower than a full-sun plant of the same size. Clay soil retains moisture significantly between cycles; overwatering in clay creates crown rot risk. Never let water pool at the base. Continue drip support through October in dry autumns.
 
 === Fertilization
 

@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 2–3 × 2 gph emitters (1.33–2.0 gal/cycle). Distribute emitters around the drip line, not at the trunk — feeder roots are at the canopy edge. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom.
+Use 2–3 × 2 gph emitters (~1.9–2.8 gal/cycle at the current 28 min/zone runtime). Distribute emitters around the drip line, not at the trunk — feeder roots are at the canopy edge. Second-season establishing tree with moderate-to-high water demand — consistent delivery through summer is important for tree health and next year's bloom.
 
 === Fertilization
 

@@ -10,20 +10,39 @@ This is a concept-selection document, not a committed planting roster.
 - One half whiskey barrel: statement ornamental container
 - One self-watering raised bed: mixed edible planter
 
+## Current Planted Status - June 18, 2026
+
+These notes supersede the open concept assumptions where they conflict with the
+actual planted roster.
+
+- Three Veradek long boxes each hold two ornamental grasses. Grass ID is pending;
+  current best guess is Karl Foerster feather reed grass or Pink Muhly Grass.
+- The lower-patio Veradek long box, after the 2 ft step-down, was put out June 18
+  with two English lavender plants and one Salvia 'May Night'. It may receive less
+  afternoon shade than the raised-patio planters.
+- The whiskey barrel currently holds a lily that was in a small container in 2025.
+  It appears to have survived winter but is slow to start in 2026.
+- The raised garden bed currently holds a strawberry plant, tomato plant, bell
+  pepper, Coolapeno jalapeno-type pepper, purple basil, and oregano.
+
 ## Shared Constraints
 
 - Zone 5b
 - Patio long boxes and whiskey barrel are full-sun, heat-exposed manual-watered
   containers
+- The four Veradek long boxes sit in a line along the south edge of the rear patio
+  and should have roughly equal all-day sun
 - The four Veradek long boxes currently contain Miracle-Gro potting mix, while the
-  whiskey barrel and raised bed currently contain a heavier leftover 50/50 soil-compost
-  blend from the lawn project
+  whiskey barrel and raised bed currently contain leftover compost/dirt mix from the
+  2025 lawn nutrition, leveling, and overseeding coverage project
 - Long boxes should tolerate occasional dry-down better than a color-only annual mix
 - The lower patio long box should coordinate with the screening trio without feeling
   identical
 - The whiskey barrel stays outdoors year-round, so overwinter survival should not be
   assumed just because it is larger than the other pots
 - The raised bed is meant for practical kitchen use, not novelty crops
+- The raised bed's south-side location points slightly southeast: it gets morning
+  and afternoon sun, with late-afternoon shade from the house
 
 ## Back-Of-Sectional Veradek Long Boxes
 
@@ -237,9 +256,13 @@ Role:
 
 Assumption:
 
-- This planter is against the south side of the house and gets all-day direct sun
+- This planter is against the south side of the house, which points slightly
+  southeast. It gets morning and afternoon sun, then late-afternoon shade from
+  the house.
 - Fruiting crops are a reasonable default here because the self-watering feature and
-  sun exposure support them better than a shadier fallback location would
+  sun exposure support them better than a shadier fallback location would, though
+  late-afternoon shade may reduce heat stress and total production compared with
+  an unobstructed full-sun site.
 
 ### Default Concept: Kitchen Staples Bed
 

@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Agastache is very drought tolerant and receives more water than strictly necessary at the standard emitter rate — watch for crown softness or yellowing as an early overwatering signal and cap the emitter in September to reduce fall moisture. Wet fall and winter soil in clay is the primary cause of plant loss.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Agastache is very drought tolerant and receives more water than strictly necessary at the standard emitter rate — watch for crown softness or yellowing as an early overwatering signal and cap the emitter in September to reduce fall moisture. Wet fall and winter soil in clay is the primary cause of plant loss.
 
 === Fertilization
 

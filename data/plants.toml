@@ -68,7 +68,7 @@ maintenance_tier = "medium"
 primary_failure_mode = "Fire blight or establishment stress if canopy and irrigation are not managed."
 sun          = "full sun"
 emitter_display = "2-3 x 2 gph"
-emitter_note = "Establishing tree; 2 minimum, 3 preferred. 1.33-2.0 gal/cycle."
+emitter_note = "Establishing tree; 2 minimum, 3 preferred. ~1.9-2.8 gal/cycle."
 fertilizer_program = "Spring ammonium sulfate + May micronutrient blend."
 
 [[plants]]
@@ -85,7 +85,7 @@ maintenance_tier = "high"
 primary_failure_mode = "Heat and moisture stress from south exposure leading to scorch and decline."
 sun          = "south back yard — full afternoon sun (most stressful exposure)"
 emitter_display = "2-3 x 2 gph"
-emitter_note = "South-facing full sun adds demand. 1.33-2.0 gal/cycle."
+emitter_note = "South-facing full sun adds demand. ~1.9-2.8 gal/cycle."
 fertilizer_program = "Spring ammonium sulfate + May micronutrient blend; include boron support."
 
 [[plants]]
@@ -104,7 +104,7 @@ sun          = "west back yard — mid-morning through full afternoon sun"
 ph_preferred = "5.5–6.5"
 notes        = "Largest pH mismatch after Mugo Pine. Supplemental hand watering during 3+ consecutive days above 95°F is a documented system constraint (not a general recommendation)."
 emitter_display = "3 x 2 gph"
-emitter_note = "Highest demand; full afternoon sun; shallow roots. ~2.0 gal/cycle."
+emitter_note = "Highest demand; full afternoon sun; shallow roots. ~2.8 gal/cycle."
 fertilizer_program = "Spring ammonium sulfate, EDDHA iron in May and July, May micronutrient blend."
 
 
@@ -124,7 +124,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Root/crown decline from chronic overwatering in clay."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Drought tolerant; overwatering is the greater risk. 0.67 gal/cycle."
+emitter_note = "Drought tolerant; overwatering is the greater risk. ~0.93 gal/cycle."
 fertilizer_program = "May micronutrient blend; optional light spring liquid N-K."
 
 [[plants]]
@@ -142,7 +142,7 @@ primary_failure_mode = "Spider mite pressure and crown stress under hot, dry sum
 sun          = "west back yard — mid-morning through full afternoon sun"
 ph_preferred = "5.0–6.0"
 emitter_display = "1 x 2 gph"
-emitter_note = "Moderate-low demand; clay crown drainage critical. 0.67 gal/cycle."
+emitter_note = "Moderate-low demand; clay crown drainage critical. ~0.93 gal/cycle."
 fertilizer_program = "Light ammonium sulfate every 1-2 years + May micronutrient blend."
 
 [[plants]]
@@ -161,7 +161,7 @@ sun          = "full sun"
 ph_preferred = "4.5–6.5"
 notes        = "Largest pH mismatch on the property. Drought tolerant; most sensitive to overwatering of all evergreens."
 emitter_display = "1 x 2 gph"
-emitter_note = "Drought tolerant; sensitive to overwatering. 0.67 gal/cycle."
+emitter_note = "Drought tolerant; sensitive to overwatering. ~0.93 gal/cycle."
 fertilizer_program = "Light ammonium sulfate every 1-2 years + May micronutrient blend."
 
 
@@ -181,7 +181,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Overwatering and poor air circulation leading to root/crown decline."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Very drought tolerant. 0.67 gal/cycle."
+emitter_note = "Very drought tolerant. ~0.93 gal/cycle."
 fertilizer_program = "Skip synthetic N; compost topdress as needed + May micronutrient blend."
 
 [[plants]]
@@ -198,7 +198,7 @@ maintenance_tier = "medium"
 primary_failure_mode = "Poor bloom and mildew when pruning timing or airflow management is missed."
 sun          = "full sun"
 emitter_display = "2 x 2 gph"
-emitter_note = "Larger establishing shrub. 1.33 gal/cycle."
+emitter_note = "Larger establishing shrub. ~1.9 gal/cycle."
 fertilizer_program = "April liquid N-K, May micronutrient blend, September potassium sulfate."
 
 [[plants]]
@@ -216,7 +216,7 @@ primary_failure_mode = "Stagnation from root-zone constraints, especially alkali
 sun          = "east front — morning sun, afternoon shade"
 notes        = "Not growing as expected. Five candidate causes being investigated: foundation pH, planting depth, construction fill, shade hours, Silver Maple root competition. See notes/establishment.md."
 emitter_display = "1 x 2 gph"
-emitter_note = "Audit existing emitter before reducing run time."
+emitter_note = "Established; audit existing emitter before runtime changes."
 fertilizer_program = "April liquid N-K, May micronutrient blend, September potassium sulfate."
 
 [[plants]]
@@ -234,7 +234,7 @@ primary_failure_mode = "Crown/root rot from wet fall-winter soil."
 sun          = "full sun"
 notes        = "Most drainage-sensitive plant on the property. Must be planted on raised mound with 40-50% coarse grit amendment. Single waterlogging event in fall/winter can kill."
 emitter_display = "1 x 2 gph"
-emitter_note = "Prefers dry; cap emitter in September. 0.67 gal/cycle."
+emitter_note = "Prefers dry; cap emitter in September. ~0.93 gal/cycle."
 fertilizer_program = "Very light April liquid N-K, May micronutrient blend, September potassium sulfate."
 
 
@@ -270,7 +270,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Reduced bloom and vigor from crowding if clumps are not periodically divided."
 sun          = "east front — morning sun, afternoon shade"
 emitter_display = "1 x 2 gph"
-emitter_note = "Established (2022); afternoon shade. Audit existing emitter before reducing run time."
+emitter_note = "Established (2022); afternoon shade. Audit existing emitter before runtime changes."
 fertilizer_program = "Light spring liquid N-K + September potassium sulfate."
 
 [[plants]]
@@ -287,7 +287,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Root/crown rot from prolonged wet conditions."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Very drought tolerant; cap emitter in September. 0.67 gal/cycle."
+emitter_note = "Very drought tolerant; cap emitter in September. ~0.93 gal/cycle."
 fertilizer_program = "No fertilizer."
 
 [[plants]]
@@ -304,7 +304,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Shortened life from wet clay and excess fertility."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Drought tolerant; cap emitter in September. 0.67 gal/cycle."
+emitter_note = "Drought tolerant; cap emitter in September. ~0.93 gal/cycle."
 fertilizer_program = "No fertilizer."
 
 [[plants]]
@@ -322,7 +322,7 @@ primary_failure_mode = "Crown rot from fall moisture or overwatering in clay."
 sun          = "full sun"
 notes        = "Dry fall is essential for clay survival — do not extend drip support past September under any circumstances."
 emitter_display = "1 x 2 gph"
-emitter_note = "Native; drought tolerant; cap emitter in September. 0.67 gal/cycle."
+emitter_note = "Native; drought tolerant; cap emitter in September. ~0.93 gal/cycle."
 fertilizer_program = "No fertilizer."
 
 [[plants]]
@@ -339,7 +339,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Stem flopping and crown issues from overwatering or excess fertility."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Drought tolerant; cap emitter in September. 0.67 gal/cycle."
+emitter_note = "Drought tolerant; cap emitter in September. ~0.93 gal/cycle."
 fertilizer_program = "No fertilizer."
 
 
@@ -359,7 +359,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Loss of form from excess water/fertility and poor drainage."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Native prairie grass; very drought tolerant. 0.67 gal/cycle."
+emitter_note = "Native prairie grass; very drought tolerant. ~0.93 gal/cycle."
 fertilizer_program = "No fertilizer (optional light potassium only)."
 
 [[plants]]
@@ -376,7 +376,7 @@ maintenance_tier = "low"
 primary_failure_mode = "Flopping and weak stems when overfertilized."
 sun          = "full sun"
 emitter_display = "1 x 2 gph"
-emitter_note = "Native grass; moderate-low demand. 0.67 gal/cycle."
+emitter_note = "Native grass; moderate-low demand. ~0.93 gal/cycle."
 fertilizer_program = "Light spring liquid N-K + September potassium sulfate."
 
 
@@ -392,8 +392,8 @@ established  = 2025
 lifespan     = "5–10 years (container)"
 maintenance_tier = "high"
 primary_failure_mode = "Container winter root freeze without protection."
-sun          = "front garage pots — two morning-sun pots, one south-end pot with most-day sun"
-notes        = "Three 57-qt front garage accent pots. Replace existing pea gravel base with lightweight, non-decomposing filler plus landscape fabric barrier before 2026 season so pots are easier to move indoors for winter. Potting mix refresh (top third) each April unless a full rebuild is needed."
+sun          = "three front garage pots — two morning-sun pots, one south-end pot with most-day sun; one south-side experimental pot"
+notes        = "Four active 2026 rose/bacopa container plantings: three 57-qt front garage accent pots plus one south-side experiment in a slightly different cement composite planter with a Proven Winners AquaPots Lite self-watering insert and two wick pieces. Front pots use lightweight, non-decomposing filler plus landscape fabric barrier so they are easier to move indoors for winter. Potting mix refresh (top third) each April unless a full rebuild is needed."
 fertilizer_program = "Rose fertilizer every 3-4 weeks (Apr-mid Aug) + monthly EDTA iron (May-Aug)."
 
 [[plants]]
@@ -407,6 +407,6 @@ lifespan     = "1 season (annual)"
 maintenance_tier = "medium"
 primary_failure_mode = "Heat or dry-down stress in midsummer if container moisture drops."
 annual       = true
-sun          = "front garage pots — two morning-sun pots, one south-end pot with most-day sun"
-notes        = "2026 annual replacement for prior candytuft companion in the three front garage Knock Out Rose pots. No overwintering."
+sun          = "three front garage pots — two morning-sun pots, one south-end pot with most-day sun; one south-side experimental pot"
+notes        = "2026 annual replacement for prior candytuft companion in the four active Knock Out Rose container plantings. No overwintering."
 fertilizer_program = "No separate fertilizer; shares reduced-rate rose container feed."

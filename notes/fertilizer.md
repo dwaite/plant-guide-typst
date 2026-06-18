@@ -106,6 +106,21 @@ Light N application is correct for most plants. Some (yarrow, penstemon, agastac
 sedum, blue grama) should receive **no nitrogen** because lean soil is essential to
 their form, bloom quality, and longevity.
 
+### Drought-program adjustment (2026)
+
+Under SACWSD Stage 1 restrictions, nitrogen should not be used to chase turf color
+or force growth when water is the limiting input. Keep the micronutrient program and
+targeted EDDHA iron drenches because they address the property's alkaline lockout
+problem, but delay optional nitrogen if the root zone is dry and the product cannot
+be watered in legally on an assigned day.
+
+For the lawn, the correct response to summer color loss is conservative mowing,
+traffic reduction, catch-can calibration, and acceptance of some semi-dormancy — not
+extra N. September remains the most important turf nutrition window if water access
+is adequate. If the two liquid fall passes become impractical under restrictions,
+use the documented slow-release granular fallback rather than stacking quick-release
+N into a narrow watering window.
+
 ### Lawn spring split adjustment (April 2026)
 
 Operational note for spring 2026: unusually warm late-March / early-April weather

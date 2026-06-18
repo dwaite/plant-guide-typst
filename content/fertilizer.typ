@@ -15,6 +15,18 @@ phosphorus, and every P addition worsens the micronutrient lockout that is alrea
 this landscape's primary limitation. For timing and sequence of all tasks, see the
 _Month-by-Month Checklist_. For product names and sourcing, see _Recommended Products_.
 
+#warning-callout("Drought-Program Fertilizer Adjustment")[
+  During active watering restrictions, do not use nitrogen to chase lawn color or
+  force soft new growth on drought-stressed plants. Keep the high-priority
+  micronutrient and EDDHA iron work because those correct the property's alkaline
+  lockout problem, but delay optional nitrogen if soil is dry and it cannot be
+  watered in legally on an assigned day.
+
+  For the lawn, stay fall-weighted and conservative. If September irrigation access
+  is too unreliable for the two liquid spoon-feeding passes, use the documented
+  slow-release granular fallback rather than adding extra quick-release N.
+]
+
 #v(0.5em)
 
 == Plant Program Matrix

@@ -1,19 +1,21 @@
 TYPST   := $(shell command -v typst 2>/dev/null || echo /Users/david/.cargo/bin/typst)
 SRC     := main.typ
-OUT     := plant_care_guide.pdf
+OUT     := dist/plant_care_guide.pdf
 IMGDIR  := images
 
 .PHONY: all build watch open clean check images
-.PHONY: generate generated-check lint-data consistency verify install-hooks
+.PHONY: generate generated-check lint-data consistency verify install-hooks chatgpt-snapshot
 
 all: build
 
 ## Compile the PDF
 build: generated-check
+	mkdir -p dist
 	$(TYPST) compile $(SRC) $(OUT)
 
 ## Watch for changes and recompile automatically
 watch: generated-check
+	mkdir -p dist
 	$(TYPST) watch $(SRC) $(OUT)
 
 ## Compile then open the PDF (macOS)
@@ -32,6 +34,10 @@ check: generated-check
 generate:
 	python3 scripts/generate_plant_data_typ.py
 	python3 scripts/generate_reference_data_typ.py
+
+## Build a clean Markdown/TOML/images snapshot for ChatGPT Project uploads
+chatgpt-snapshot:
+	python3 scripts/build_chatgpt_snapshot.py
 
 ## Fail if generated Typst include files are out of date
 generated-check:

@@ -138,8 +138,8 @@ the back yard, now sited in the most sun-exposed position on the property.
 
 | Plant | Zone | Notes |
 |-------|------|-------|
-| Knock Out Roses (×3 pots) | Front garage accent pots | Manual watering. Three 57 qt lightweight concrete planters against the garage: two get morning sun, one at the south end gets most-day sun. Roses are being preserved for the 2026 redo; see `notes/rose_bacopa_planters.md`. |
-| White Bacopa (companions in rose pots) | Front garage accent pots | 2026 annual replacement for prior candytuft companion; replanted each spring after last frost |
+| Knock Out Roses (×4 pots) | Front garage accent pots + south-side experiment | Manual watering. Three 57 qt lightweight concrete planters sit against the garage: two get morning sun, one at the south end gets most-day sun. A fourth rose/bacopa planter is on the south side as a self-watering experiment in a slightly different cement composite planter with an AquaPots Lite insert and two added wick pieces. See `notes/planters/rose_bacopa_planters.md`. |
+| White Bacopa (companions in rose pots) | Front garage accent pots + south-side experiment | 2026 annual replacement for prior candytuft companion; replanted each spring after last frost in the active rose containers |
 
 ### Back Patio / Other Container Inventory
 
@@ -149,9 +149,9 @@ spec details and source links.
 
 | Container | Zone | Notes |
 |-------|------|-------|
-| Veradek Block Long Box planters (×4, medium, gray) | Back patio south edge | Three on raised patio behind sectional couch; one on lower patio by walking path |
-| Half whiskey barrel planter (×1) | Container location tracked separately | 26 in diameter x 17.5 in tall; full sun exposure |
-| Elevated self-watering raised bed planter (×1) | South side of house | Vigoro 44 in x 18 in x 31 in planter with storage shelf; all-day direct sun |
+| Veradek Block Long Box planters (×4, medium, gray) | Back patio south edge | Four planters sit in a line along the south edge of the rear patio and should have roughly equal all-day sun. Current 2026 planting: three raised-patio planters each hold two ornamental grasses, probably Karl Foerster feather reed grass or Pink Muhly Grass pending ID confirmation; lower-patio planter after the 2 ft step-down holds two English lavender and one Salvia 'May Night' and may receive less afternoon shade. |
+| Half whiskey barrel planter (×1) | Container location tracked separately | 26 in diameter x 17.5 in tall; full sun exposure. Current 2026 planting is a lily from a small 2025 container; it appears to have survived winter but is slow to start. Filled with leftover compost/dirt mix from the 2025 lawn project. |
+| Elevated self-watering raised bed planter (×1) | South side of house | Vigoro 44 in x 18 in x 31 in planter with storage shelf. South side points slightly southeast, so it gets morning and afternoon sun but late-afternoon shade from the house. Current 2026 planting: strawberry, tomato, bell pepper, Coolapeno jalapeno-type pepper, purple basil, and oregano. Filled with leftover compost/dirt mix from the 2025 lawn project. |
 
 ---
 
@@ -229,7 +229,7 @@ stress. Per-plant detail is in the Plant Locations table above.
 | Exposure | Plants |
 |----------|--------|
 | **Morning sun only; afternoon shade from house** (east front yard) | Silver Maples, Miss Kim Lilacs, Daylilies |
-| **Front garage pots — mixed exposure** | Knock Out Roses, White Bacopa. Two pots get morning sun; the south-end pot gets most-day sun and will dry faster. |
+| **Rose/bacopa pots — mixed exposure** | Knock Out Roses, White Bacopa. Front set: two pots get morning sun, and the south-end front pot gets most-day sun and will dry faster. South-side experimental pot uses a self-watering insert and should be tracked separately. |
 | **Mid-morning sun onward; full afternoon sun** (west back yard) | Emperor Japanese Maple, Dwarf Globe Blue Spruce |
 | **Full afternoon sun — most stressful exposure** (south back yard) | Autumn Brilliance Serviceberry |
 | **Full sun** (all other locations) | Skyline Honeylocust, Spring Snow Crabapple, Wichita Blue Juniper, Mops Mugo Pine, Yankee Doodle Lilac, Peking Cotoneaster, Dark Knight Bluebeard, White Yarrow, Agastache Sunset Hyssop, Rocky Mountain Penstemon, Autumn Joy Sedum, Blonde Ambition Blue Grama, Northwind Switchgrass |

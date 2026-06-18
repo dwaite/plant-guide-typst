@@ -38,7 +38,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: plant-care-guide-pdf
-          path: plant_care_guide.pdf
+          path: dist/plant_care_guide.pdf
           if-no-files-found: error
 
       - name: Publish rolling latest release
@@ -54,6 +54,6 @@ jobs:
 
           gh release delete latest --yes || true
 
-          gh release create latest plant_care_guide.pdf \
+          gh release create latest dist/plant_care_guide.pdf \
             --title "Latest Build" \
             --notes "Rolling build from commit ${GITHUB_SHA}."

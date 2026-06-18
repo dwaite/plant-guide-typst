@@ -1,22 +1,30 @@
-# Rose/Bacopa Planters Redo Guide
+# Rose/Bacopa Planters Setup & Care Notes
 
-Internal planning note for the three front garage rose planters.
+Internal planning note for the 2026 rose/bacopa container plantings.
 
 ## Scope
 
-This note is the working guide for redoing the three Knock Out Rose + White Bacopa
-containers for the 2026 season. It consolidates the current container assumptions,
-history, material quantities, planting layout, and refresh sequence into one place.
+This note is the working guide for the Knock Out Rose + White Bacopa containers for
+the 2026 season. It consolidates the current container assumptions, history,
+material quantities, planting layout, and refresh sequence into one place.
 
 ## Current Container Assumptions
 
-- Three planters total
-- Each planter is about 18.5 in wide x 18 in tall overall, with about 17 in of
-  workable interior diameter
-- They sit against the front garage
-- Two planters get morning sun
-- One planter at the south end gets most-day sun and will dry faster
-- Irrigation is manual only
+- Four rose/bacopa planters total for 2026
+- Three front garage planters:
+  - Each planter is about 18.5 in wide x 18 in tall overall, with about 17 in of
+    workable interior diameter
+  - They sit against the front garage
+  - Two planters get morning sun
+  - One planter at the south end gets most-day sun and will dry faster
+  - Irrigation is manual only
+- One south-side experimental planter:
+  - Slightly different cement composite planter
+  - Slightly taller than the main front planters
+  - Uses a 3 gal Proven Winners AquaPots Lite Round Self-Watering Plastic Insert
+  - Includes two added wick pieces
+  - Track separately from the three front planters because the reservoir/extra
+    wick setup changes dry-down behavior
 - Original 2025 planting used Knock Out Roses with candytuft and a pea-gravel base
 - The planters could not be moved into the garage for winter 2025-26, and the
   planting did not overwinter successfully
@@ -24,9 +32,32 @@ history, material quantities, planting layout, and refresh sequence into one pla
   White Bacopa 'Snowstorm Giant Snowflake', and replace the heavy pea-gravel base
   with a lighter setup that is easier to move indoors next winter
 
+## Current Installed Status - June 18, 2026
+
+- The rose and bacopa planters are installed for the 2026 season.
+- The active setup is three front-of-house planters plus one south-side experimental
+  planter.
+- All four planters contain one Petite Knock Out Rose purchased in a 2.5 qt
+  container plus two smaller White Bacopa plants, approximately 1 qt each. The
+  layout is triangular, with the bacopa facing outward.
+- The three main front planters use Miracle-Gro Moisture Control planter mix
+  blended 50:50 with last year's soil, 6 inches of styrofoam in the bottom, and a
+  landscape fabric layer above the styrofoam.
+- The south-side experimental planter uses the
+  [Proven Winners AquaPots Lite Round Self-Watering Plastic Insert](https://www.homedepot.com/p/PROVEN-WINNERS-AquaPots-Lite-Round-Self-Watering-Plastic-Insert-ZZPLININSZPAP/328076635),
+  Home Depot Internet #328076635 / model #ZZPLININSZPAP, with two added wick
+  pieces. The insert is taller, but the experiment planter is also slightly taller.
+- No fertilizer, iron, sulfur, inoculant, or other amendments have been added to
+  either configuration yet.
+- The planters were watered in 1-2 times per day for the first two weeks.
+
 ## Potting Mix Assumption
 
-If new potting mix is needed, the default purchase assumption is:
+Current installed mix is Miracle-Gro Moisture Control planter mix blended 50:50
+with last year's soil in the three main front planters.
+
+If new potting mix is needed for future work, the previous default purchase
+assumption was:
 
 - Miracle-Gro Organic Choice Potting Mix with Compost, 50 qt bag
 
@@ -53,6 +84,9 @@ Current buy-guide products for this planter project:
 - Potting mix: Miracle-Gro Organic Choice Potting Mix with Compost, 50 qt bag
 - Spring container refresh inoculant: DYNOMYCO Mycorrhizal Inoculant, 100 g pouch
 - Container fertilizer: Jack's Classic Soluble Petunia FeED 20-6-22
+- Self-watering insert for the south-side experiment: 3 gal Proven Winners AquaPots Lite
+  Round Self-Watering Plastic Insert, Home Depot Internet #328076635 / model
+  #ZZPLININSZPAP
 
 Buy-guide posture:
 
@@ -68,6 +102,9 @@ Working assumption for planning:
 - Use the 17 in interior diameter as the practical planting-space guide
 - Treat the earlier 57 qt figure as a rough manufacturer-volume reference, not the
   more useful planting-layout dimension
+- These volume estimates apply to the three front garage planters. The south-side
+  experimental cement composite planter has a different internal setup because of
+  the self-watering insert and added wick pieces.
 
 At roughly 17 in of usable width, these are best treated as one rose plus edge
 companions, not as mixed multi-anchor containers.
@@ -210,6 +247,9 @@ Use White Bacopa 'Snowstorm Giant Snowflake' as the edge spiller:
 - A 3-plant bacopa ring is possible if starting with small nursery plants and the
   rose is not oversized, but it will fill fast
 - Keep bacopa near the outer edge, not tight against the rose crown
+- Set bacopa plugs so the top of the nursery plug is level with or slightly proud
+  of the finished container mix. Do not bury the crown or lower stems under extra
+  mix.
 - Bias placement toward the front and sides so the spill habit is visible from the
   porch approach
 - Give the south-end planter the strongest bacopa count or closest monitoring,
@@ -277,14 +317,56 @@ Strategies to avoid:
 - Saucers or blocked drainage that leave the rose roots sitting wet
 - Driving fertilizer too hard, which can push excess top growth and increase water use
 
-Reservoir ideas considered:
+Reservoir and experiment notes:
 
-- A true self-watering planter can extend watering intervals, but these rose pots are
-  not built as reservoir planters
+- The three front rose pots are not built as reservoir planters
+- The south-side experimental planter is the self-watering test case: it has an
+  AquaPots Lite insert in the bottom plus two added wick pieces
+- Treat the south-side planter's moisture pattern as separate from the three front
+  planters; the reservoir may extend intervals, but the rose root zone still needs
+  finger-checking from the top
+- The reservoir is currently being filled twice weekly and is not running out of
+  water. That confirms the reservoir is staying supplied, but does not prove the
+  upper root zone is moist enough.
+- Use the 2-inch soil moisture check to decide when top watering is needed. Use
+  reservoir level only to decide when the reservoir needs refilling.
 - Improvised buried reservoirs, spikes, or globes are not the main recommendation for
-  this setup because they take up root space and often create uneven wet/dry behavior
-- If extra watering help is still needed after the rebuild, mulch, mix refresh,
-  bacopa shade, and optional polymer crystals are the preferred first steps
+  the standard front setup because they take up root space and often create uneven
+  wet/dry behavior
+- If extra watering help is still needed in the standard front planters after the
+  rebuild, mulch, mix refresh, bacopa shade, and optional polymer crystals are the
+  preferred first steps
+- Apply fertilizer and iron as soil/top drenches unless future label or setup review
+  gives a clear reason to feed through the reservoir
+
+## South-Side Experiment Troubleshooting
+
+If the south-side bacopa looks worse because it was planted too low, correct the
+planting height by lifting the bacopa root ball rather than burying the crown from
+above.
+
+Best correction while the planting is still new:
+
+1. Water lightly first if the mix is dry, just enough to keep the root ball intact.
+2. Use a narrow trowel or fingers to loosen around the bacopa plug.
+3. Lift the whole plug/root ball with as little root disturbance as possible.
+4. Add fresh potting mix underneath the plug.
+5. Reset the bacopa so the plug surface is level with or slightly above the finished
+   container mix.
+6. Firm gently around the sides, not over the crown.
+7. Water from the top to settle the reset plant, then resume separate moisture checks
+   for the self-watering experiment.
+
+Avoid simply topdressing over a low bacopa planting. Extra mix over the crown and
+lower stems can keep the center too wet and reduce airflow, especially in the
+south-side planter where the AquaPots insert and added wick pieces already change
+the wet/dry pattern.
+
+Follow-up:
+
+- Recheck the reset bacopa after 3-7 days.
+- Recheck the south-side experiment again 7-14 days farther into the experiment,
+  comparing bacopa appearance, 2-inch soil moisture, and reservoir refill interval.
 
 Fertilizer approach:
 

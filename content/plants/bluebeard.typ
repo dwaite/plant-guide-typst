@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. Cap the emitter by late September; the schedule's natural taper aligns well with this plant's needs.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Dark Knight Bluebeard actively prefers dry-to-average conditions. In clay soil, overwatering is a genuine kill risk — a single waterlogging event in late fall or early winter can cause root rot. Cap the emitter by late September; the schedule's natural taper aligns well with this plant's needs.
 
 === Fertilization
 

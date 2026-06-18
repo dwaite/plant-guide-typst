@@ -199,7 +199,7 @@ fall-weighted nitrogen target range of #lawn-n-range-display lb N/1,000 sq ft.
 
 #pe("Wetting Agent",
   role:    [Summer Irrigation Efficiency — Reduces Clay Hydrophobia],
-  apply:   [Lawn and all beds (\~6,000 sq ft) — Revive liquid concentrate in Chapin G362D hose-end sprayer. Follow immediately with irrigation.],
+  apply:   [Lawn and all beds (\~6,000 sq ft) — Revive liquid concentrate in Chapin G362D hose-end sprayer. Apply on an assigned watering day and follow with the scheduled irrigation cycle.],
   timing:  [Late June to mid-July; second application in early August in hot, dry years.],
   note:    [Use liquid concentrate only — not granular Revive, which is a 5-1-1 fertilizer containing phosphorus (incompatible with this property's high-P soil). Selection rule: use irrigation-water chemistry first (bicarbonate/carbonate/RSC risk) to decide whether a carbonate-focused track is warranted; otherwise optimize wetting-agent choice by seasonal cost and reapplication cadence. Wetting agents do not replace the no-P + EDDHA + micronutrient soil strategy.],
   sources: [Revive liquid concentrate (1-gal jug, \~\$25, covers 4,000 sq ft — approximately 1.5 jugs per application). Colorado Ace Hardware and Home Depot (Colorado-specific retail — confirm spring stock).])

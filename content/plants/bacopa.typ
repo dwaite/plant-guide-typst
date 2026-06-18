@@ -6,12 +6,12 @@
 #import "../generated/plant_data.typ": plant-established, plant-lifespan, plant-tier, plant-failure
 
 #plant-header("White Bacopa (Potted)", "Sutera cordata 'Snowstorm Giant Snowflake'", "bacopa", establishment: plant-established("bacopa"), lifespan: plant-lifespan("bacopa"), tier: plant-tier("bacopa"), failure: plant-failure("bacopa"))[
- White Bacopa is an annual trailing plant selected as the 2026 replacement for candytuft in the Knock Out Rose containers. The Snowstorm Giant Snowflake variety was chosen specifically for heat tolerance and continuous bloom — it produces masses of small white flowers from late May through first frost with only a brief slowdown in peak July heat. Its trailing habit spills softly over pot edges and weaves between rose canes without competing for visual attention. Annual in Zone 5b, so no overwintering concern. It is a strong fit for the two morning-sun pots and more heat-tolerant than standard bacopa in the hotter south-end pot.
+ White Bacopa is an annual trailing plant selected as the 2026 replacement for candytuft in the Knock Out Rose containers. The Snowstorm Giant Snowflake variety was chosen specifically for heat tolerance and continuous bloom — it produces masses of small white flowers from late May through first frost with only a brief slowdown in peak July heat. Its trailing habit spills softly over pot edges and weaves between rose canes without competing for visual attention. Annual in Zone 5b, so no overwintering concern. It is a strong fit for the two morning-sun front pots and more heat-tolerant than standard bacopa in the hotter south-end front pot and south-side experimental pot.
 ]
 
 === Watering
 
-Similar preferences to the Knock Out Roses — consistent moisture, tolerant of brief dry periods. Check soil moisture at 2-inch depth rather than watering on a fixed schedule; daily watering is not always necessary in the two morning-sun pots, but the south-end pot may need water sooner during hot weather.
+Similar preferences to the Knock Out Roses — consistent moisture, tolerant of brief dry periods. Check soil moisture at 2-inch depth rather than watering on a fixed schedule; daily watering is not always necessary in the two morning-sun front pots, but the south-end front pot may need water sooner during hot weather. The south-side self-watering experiment should be checked separately because its insert and wick setup can change both dry-down speed and the wet/dry pattern near the root zone.
 
 === Fertilization
 

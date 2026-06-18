@@ -104,11 +104,17 @@ effective at no cost to the irrigation schedule.
 summer. It combines a wetting agent with humic acid and chelated iron — addressing
 hydrophobicity, organic fraction, and iron availability in one product. Available
 at most Colorado garden centers. Apply via hose-end sprayer across lawn and beds,
-then run irrigation immediately to carry the wetting agent into the soil.
+then run the scheduled assigned-day irrigation cycle to carry the wetting agent
+into the soil.
 
 **Timing:** Late June to mid-July, when summer hydrophobicity is developing. One
 application per season is typically sufficient; a second in early August is an
 option in hot, dry years.
+
+**2026 drought-program note:** Treat the wetting-agent pass as a water-efficiency
+priority, not an excuse to add irrigation. It improves penetration on the assigned
+watering days, which matters more when legal watering opportunities are limited and
+monthly use above 11,999 gallons carries a surcharge.
 
 **Not a substitute for compost:** Wetting agents improve penetration of existing
 water but do not build the organic matter that provides long-term water-holding

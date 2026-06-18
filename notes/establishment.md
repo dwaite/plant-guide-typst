@@ -45,11 +45,14 @@ Plants in this cohort:
 - White Yarrow, Agastache, Penstemon, Sedum, Blue Grama, Switchgrass
 
 ### New 2025 (potted)
-- Knock Out Roses — first season; standard potted-plant management
+- Knock Out Roses — active in four 2026 rose/bacopa containers; standard
+  potted-plant management, with the south-side self-watering experiment tracked
+  separately
 - Candytuft — survival through winter 2025–26 uncertain (see below)
 
 ### New 2026 (potted annual replacement)
-- White Bacopa — annual replacement for candytuft in the front garage rose pots; no overwintering expected
+- White Bacopa — annual replacement for candytuft in the active rose containers;
+  no overwintering expected
 
 ---
 

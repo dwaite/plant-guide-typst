@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well. No supplemental irrigation needed once the plant goes dormant in fall.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). Northwind Switchgrass is adaptable and tolerates both moderate drought and occasional wet periods in clay — it handles the shared schedule well. No supplemental irrigation needed once the plant goes dormant in fall.
 
 === Fertilization
 

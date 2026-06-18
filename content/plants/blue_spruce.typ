@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). The dense, low crown means drainage away from the root zone is critical — ensure the plant sits slightly raised above grade so water does not pool at the base. Clay moisture retention between cycles is adequate for this plant; the greater risk is overwatering rather than underwatering.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). The dense, low crown means drainage away from the root zone is critical — ensure the plant sits slightly raised above grade so water does not pool at the base. Clay moisture retention between cycles is adequate for this plant; the greater risk is overwatering rather than underwatering.
 
 === Fertilization
 

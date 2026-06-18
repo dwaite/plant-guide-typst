@@ -10,7 +10,7 @@
 
 === Watering
 
-Use 1 × 2 gph emitter (0.67 gal/cycle). White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. Clay's moisture retention between cycles keeps the root zone adequately moist; cap the emitter in September.
+Use 1 × 2 gph emitter (~0.93 gal/cycle at the current 28 min/zone runtime). White Yarrow is very drought tolerant and roots are susceptible to rot in persistently wet clay soil. Clay's moisture retention between cycles keeps the root zone adequately moist; cap the emitter in September.
 
 === Fertilization
 
