@@ -28,6 +28,8 @@ Minimum fields for new entries:
 Journal rules:
 
 - Record only actual work or explicit observations in the chronological log.
+- Use Denver local time (`America/Denver`) for dated records and time windows
+  unless a note explicitly says otherwise; do not infer UTC/system time.
 - Use approximate dates when needed, and mark them clearly.
 - Keep rates in both practical product terms and agronomic terms when known,
   especially for lawn nitrogen.
@@ -40,8 +42,6 @@ Journal rules:
 - Honeylocust EDDHA iron pass: June status not yet recorded in this journal.
 - Japanese Maple replacement selection: Japanese Maple confirmed dead June 18;
   replacement tree selection remains pending.
-- Spring lawn nitrogen: both spring halves reported complete June 18; front-yard
-  application date/rate not recorded.
 - Container refresh: owner reported June 18 that all containers are done. The
   rose/bacopa planters and non-rose patio/barrel/raised-bed roster were documented
   June 18. No fertilizer, iron, inoculant, sulfur, or other amendments have been
@@ -63,7 +63,7 @@ Journal rules:
 
 ## Chronological Log
 
-### Approx. Mid-April 2026 - Spring Lawn Nitrogen Split
+### Approx. Mid-April 2026 - First Spring Lawn Nitrogen Half
 
 - **Category:** lawn
 - **Action/product:** Applied Scotts Green Max 27-0-2 to the entire lawn.
@@ -76,7 +76,8 @@ Journal rules:
   greening up.
 - **Observed response/follow-up:** By May 12, lawn was reported about 90-95%
   green. Additional watering was being used to encourage recovery in areas
-  stressed by winter/early-spring drought.
+  stressed by winter/early-spring drought. This was the first half of the spring
+  lawn nitrogen split; no nitrogen was applied outside the lawn.
 - **Confidence:** reconstructed date; approximate rate; product and target
   confirmed by owner.
 
@@ -208,7 +209,7 @@ Journal rules:
   flopping, or non-recovering wilt.
 - **Confidence:** exact date; prior daily-runtime duration approximate.
 
-### June 3, 2026 - Back Yard Spring Lawn Nitrogen Catch-Up
+### June 3, 2026 - Second Spring Lawn Nitrogen Half
 
 - **Category:** lawn
 - **Action/product:** Applied the remaining conservative spring ammonium sulfate
@@ -219,8 +220,10 @@ Journal rules:
 - **Target:** Back yard lawn.
 - **Water-in/weather context:** Timed ahead of the Wednesday evening irrigation
   cycle under the SACWSD two-day watering restriction.
-- **Observed response/follow-up:** Front yard application remains pending; owner
-  will update after it is applied.
+- **Observed response/follow-up:** Owner later clarified that the mid-April lawn
+  application was the first half of the spring nitrogen split and this June 3
+  back-yard pass was the second half. Spring lawn nitrogen is complete; no
+  nitrogen was applied outside the lawn.
 - **Confidence:** exact date; rate is target/reconstructed from lawn area and
   planned conservative half-pass.
 
@@ -376,6 +379,18 @@ Journal rules:
 - **Confidence:** exact date for owner status report; application details not yet
   recorded.
 
+### June 18, 2026 - Daylily Maintenance Status Confirmed
+
+- **Category:** perennials, observation
+- **Action/product:** Owner reported that daylilies have been maintained with
+  deadheading and removal of spent stems.
+- **Amount/rate/dilution:** Not applicable; no product applied.
+- **Target:** Daylilies.
+- **Water-in/weather context:** Not applicable.
+- **Observed response/follow-up:** Keep daylily deadheading out of the open
+  catch-up task list unless future bloom or stem cleanup falls behind.
+- **Confidence:** exact date for owner status report.
+
 ### June 18, 2026 - June Catch-Up Queue Built
 
 - **Category:** planning, lawn, trees/shrubs, containers, weeds, irrigation
@@ -404,11 +419,12 @@ Journal rules:
 
 - **Category:** lawn, observation
 - **Action/product:** Owner reported that both halves of the spring lawn nitrogen
-  application have now been applied.
+  split have been applied: the mid-April Scotts Green Max lawn pass was the first
+  half, and the June 3 back-yard ammonium sulfate pass was the second half.
 - **Amount/rate/dilution:** Back yard half-pass was logged June 3 at the planned
-  conservative rate. Front-yard application date, product amount, and exact rate
-  not recorded in this journal.
-- **Target:** Front and back lawn.
+  conservative rate. Mid-April first-half rate is reconstructed in that entry.
+- **Target:** Lawn only. No nitrogen has been applied to trees, shrubs, beds, or
+  containers.
 - **Water-in/weather context:** SACWSD Stage 1 restrictions remain active:
   assigned irrigation days are Wednesday and Saturday, with no irrigation from
   10am-6pm and no Monday irrigation.
@@ -419,8 +435,8 @@ Journal rules:
   patches likely from small-dog urine. Do not schedule summer N now; review any
   stress-blend product only in late July after irrigation distribution is better
   understood.
-- **Confidence:** exact date for owner status report; front-yard application
-  details not recorded.
+- **Confidence:** exact date for owner status report; later owner clarification
+  resolved the prior front-yard pending/open-item ambiguity.
 
 ### June 18, 2026 - Japanese Maple Confirmed Dead
 

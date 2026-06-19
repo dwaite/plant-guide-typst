@@ -1,7 +1,7 @@
 # Plant Care Guide Context
 
 Shared project context for AI coding agents. Agent-specific behavior should live in
-`CLAUDE.md` and `AGENTS.md`; duplicated domain facts should not.
+`AGENTS.md`; duplicated domain facts should not.
 
 ## What This Is
 A Typst document project that compiles to a PDF plant care guide for a specific
@@ -28,6 +28,9 @@ residential property in Commerce City, Colorado (Zone 5b).
 - **Critical rule:** Never add phosphorus to any in-ground plant
 - **Last frost:** ~May 10
 - **First fall frost:** ~October 5
+- **Time zone:** All dated schedules, watering windows, and operational notes use
+  Commerce City / Denver local time (`America/Denver`) unless explicitly stated.
+  Do not interpret times as UTC or as a system/server time zone.
 - **Wind:** Significant; prevailing winter winds from north and northwest
 - **2026 drought program:** South Adams County Water & Sanitation District declared
   Stage 1 drought restrictions on May 13, 2026. This property's assigned outdoor

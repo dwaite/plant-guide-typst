@@ -165,7 +165,7 @@ make install-hooks
 
 ---
 
-## Key Property Facts (for Claude Code context)
+## Key Property Facts
 
 - **Location:** Commerce City, CO, Zone 5b
 - **Soil:** Clay-dominant, pH 7.27, HIGH phosphorus, LOW nitrogen & potassium,
