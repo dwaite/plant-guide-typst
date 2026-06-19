@@ -93,6 +93,9 @@ observed, record the final facts in `notes/2026_journal.md`.
 
 - [ ] Review the week against this checklist.
 - [ ] Copy completed work and explicit observations into `notes/2026_journal.md`.
+- [ ] Identify follow-up cleanup for the next planning pass: dead Japanese Maple
+      replacement/data/content updates, remaining product-label cache work, and
+      any unresolved journal open items.
 - [ ] Set the first July tasks: replacement planting or September deferral,
       weekly spruce mite checks, container feed/iron cycle, and late-July lawn
       stress-product review.
