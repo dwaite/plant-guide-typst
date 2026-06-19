@@ -40,7 +40,7 @@ observed, record the final facts in `notes/2026_journal.md`.
 
 ## Time-Blocked Task List
 
-### Saturday After 6pm - Legal Watering Window
+### Saturday June 20 After 6pm - Legal Watering Window
 
 - [ ] Apply the first SoakORR pass to the lawn only.
 - [ ] Immediately run sprinkler zones to water SoakORR in with about 1/2 inch.
@@ -48,7 +48,7 @@ observed, record the final facts in `notes/2026_journal.md`.
 - [ ] Record zone names, dry corners, overspray/runoff, obvious head issues, and
       any places where added runtime is helping or wasting water.
 
-### Sunday Morning
+### Sunday June 21 Morning
 
 - [ ] Prune Miss Kim and Yankee Doodle lilacs after bloom.
 - [ ] Pull weeds near desirable plants while soil is workable from Saturday
@@ -57,7 +57,7 @@ observed, record the final facts in `notes/2026_journal.md`.
 - [ ] Run the weekly Sunday update: mark what happened, move unfinished tasks
       once, and identify what should be copied into `notes/2026_journal.md`.
 
-### Monday - No Watering
+### Monday June 22 - No Watering
 
 - [ ] No irrigation.
 - [ ] Prep the Wednesday micronutrient/EDDHA materials: products, buckets,
@@ -66,7 +66,7 @@ observed, record the final facts in `notes/2026_journal.md`.
       EDDHA.
 - [ ] Confirm actual container fertilizer and Liquid Ironite label rates.
 
-### Tuesday Evening
+### Tuesday June 23 Evening
 
 - [ ] Stage container feed/iron supplies for the next legal watering window.
 - [ ] Check rose/bacopa pots for 2-inch moisture, drainage, leaf color, and the
@@ -74,7 +74,7 @@ observed, record the final facts in `notes/2026_journal.md`.
 - [ ] Check the dead Japanese Maple drip/emitter setup and decide whether it
       should be capped until replacement.
 
-### Wednesday After 6pm - Legal Watering Window
+### Wednesday June 24 After 6pm - Legal Watering Window
 
 - [ ] Apply the May micronutrient catch-up to living in-ground plants if still
       not done.
@@ -84,14 +84,14 @@ observed, record the final facts in `notes/2026_journal.md`.
 - [ ] Apply container rose feed and/or container iron as top soil drenches if
       label timing allows.
 
-### Thursday / Friday
+### Thursday June 25 / Friday June 26
 
 - [ ] Do the first Dwarf Globe Blue Spruce mite check.
 - [ ] Start rocky-area post-emergent spot work only if label conditions fit:
       calm wind, acceptable temperature, and clear separation from planted beds.
 - [ ] Use nonselective treatment only in rock/hardscape zones.
 
-### Saturday After 6pm - Second Legal Watering Window
+### Saturday June 27 After 6pm - Second Legal Watering Window
 
 - [ ] Use this window for any water-in task selected during the Sunday update.
 - [ ] If sprinkler inspection showed major waste, prioritize head adjustment or
@@ -100,7 +100,7 @@ observed, record the final facts in `notes/2026_journal.md`.
       schedule the next lawn pass about one month later unless conditions justify
       a label-supported shorter interval.
 
-### Sunday Morning - Rolling Update
+### Sunday June 28 Morning - Rolling Update
 
 - [ ] Review the week against this checklist.
 - [ ] Copy completed work and explicit observations into `notes/2026_journal.md`.

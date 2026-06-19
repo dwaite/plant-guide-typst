@@ -639,7 +639,7 @@ def render_index(plants: list[dict]) -> str:
         "- `data/plants.toml` - structured plant data and canonical roster/order",
         "- `plants/` - plant-specific notes converted from the guide source",
         "- `topics/` - watering, soil, fertilizer, wildlife, weed control, checklist, task grid, products, and lawn guide",
-        "- `notes/` - working notes and property rationale",
+        "- `notes/` - working notes, property rationale, and product-label summaries",
         "- `decisions/` - planter and property decisions copied from docs",
         "- `research/` - source/audit notes",
         "",
@@ -778,6 +778,13 @@ def build_snapshot(staging_root: Path, include_images: bool) -> SnapshotStats:
     for source in sorted((ROOT / "notes").glob("*.md")):
         copy_file(source, snapshot / "notes" / source.name)
         stats.notes_copied += 1
+
+    product_labels_dir = ROOT / "notes" / "product_labels"
+    if product_labels_dir.exists():
+        for source in sorted(product_labels_dir.rglob("*.md")):
+            target = snapshot / "notes" / "product_labels" / source.relative_to(product_labels_dir)
+            copy_file(source, target)
+            stats.notes_copied += 1
 
     context_doc = ROOT / "docs" / "context.md"
     if context_doc.exists():

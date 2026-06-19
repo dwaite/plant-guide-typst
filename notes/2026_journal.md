@@ -57,6 +57,9 @@ Journal rules:
   after watering; sprinkler runtime was increased 20% as a temporary response.
 - Wetting-agent pass: SoakORR selected from current inventory for the first
   lawn-only wetting-agent pass; not yet recorded as applied.
+- Product-label cache: SoakORR label is now locally cached in
+  `notes/product_labels/`; remaining active products still need local label
+  capture as future reference work.
 
 ## Chronological Log
 

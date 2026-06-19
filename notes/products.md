@@ -196,7 +196,8 @@ drops — forgiving of scheduling gaps, which is its main advantage over liquid.
 SoakORR is the active 2026 product because it is already in inventory, has a much
 lower concentrate volume than Revive, and fits the carbonate/hydrophobicity
 wetting-agent track. Its label rate is 3-6 fl oz per 1,000 sq ft, applied monthly
-as conditions warrant.
+as conditions warrant. See `notes/product_labels/soakorr/label.md` for the local
+label capture and extracted application constraints.
 
 - First 2026 target: lawn only (~3,000 sq ft), not beds/trees/containers.
 - First 2026 rate: low label rate, 3 fl oz per 1,000 sq ft = ~9 fl oz total.
@@ -252,6 +253,7 @@ Primary references used for this matrix:
 - Aqua-Aid AQM rough pricing signal: precisionusa.com item `108AML2.5G` (2 × 2.5 gal pack)
 - SoakORR use-rate listing: ryanknorrlawncare.com/products/soakorr
 - SoakORR shipped pricing (March 2026): user-provided current checkout totals (32 oz $59; 1 gal $92; 2.5 gal $215)
+- Local SoakORR label capture: `notes/product_labels/soakorr/label.md`
 - Irrigation water quality interpretation context: extension.psu.edu irrigation-water-quality-guidelines-for-turfgrass-sites; extension.oregonstate.edu catalog `PNW 597`
 
 ### Pre-Emergent — Lawn (keep granular)
